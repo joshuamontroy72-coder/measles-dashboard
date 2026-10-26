@@ -1,1 +1,120 @@
-{}
+{
+  "updated_at": "2026-10-26T19:21:22.477565+00:00",
+  "total": 1069,
+  "channels": [
+    {
+      "id": "journals",
+      "label": "Journals (Europe PMC / PubMed)",
+      "icon": "📄",
+      "count": 456
+    },
+    {
+      "id": "preprints",
+      "label": "Preprints (bioRxiv / medRxiv)",
+      "icon": "📋",
+      "count": 0
+    },
+    {
+      "id": "trials",
+      "label": "ClinicalTrials.gov",
+      "icon": "🔬",
+      "count": 175
+    },
+    {
+      "id": "who_sage",
+      "label": "WHO / SAGE guidance",
+      "icon": "🌐",
+      "count": 1
+    },
+    {
+      "id": "nitag",
+      "label": "National NITAG guidance",
+      "icon": "🏛",
+      "count": 1
+    },
+    {
+      "id": "surveillance",
+      "label": "Surveillance & outbreak reports",
+      "icon": "📊",
+      "count": 50
+    },
+    {
+      "id": "news",
+      "label": "News",
+      "icon": "📰",
+      "count": 386
+    },
+    {
+      "id": "press",
+      "label": "Press releases",
+      "icon": "📣",
+      "count": 0
+    }
+  ],
+  "policy_areas": [
+    {
+      "id": "pregnancy_mmr",
+      "label": "MMR in pregnancy",
+      "count": 20
+    },
+    {
+      "id": "pregnancy_infection",
+      "label": "Measles/rubella infection in pregnancy",
+      "count": 51
+    },
+    {
+      "id": "schedule_timing",
+      "label": "Second-dose timing",
+      "count": 22
+    },
+    {
+      "id": "general_measles",
+      "label": "General measles",
+      "count": 986
+    }
+  ],
+  "fetcher_log": [
+    {
+      "source": "Europe PMC (journals + preprints)",
+      "fetched": 2710,
+      "kept": 497,
+      "error": null,
+      "fetched_at": "2026-10-26T19:20:56.753035+00:00"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "fetched": 175,
+      "kept": 175,
+      "error": null,
+      "fetched_at": "2026-10-26T19:20:58.256444+00:00"
+    },
+    {
+      "source": "WHO IRIS (guidance / SAGE reports)",
+      "fetched": 0,
+      "kept": 0,
+      "error": null,
+      "fetched_at": "2026-10-26T19:21:06.110188+00:00"
+    },
+    {
+      "source": "Measles outbreak news (WHO DON / targeted)",
+      "fetched": 41,
+      "kept": 41,
+      "error": null,
+      "fetched_at": "2026-10-26T19:21:08.061970+00:00"
+    },
+    {
+      "source": "Direct feeds (CIDRAP/ProMED/MMWR/ECDC/…)",
+      "fetched": 121,
+      "kept": 0,
+      "error": null,
+      "fetched_at": "2026-10-26T19:21:14.460786+00:00"
+    },
+    {
+      "source": "Google News (CBC/STAT/Reuters/PHAC/…)",
+      "fetched": 490,
+      "kept": 345,
+      "error": null,
+      "fetched_at": "2026-10-26T19:21:22.265783+00:00"
+    }
+  ]
+}
