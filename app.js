@@ -135,8 +135,8 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
 async function loadData() {
   try {
     const [evResp, covResp] = await Promise.all([
-      fetch("data/evidence.json"),
-      fetch("data/coverage.json"),
+      fetch("evidence.json"),
+      fetch("coverage.json"),
     ]);
     allRecords = await evResp.json();
     coverage   = covResp.ok ? await covResp.json() : {};
