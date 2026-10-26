@@ -33,13 +33,11 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-ROOT = Path(__file__).parent.parent
-DATA_DIR = ROOT / "data"
-DATA_DIR.mkdir(exist_ok=True)
+ROOT = Path(__file__).parent
 
-EVIDENCE_PATH = DATA_DIR / "evidence.json"
-COVERAGE_PATH = DATA_DIR / "coverage.json"
-REVIEWED_IDS_PATH = Path(__file__).parent / "reviewed_ids.txt"
+EVIDENCE_PATH = ROOT / "evidence.json"
+COVERAGE_PATH = ROOT / "coverage.json"
+REVIEWED_IDS_PATH = ROOT / "reviewed_ids.txt"
 
 # ---------------------------------------------------------------------------
 # Channel definitions (order = display order in the UI)
