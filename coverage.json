@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-29T17:29:52.315294+00:00",
-  "total": 1109,
+  "updated_at": "2026-10-30T17:04:48.796309+00:00",
+  "total": 1086,
   "channels": [
     {
       "id": "journals",
       "label": "Journals (Europe PMC / PubMed)",
       "icon": "📄",
-      "count": 477
+      "count": 480
     },
     {
       "id": "preprints",
@@ -42,7 +42,7 @@
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 404
+      "count": 378
     },
     {
       "id": "press",
@@ -60,7 +60,7 @@
     {
       "id": "pregnancy_infection",
       "label": "Measles/rubella infection in pregnancy",
-      "count": 57
+      "count": 49
     },
     {
       "id": "schedule_timing",
@@ -70,51 +70,51 @@
     {
       "id": "general_measles",
       "label": "General measles",
-      "count": 1021
+      "count": 1006
     }
   ],
   "fetcher_log": [
     {
       "source": "Europe PMC (journals + preprints)",
-      "fetched": 2775,
-      "kept": 518,
+      "fetched": 2767,
+      "kept": 521,
       "error": null,
-      "fetched_at": "2026-10-29T17:29:26.953356+00:00"
+      "fetched_at": "2026-10-30T17:04:25.073265+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 175,
       "kept": 175,
       "error": null,
-      "fetched_at": "2026-10-29T17:29:28.737941+00:00"
+      "fetched_at": "2026-10-30T17:04:26.336003+00:00"
     },
     {
       "source": "WHO IRIS (guidance / SAGE reports)",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-29T17:29:37.189013+00:00"
+      "fetched_at": "2026-10-30T17:04:32.669492+00:00"
     },
     {
       "source": "Measles outbreak news (WHO DON / targeted)",
-      "fetched": 41,
-      "kept": 41,
+      "fetched": 29,
+      "kept": 28,
       "error": null,
-      "fetched_at": "2026-10-29T17:29:38.965878+00:00"
+      "fetched_at": "2026-10-30T17:04:34.003255+00:00"
     },
     {
       "source": "Direct feeds (CIDRAP/ProMED/MMWR/ECDC/…)",
       "fetched": 121,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-29T17:29:44.431561+00:00"
+      "fetched_at": "2026-10-30T17:04:40.658718+00:00"
     },
     {
       "source": "Google News (CBC/STAT/Reuters/PHAC/…)",
-      "fetched": 477,
-      "kept": 364,
+      "fetched": 480,
+      "kept": 351,
       "error": null,
-      "fetched_at": "2026-10-29T17:29:52.044837+00:00"
+      "fetched_at": "2026-10-30T17:04:48.515244+00:00"
     }
   ]
 }
