@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T16:13:21.187459+00:00",
-  "total": 1107,
+  "updated_at": "2026-11-01T17:13:13.456465+00:00",
+  "total": 1051,
   "channels": [
     {
       "id": "journals",
@@ -36,13 +36,13 @@
       "id": "surveillance",
       "label": "Surveillance & outbreak reports",
       "icon": "📊",
-      "count": 51
+      "count": 50
     },
     {
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 401
+      "count": 346
     },
     {
       "id": "press",
@@ -55,66 +55,66 @@
     {
       "id": "pregnancy_mmr",
       "label": "MMR in pregnancy",
-      "count": 20
+      "count": 19
     },
     {
       "id": "pregnancy_infection",
       "label": "Measles/rubella infection in pregnancy",
-      "count": 58
+      "count": 50
     },
     {
       "id": "schedule_timing",
       "label": "Second-dose timing",
-      "count": 20
+      "count": 24
     },
     {
       "id": "general_measles",
       "label": "General measles",
-      "count": 1019
+      "count": 967
     }
   ],
   "fetcher_log": [
     {
       "source": "Europe PMC (journals + preprints)",
-      "fetched": 2759,
+      "fetched": 2754,
       "kept": 519,
       "error": null,
-      "fetched_at": "2026-10-31T16:12:56.133922+00:00"
+      "fetched_at": "2026-11-01T17:12:51.354749+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 175,
       "kept": 175,
       "error": null,
-      "fetched_at": "2026-10-31T16:12:57.687678+00:00"
+      "fetched_at": "2026-11-01T17:12:52.218341+00:00"
     },
     {
       "source": "WHO IRIS (guidance / SAGE reports)",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-31T16:13:05.297183+00:00"
+      "fetched_at": "2026-11-01T17:13:01.874840+00:00"
     },
     {
       "source": "Measles outbreak news (WHO DON / targeted)",
       "fetched": 42,
       "kept": 41,
       "error": null,
-      "fetched_at": "2026-10-31T16:13:07.421048+00:00"
+      "fetched_at": "2026-11-01T17:13:03.668823+00:00"
     },
     {
       "source": "Direct feeds (CIDRAP/ProMED/MMWR/ECDC/…)",
       "fetched": 121,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-31T16:13:13.416146+00:00"
+      "fetched_at": "2026-11-01T17:13:06.573354+00:00"
     },
     {
       "source": "Google News (CBC/STAT/Reuters/PHAC/…)",
-      "fetched": 481,
-      "kept": 361,
+      "fetched": 414,
+      "kept": 305,
       "error": null,
-      "fetched_at": "2026-10-31T16:13:20.961161+00:00"
+      "fetched_at": "2026-11-01T17:13:13.240428+00:00"
     }
   ]
 }
