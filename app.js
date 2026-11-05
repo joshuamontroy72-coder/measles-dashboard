@@ -225,24 +225,53 @@ function isJournalPublisher(r) {
 function renderSituation() {
   const slot = document.getElementById("situation-slot");
 
-  // Strict: surveillance channel + known agency + not a journal publisher
-  const latest =
-    allRecords.find(r =>
-      r.channel === "surveillance" && isEpiAgencySource(r) && !isJournalPublisher(r)
-    ) ||
-    allRecords.find(r =>
-      r.channel === "surveillance" && !isJournalPublisher(r)
-    ) ||
-    allRecords.find(r => r.channel === "who_sage") ||
-    null;
+  // "Latest signal" = the newest OFFICIAL item: WHO/SAGE, NITAG, or an agency
+  // surveillance / outbreak report.  News and journal articles never qualify,
+  // items dated in the future are ignored, and anything older than MAX_AGE_DAYS
+  // is shown as "no new official signal" instead of masquerading as current.
+  const MAX_AGE_DAYS = 45;
+  const OFFICIAL = ["who_sage", "nitag", "surveillance"];
+  const now = Date.now();
+  const DAY = 86400000;
 
-  if (!latest) { slot.innerHTML = ""; return; }
+  const ts = r => {
+    const t = new Date(recDate(r)).getTime();
+    return Number.isNaN(t) ? null : t;
+  };
+
+  const official = allRecords
+    .filter(r =>
+      OFFICIAL.includes(r.channel) &&
+      !isJournalPublisher(r) &&
+      r.upgraded_from !== "news" && r.upgraded_from !== "press_release" &&
+      ts(r) !== null && ts(r) <= now + DAY
+    )
+    .sort((a, b) => ts(b) - ts(a));
+
+  if (!official.length) { slot.innerHTML = ""; return; }
+
+  const latest = official[0];
+  const ageDays = Math.floor((now - ts(latest)) / DAY);
+
+  if (ageDays > MAX_AGE_DAYS) {
+    slot.innerHTML = `
+      <div class="situation" role="status" aria-live="polite">
+        <div class="body">
+          <div class="tag">No new official signal in the last ${MAX_AGE_DAYS} days</div>
+          <h3>Most recent: ${esc(latest.title || "(No title)")}</h3>
+          <p>${esc(latest.source || "")} · ${fmtDate(recDate(latest))}</p>
+        </div>
+        ${latest.url ? `<a href="${esc(latest.url)}" target="_blank" rel="noopener" style="white-space:nowrap;font-weight:600;font-size:13px;color:var(--brand)">↗ Open</a>` : ""}
+      </div>
+    `;
+    return;
+  }
 
   slot.innerHTML = `
     <div class="situation" role="status" aria-live="polite">
       <span class="pulse"></span>
       <div class="body">
-        <div class="tag">Latest signal · ${fmtDate(recDate(latest))}</div>
+        <div class="tag">Latest signal · ${esc(latest.source || "")} · ${fmtDate(recDate(latest))}</div>
         <h3>${esc(latest.title || "(No title)")}</h3>
         ${latest.summary ? `<p>${esc(latest.summary.slice(0, 200))}…</p>` : ""}
       </div>
@@ -250,10 +279,6 @@ function renderSituation() {
     </div>
   `;
 }
-
-// ---------------------------------------------------------------------------
-// Source coverage panel
-// ---------------------------------------------------------------------------
 
 function renderCoverage() {
   const slot = document.getElementById("coverage-slot");
