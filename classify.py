@@ -13,11 +13,11 @@ Inclusion rule: all relevant records are kept (no animal-only exclusion —
   animal immunogenicity studies are useful for schedule questions).
 
 CHANGES in this version
-  * The "surveillance" keyword upgrade no longer applies to journal articles,
-    news or press releases.  Before, any paper whose abstract said
-    "surveillance system" (e.g. an outbreak cohort study in BMJ) was
-    re-labelled as a surveillance report and disappeared from the Journals
-    channel.
+  * The "surveillance" keyword upgrade still applies to journal-type records
+    (MMWR etc.) and news (VAERS etc.), but for journal articles it now requires a named
+    surveillance series (MMWR, VAERS, Eurosurveillance, CCDR …).  Before, any paper whose
+    abstract said "surveillance system" (e.g. an outbreak cohort study in BMJ)
+    was re-labelled as a surveillance report and left the Journals channel.
   * Curated records always pass the relevance filter.
 """
 
@@ -35,11 +35,19 @@ from config import (
     CANADA_KEYWORDS,
 )
 
-# source_types that must never be re-labelled by the keyword upgrade below
-_PROTECTED_TYPES = (
-    "guideline", "clinical_trial", "preprint",
-    "journal", "journal_article", "news", "press_release",
-    "surveillance", "outbreak_report",
+# source_types that are never re-labelled by the keyword upgrade below
+_PROTECTED_TYPES = ("guideline", "clinical_trial", "preprint")
+
+# Peer-reviewed article types are only upgraded when they come from a named
+# surveillance-report series or reporting system (MMWR, VAERS, Eurosurveillance,
+# CCDR …).  An outbreak cohort study that merely says "surveillance system" in
+# its abstract stays a journal article.
+_JOURNAL_TYPES = ("journal", "journal_article")
+_SURVEILLANCE_SERIES = (
+    "mmwr", "morbidity and mortality weekly",
+    "vaers", "vaccine adverse event reporting",
+    "eurosurveillance", "weekly epidemiological record",
+    "ccdr", "canada communicable disease report",
 )
 
 
@@ -99,10 +107,20 @@ def classify(rec: dict) -> None:
     )
 
     # ---- surveillance flag -------------------------------------------------
-    # Only for items with no stronger classification (blogs, "other").
-    # Fetchers already label agency bulletins (PHAC / CDC / ECDC) correctly.
-    if rec.get("source_type") not in _PROTECTED_TYPES:
-        if _has(text, SURVEILLANCE_KEYWORDS):
+    # Upgrade source_type to "surveillance" for AEFI / VAERS / MMWR type items
+    # (only if not already a stronger classification).
+    stype = rec.get("source_type")
+    if stype not in _PROTECTED_TYPES:
+        if stype in _JOURNAL_TYPES:
+            # Peer-reviewed articles: only named surveillance-report series /
+            # reporting systems count.  Generic words such as "surveillance" or
+            # "outbreak" appear in countless ordinary papers.
+            upgrade = _has(text, _SURVEILLANCE_SERIES)
+        else:
+            upgrade = _has(text, SURVEILLANCE_KEYWORDS)
+        if upgrade:
+            # remember what it was, so the banner can ignore re-labelled news
+            rec.setdefault("upgraded_from", stype)
             rec["source_type"] = "surveillance"
 
     # ---- species -----------------------------------------------------------
