@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Updated recommendations on measles post-exposure prophylaxis (NACI statement of February 13, 2025)",
+    "summary": "NACI strongly recommends completing the routine 2-dose MMR schedule and that measles post-exposure prophylaxis (PEP) be offered to people not expected to be immune. Infants under 6 months: immunoglobulin within 6 days; unvaccinated infants 6 to under 12 months: MMR within 72 hours or immunoglobulin within 6 days; pregnant people who are unvaccinated or seronegative: IVIg within 6 days; immunocompromised people 6 months and older are stratified by risk. Web-published June 4, 2025.",
+    "url": "https://www.canada.ca/en/public-health/services/publications/vaccines-immunization/national-advisory-committee-immunization-statement-updated-recommendations-measles-post-exposure-prophylaxis.html",
+    "source": "NACI / PHAC",
+    "source_type": "guideline",
+    "published_date": "2025-02-13",
+    "journal": "National Advisory Committee on Immunization",
+    "authors": "NACI",
+    "extra": {"nitag": "NACI", "country": "Canada"}
+  },
+  {
+    "title": "Summary of NACI statement of February 13, 2025: Updated recommendations on measles post-exposure prophylaxis",
+    "summary": "Plain-language summary of the NACI statement on measles post-exposure prophylaxis. Routine MMR coverage above 95% is needed, and PEP should be offered to individuals not expected to have measles immunity.",
+    "url": "https://www.canada.ca/en/public-health/services/publications/vaccines-immunization/national-advisory-committee-immunization-summary-updated-recommendations-measles-post-exposure-prophylaxis.html",
+    "source": "NACI / PHAC",
+    "source_type": "guideline",
+    "published_date": "2025-02-13",
+    "journal": "National Advisory Committee on Immunization",
+    "authors": "NACI",
+    "extra": {"nitag": "NACI", "country": "Canada"}
+  },
+  {
+    "title": "Addendum to the updated recommendations on measles post-exposure prophylaxis",
+    "summary": "NACI addendum (June 4, 2025) removing Table 6 (comparison of human immunoglobulin products) from the statement. Any available IVIg product may be used for measles PEP, including off-label use, to avoid delays.",
+    "url": "https://www.canada.ca/en/public-health/services/publications/vaccines-immunization/national-advisory-committee-immunization-addendum-updated-recommendations-measles-post-exposure-prophylaxis.html",
+    "source": "NACI / PHAC",
+    "source_type": "guideline",
+    "published_date": "2025-06-04",
+    "journal": "National Advisory Committee on Immunization",
+    "authors": "NACI",
+    "extra": {"nitag": "NACI", "country": "Canada"}
+  }
+]
