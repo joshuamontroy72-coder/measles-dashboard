@@ -225,6 +225,37 @@
     "pharma": false
   },
   {
+    "title": "Wisconsin Measles Cases Reach 431 as Chippewa County…",
+    "summary": "Wisconsin Measles Cases Reach 431 as Chippewa County… inkl",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNTYxYlJkc3M5akZoOVQ0TUU1X3EyeWNtTlFEd2ptVko1Mi12VnplQUhBd21oOWpETDBUWmFKSGxFUWZaMWZfYjVWV1hjWUJwTlZwdWdQdUlmZFJGRWhTNHZzMTBNQnQ4Um9XT3FxTjJpMWVBWnBXVmF3M3RWaWlsQkNubFRWYzgyQmhUbTlFSVFxcXN1dUZPeFF1RzMzNTVoMFhyRDhvYnlzdUpCUUZGVFl6SjQtbEo4eDliRzZ3THRRNWs5Y3VlTE5Tc2NIS21NNGhER1Y3NA?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-05",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:dccddaf1ecd8386a",
+    "first_seen": "2026-11-05",
+    "date": "2026-11-05",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Population level immunity to measles and rubella 5 years before and after the MR campaign in urban Vellore, South India",
     "summary": "India aims to eliminate measles and rubella (MR) by 2026. Despite >90% vaccination coverage reported in NFHS-5 and NFHS-6, assessing population-level immunity gaps remains essential to guide strategies for protecting vulnerable groups. We leveraged biobanked samples from two community-based serosurveys conducted in urban Vellore in 2013 and 2022, representing periods 5 years before and after the nationwide MR vaccination campaign. Age- and sex-stratified participants were tested for measles- and rubella-specific IgG antibodies using ELISA. Seroprevalence estimates were compared across surveys, and generalized additive models (GAM) were used to assess age-specific seropositivity patterns. Effective reproduction numbers (Re) for measles and rubella were estimated using mixture modeling approaches. A total of 1,029 samples from 2013 and 718 samples from 2022 were analyzed. Measles seroprevalence increased from 33%, 41%, 47%, and 48% in the 1-5, 6-15, 16-40, and >40 years age groups in 2013 to 77%, 71%, 89%, and 96% respectively in 2022. Rubella seroprevalence increased from 32%, 67%, 76%, and 73% to 93%, 84%, 93%, and 98% across the same age groups. No significant sex-based differences were observed for either infection. The estimated Re declined from 7.4 to 3.6 for measles and from 1.8 to 0.8 for rubella following the MR campaign period. Population immunity improved by 2022, particularly for rubella. However, lower measles seroprevalence among children aged 1-15 years indicates persistent immunity gaps despite high vaccine coverage, highlighting the need for continued surveillance and targeted strategies to achieve measles-rubella elimination in India.",
     "url": "https://doi.org/10.1080/21645515.2026.2750748",
@@ -548,7 +579,7 @@
     "url": "https://doi.org/10.4103/aam.aam_939_26",
     "doi": "10.4103/aam.aam_939_26",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-11-03",
     "journal": "Annals of African medicine",
     "authors": "Chandrashekar C, Peachiappan PA, Jandwa H, Patel M, Jadeja A.",
@@ -569,10 +600,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -671,37 +703,6 @@
     "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
-  },
-  {
-    "title": "New York declares state disaster emergency over rising measles cases. Here's what that means - ABC News",
-    "summary": "New York declares state disaster emergency over rising measles cases. Here's what that means ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcm9OZXoxbTF4eVZzc1Z3cWdJaDJoTHhjVG9CWVJ3VkFFV1ZtNWtNTnlzUFRMeGdxc0xWZFAtV3NfWm5USmo0QnFTYy1TaG5vNTF0ckVOSkZrMWl4V1BQd25RLXZaNnFiZ2IyMjczZUNTVFlhdVotaWJvY1VhX1R4WnhfZG4xem0tN1Z6Y25GendFOE5uYWpDSGxwVHpvQXdmbkhYX2J3?oc=5",
-    "doi": "",
-    "source": "News",
-    "source_type": "news",
-    "published_date": "2026-11-03",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "feed": "measles outbreak search"
-    },
-    "date": "2026-11-03",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "na",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false,
-    "id": "url:ce6fa866e3d11677",
-    "first_seen": "2026-11-05"
   },
   {
     "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
@@ -1251,7 +1252,7 @@
     "source_type_label": "News article",
     "reviewed": false,
     "pharma": false,
-    "duplicate_count": 17,
+    "duplicate_count": 12,
     "also_reported_by": [
       "CTV News",
       "News",
@@ -2560,6 +2561,8 @@
     "extra": {
       "search_term": "congenital measles"
     },
+    "id": "url:1847dec522bac441",
+    "first_seen": "2026-11-05",
     "date": "2026-10-28",
     "policy_area": [
       "pregnancy_infection"
@@ -2573,9 +2576,7 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false,
-    "id": "url:1847dec522bac441",
-    "first_seen": "2026-11-05"
+    "pharma": false
   },
   {
     "title": "Measles outbreak that contributed to Canada losing elimination status highlights risks from persistent immunity gaps",
@@ -5892,6 +5893,37 @@
     "pharma": false
   },
   {
+    "title": "Contagious case of measles reported at Montreal’s airport",
+    "summary": "Contagious case of measles reported at Montreal’s airport Global News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sMzNpck4zVFI0RnpNajFrMlNsdldYMDJKOXhzNkd5ckdJSlNuS1o1OHhOell0UVg3QjQwSzlyU056UVBsY0JZU01NVHlzZ21keGI4UXRySEJMeUhMandERTFmN0p5a05nSmVkbmRvWXFMdmJ4Q2FtVlZ3?oc=5",
+    "doi": "",
+    "source": "Global News",
+    "source_type": "news",
+    "published_date": "2026-10-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak Canada"
+    },
+    "id": "url:c7715dd74b2a50e6",
+    "first_seen": "2026-11-05",
+    "date": "2026-10-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Predictive Performance of Inflammatory Markers for Severe Disease Progression in Measles: A Retrospective Cohort Analysis",
     "summary": "The recent European measles resurgence has driven record-high hospitalization, yet objective tools for early risk stratification remain scarce. This study evaluated the diagnostic accuracy of routine admission inflammatory biomarkers for predicting severe disease and prolonged hospitalization. We retrospectively analyzed 509 patients with laboratory-confirmed measles hospitalized during a Romanian outbreak (November 2023-August 2025). Severe disease was defined via a clinical composite endpoint (intensive-care admission, mechanical ventilation, supplemental oxygen, acute respiratory failure, or sepsis). Biomarker discriminative performance was assessed using receiver-operating-characteristic (ROC) curves, Youden-optimal cut-offs, and DeLong tests. Multivariable logistic and Cox proportional-hazards regression evaluated independent predictors of severity and time to discharge. The cohort exhibited a pediatric predominance (median age: 3.0 years; 20% infants) with an 82% unvaccinated rate; 33% developed severe disease. Interleukin-6 (IL-6) demonstrated superior diagnostic accuracy (AUC 0.863, 95% CI 0.820-0.898; cut-off ≥ 7 pg/mL, sensitivity 73%, specificity 93%), significantly outperforming ferritin (AUC 0.800) and conventional markers (all <i>p</i> < 0.001). Multivariable modeling established IL-6 and ferritin as the sole independent predictors of severity. All intensive-care admissions occurred exclusively for unvaccinated patients (5.0% vs. 0%). Severe disease, pneumonia, male sex, unvaccinated status and elevated C-reactive protein (CRP) independently predicted prolonged hospitalization. Admission IL-6 and ferritin serve as robust, independent prognostic biomarkers that accurately identify high-risk measles patients, providing objective criteria with which to optimize clinical triage and inpatient management during outbreaks.",
     "url": "https://doi.org/10.3390/microorganisms14102314",
@@ -6353,6 +6385,37 @@
     "pharma": false
   },
   {
+    "title": "New York declares state disaster emergency over rising measles cases. Here's what that means - ABC News",
+    "summary": "New York declares state disaster emergency over rising measles cases. Here's what that means ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcm9OZXoxbTF4eVZzc1Z3cWdJaDJoTHhjVG9CWVJ3VkFFV1ZtNWtNTnlzUFRMeGdxc0xWZFAtV3NfWm5USmo0QnFTYy1TaG5vNTF0ckVOSkZrMWl4V1BQd25RLXZaNnFiZ2IyMjczZUNTVFlhdVotaWJvY1VhX1R4WnhfZG4xem0tN1Z6Y25GendFOE5uYWpDSGxwVHpvQXdmbkhYX2J3?oc=5",
+    "doi": "",
+    "source": "Breaking News, Latest News and Videos",
+    "source_type": "news",
+    "published_date": "2026-10-06",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR second dose age schedule"
+    },
+    "id": "url:ce6fa866e3d11677",
+    "first_seen": "2026-11-05",
+    "date": "2026-10-06",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "What Pennsylvania’s measles outbreak could mean for pregnancy care across America",
     "summary": "What Pennsylvania’s measles outbreak could mean for pregnancy care across America The 19th News",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUVZRTmJaVFp5eE9BVlc1UTdjS3dSYU5ZUEVYNGp2TGNUY0s5aF9XaWdnTWt1ck5najZvMmdaaU9JYkdRMVNObUhBMXJOdk1pLTNkVzl6R3dMRlB5UFpldHhhdnFDaHpEYlVDVEJWbVctYW5PQkpYVUxNdGEzUQ?oc=5",
@@ -6539,7 +6602,11 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "Breaking News, Latest News and Videos"
+    ]
   },
   {
     "title": "Pennsylvania confirms more than 1,000 measles cases",
@@ -11619,6 +11686,37 @@
     "pharma": false
   },
   {
+    "title": "JID for Clinicians: Reduced hepatitis B vaccine schedule for infants, measles transmission during travel and more",
+    "summary": "JID for Clinicians: Reduced hepatitis B vaccine schedule for infants, measles transmission during travel and more IDSA",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcTBvQmgzbm15bjRsRE1na3JjWG1aMmdUeXZzSVdpeDlRQTFLVV9vVWE5amtNQ2hqa2k2NUFYUGNabnBIY1d5emZFNTYyQ3VRWXFkYWlYYmhiTGlmc3E0Ujc4b1J2d2UwRlFkV21wWmFDNDYxVmp2SE1sSWlaZEtmX2tSLXJYT2psTVM2VEJkQk5Bb3ZaQ3lTM2ZRQ3lkcGc3R0hkcWtCTnQweF9IelRuMFBIeDdqUUVra0R6Z0R1eHBVRzJkSVRrUTUyMTVLWFpqLUJVajNzS001alk0VjVlcUd1TGlPMjZCOWpXUTh0OVZEY2U3elE?oc=5",
+    "doi": "",
+    "source": "IDSA",
+    "source_type": "news",
+    "published_date": "2026-09-08",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR 18 months schedule recommendation"
+    },
+    "id": "url:61d0ec49f734f0b0",
+    "first_seen": "2026-11-05",
+    "date": "2026-09-08",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Measles immunity in a large urban population in Northeast Brazil: a population-based assessment using PRNT and ELISA",
     "summary": "<h4>Objectives</h4>Waning measles immunity in post-elimination settings may increase susceptibility and facilitate viral reintroduction. This study assessed measles immunity in an urban population in Northeast Brazil using neutralizing antibody testing and IgG serology.<h4>Methods</h4>A population-based seroprevalence study was conducted in 2024 among residents aged ≥2 years in 30 sentinel areas of Salvador, Brazil. Measles-specific IgG antibodies were measured by ELISA in all participants, and neutralizing antibodies were assessed by plaque reduction neutralization test (PRNT) in a stratified subsample (n=671). Seroprevalence was estimated by age group. Agreement between ELISA and PRNT was evaluated using Cohen's kappa, and factors associated with PRNT positivity were examined using logistic regression adjusted for age and sex.<h4>Results</h4>Among participants, 60.8% were female and 38.3% were aged ≥50 years. Overall seroprevalence was 91.4% by PRNT and 85.4% by ELISA, with 86.3% agreement between assays (kappa = 0.34, p < 0.001). The highest PRNT seropositivity was observed among individuals aged 10-19 years and ≥50 years, whereas the highest PRNT seronegativity occurred among young adults aged 20-29 years (23.4%). In adjusted analyses, children and adolescents aged 5-19 years had lower odds of PRNT positivity compared with those aged 2-4 years. No significant differences were observed by sex.<h4>Conclusions</h4>Despite high overall seroprevalence, relevant immunity gaps were identified, particularly among young adults, indicating increased susceptibility to measles in this urban population. The combined use of PRNT and ELISA highlights the need for targeted vaccination strategies in post-elimination urban settings.",
     "url": "https://doi.org/10.1016/j.ijid.2026.109110",
@@ -13470,7 +13568,7 @@
     "url": "https://doi.org/10.15585/mmwr.mm7533a1",
     "doi": "10.15585/mmwr.mm7533a1",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-08-27",
     "journal": "MMWR. Morbidity and mortality weekly report",
     "authors": "Miller PB, Routledge I, Pollock ED, Mathis AD, Raines K, Mistry D, Mitchell L, Perez T, Johnson L, Ghinai I, Biggerstaff M, Gostic KM, Kahn R, Tori M.",
@@ -13491,10 +13589,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -18952,7 +19051,7 @@
     "url": "https://doi.org/10.1080/21645515.2026.2709262",
     "doi": "10.1080/21645515.2026.2709262",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-07-28",
     "journal": "Human vaccines & immunotherapeutics",
     "authors": "Lu P, Lou M, Qiu Z, Xia R, Shu J, Lu G.",
@@ -18973,10 +19072,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -20368,7 +20468,7 @@
     "url": "https://doi.org/10.15585/mmwr.mm7528a1",
     "doi": "10.15585/mmwr.mm7528a1",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-07-23",
     "journal": "MMWR. Morbidity and mortality weekly report",
     "authors": "Dahlke M, Dautel KA, Vynnycky E, Still C, Papadopoulos T, Kabore HJ, Singh T, Zimmerman LA, Morales M.",
@@ -20391,10 +20491,11 @@
       "Measles/rubella infection in pregnancy"
     ],
     "pregnancy_related": true,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -21736,7 +21837,7 @@
     "url": "https://doi.org/10.15585/mmwr.mm7527a1",
     "doi": "10.15585/mmwr.mm7527a1",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-07-16",
     "journal": "MMWR. Morbidity and mortality weekly report",
     "authors": "Pray I, Roguet A, Dutcher HA, Schauer S, Deraedt M, Rasmussen M, Westergaard R, Antkiewicz D, Henning E, Everett D, Shafer M.",
@@ -21757,10 +21858,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -26107,7 +26209,7 @@
     "url": "https://doi.org/10.15585/mmwr.mm7523a2",
     "doi": "10.15585/mmwr.mm7523a2",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-06-18",
     "journal": "MMWR. Morbidity and mortality weekly report",
     "authors": "Crisp CA, Milton S, Lutz CS, Northcott K, McClaran K, Hernandez C, Almas S, Holbrooks Z, Wells K, Sajewski E, Texas 2025 Measles Outbreak Response Team, CDC Epi-Aid Measles Response Team, Morrison A, Schroeder C, Nolen M, Gonzales J, Martinez D, Rai S, Shetty V, Shuford JA.",
@@ -26128,10 +26230,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -27603,7 +27706,7 @@
     "url": "https://doi.org/10.15585/mmwr.mm7521a1",
     "doi": "10.15585/mmwr.mm7521a1",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-06-04",
     "journal": "MMWR. Morbidity and mortality weekly report",
     "authors": "Ly AN, Shotts A, Torres T, Peacock G, Sugerman DE, Crisp C, Rodriguez G, Dang T, Martinez D, Rai S, Shetty V, Meehan A, Hocevar Adkins S, Filardo TD, Dowling NF, Wells K.",
@@ -27624,10 +27727,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -28696,7 +28800,7 @@
     "url": "https://doi.org/10.15585/mmwr.mm7520a1",
     "doi": "10.15585/mmwr.mm7520a1",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-05-28",
     "journal": "MMWR. Morbidity and mortality weekly report",
     "authors": "Wang D, Rogers CC, Lutz CS, Sajewski ET, Almas S, Clemmons NS, Gressick KA, Hernandez C, Holbrooks Z, Kidd MT, Martínez DL, McClaran K, Mendoza E, Milton JS, Northcott KD, Raines K, Rai S, Wells K, Sugerman DE, Crisp C, Shetty V, Filardo TD, Shuford JA.",
@@ -28717,10 +28821,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -35252,7 +35357,7 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42101598/",
     "doi": "",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-04-01",
     "journal": "American family physician",
     "authors": "Coles S.",
@@ -35273,10 +35378,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -37676,7 +37782,7 @@
     "url": "https://doi.org/10.15585/mmwr.mm7509a1",
     "doi": "10.15585/mmwr.mm7509a1",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-03-12",
     "journal": "MMWR. Morbidity and mortality weekly report",
     "authors": "Stanislawski E, Romero A, Holzinger N, Healy R, Webb NJ, Cruz K, Sievers M, Aung S, Swisher S, Stefanos R, Yara-Zelenski J, Kofman AD, Pierce R, Onyeuku C, Pilote KM, Leung J, Smelser C.",
@@ -37697,10 +37803,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -38458,7 +38565,7 @@
     "url": "https://doi.org/10.15585/mmwr.mm7508a2",
     "doi": "10.15585/mmwr.mm7508a2",
     "source": "Europe PMC",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-03-05",
     "journal": "MMWR. Morbidity and mortality weekly report",
     "authors": "Alak M, Taffanelli Latorre M, Foster PM, Armstrong J, Levent F, Chen MH, Doyle TJ.",
@@ -38481,10 +38588,11 @@
       "Measles/rubella infection in pregnancy"
     ],
     "pregnancy_related": true,
+    "upgraded_from": "journal_article",
     "species": "na",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -43079,7 +43187,7 @@
     "url": "https://doi.org/10.1248/bpb.b26-00304",
     "doi": "10.1248/bpb.b26-00304",
     "source": "PubMed",
-    "source_type": "journal_article",
+    "source_type": "surveillance",
     "published_date": "2026-01-01",
     "journal": "Biological & pharmaceutical bulletin",
     "authors": "Matsumura K, Horibe M, Ino Y, Sugishita K, Yamazaki T, Maeno M et al.",
@@ -43097,10 +43205,11 @@
       "General measles"
     ],
     "pregnancy_related": false,
+    "upgraded_from": "journal_article",
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
+    "channel": "surveillance",
+    "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false
   },
@@ -45989,7 +46098,8 @@
     "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-05",
+    "upgraded_from": "surveillance"
   },
   {
     "id": "naci_cig_measles",
@@ -51273,6 +51383,7 @@
     "source_type_label": "Surveillance report",
     "reviewed": false,
     "pharma": false,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-05",
+    "upgraded_from": "surveillance"
   }
 ]

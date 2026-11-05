@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-11-05T14:48:10.919671+00:00",
-  "total": 1509,
-  "latest_signal": null,
-  "latest_official_date": "2025-06-04",
+  "updated_at": "2026-11-05T14:59:42.939040+00:00",
+  "total": 1512,
+  "latest_signal": {
+    "id": "doi:10.4103/aam.aam_939_26",
+    "title": "Epidemiological Characteristics and Clinical Outcomes of Vaccine-associated Urticaria: A Retrospective Cross-sectional Analysis of the Vaccine Adverse Event Reporting System Database (1990-2025)",
+    "url": "https://doi.org/10.4103/aam.aam_939_26",
+    "source": "Europe PMC",
+    "channel": "surveillance",
+    "date": "2026-11-03",
+    "age_days": 2
+  },
+  "latest_official_date": "2026-11-03",
   "latest_signal_max_age_days": 45,
   "channels": [
     {
       "id": "journals",
       "label": "Journals (Europe PMC / PubMed)",
       "icon": "📄",
-      "count": 943
+      "count": 931
     },
     {
       "id": "preprints",
@@ -39,13 +47,13 @@
       "id": "surveillance",
       "label": "Surveillance & outbreak reports",
       "icon": "📊",
-      "count": 2
+      "count": 14
     },
     {
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 222
+      "count": 225
     },
     {
       "id": "press",
@@ -73,7 +81,7 @@
     {
       "id": "general_measles",
       "label": "General measles",
-      "count": 1433
+      "count": 1436
     }
   ],
   "fetcher_log": [
@@ -82,56 +90,56 @@
       "fetched": 3,
       "kept": 3,
       "error": null,
-      "fetched_at": "2026-11-05T14:43:33.716550+00:00"
+      "fetched_at": "2026-11-05T14:57:51.026674+00:00"
     },
     {
       "source": "PubMed (new measles papers)",
       "fetched": 372,
       "kept": 362,
       "error": null,
-      "fetched_at": "2026-11-05T14:43:38.850531+00:00"
+      "fetched_at": "2026-11-05T14:57:55.621204+00:00"
     },
     {
       "source": "Europe PMC (journals + preprints)",
       "fetched": 3303,
       "kept": 1067,
       "error": null,
-      "fetched_at": "2026-11-05T14:45:02.365848+00:00"
+      "fetched_at": "2026-11-05T14:59:15.058680+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 175,
       "kept": 175,
       "error": null,
-      "fetched_at": "2026-11-05T14:45:03.850598+00:00"
+      "fetched_at": "2026-11-05T14:59:16.254485+00:00"
     },
     {
       "source": "WHO IRIS (guidance / SAGE reports)",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-11-05T14:45:15.137796+00:00"
+      "fetched_at": "2026-11-05T14:59:23.313243+00:00"
     },
     {
       "source": "Measles outbreak news (WHO DON / targeted)",
-      "fetched": 41,
-      "kept": 41,
+      "fetched": 37,
+      "kept": 37,
       "error": null,
-      "fetched_at": "2026-11-05T14:45:16.528763+00:00"
+      "fetched_at": "2026-11-05T14:59:24.589605+00:00"
     },
     {
       "source": "Direct feeds (CIDRAP/ProMED/MMWR/ECDC/…)",
       "fetched": 121,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-11-05T14:45:21.280574+00:00"
+      "fetched_at": "2026-11-05T14:59:28.676194+00:00"
     },
     {
       "source": "Google News (CBC/STAT/Reuters/PHAC/…)",
-      "fetched": 278,
-      "kept": 201,
+      "fetched": 281,
+      "kept": 204,
       "error": null,
-      "fetched_at": "2026-11-05T14:45:26.873722+00:00"
+      "fetched_at": "2026-11-05T14:59:34.143539+00:00"
     }
   ]
 }
