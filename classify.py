@@ -11,6 +11,14 @@ Each record is tagged with:
 Relevance filter: record must have a measles/MMR/rubella signal in its text.
 Inclusion rule: all relevant records are kept (no animal-only exclusion —
   animal immunogenicity studies are useful for schedule questions).
+
+CHANGES in this version
+  * The "surveillance" keyword upgrade no longer applies to journal articles,
+    news or press releases.  Before, any paper whose abstract said
+    "surveillance system" (e.g. an outbreak cohort study in BMJ) was
+    re-labelled as a surveillance report and disappeared from the Journals
+    channel.
+  * Curated records always pass the relevance filter.
 """
 
 from __future__ import annotations
@@ -27,6 +35,13 @@ from config import (
     CANADA_KEYWORDS,
 )
 
+# source_types that must never be re-labelled by the keyword upgrade below
+_PROTECTED_TYPES = (
+    "guideline", "clinical_trial", "preprint",
+    "journal", "journal_article", "news", "press_release",
+    "surveillance", "outbreak_report",
+)
+
 
 def _text(rec: dict) -> str:
     """Lower-cased concatenation of searchable fields."""
@@ -40,7 +55,7 @@ def _text(rec: dict) -> str:
         (rec.get("extra") or {}).get("conditions", ""),
         (rec.get("extra") or {}).get("interventions", ""),
     ]
-    return " ".join(p for p in parts if p).lower()
+    return " ".join(p for p in parts if isinstance(p, str) and p).lower()
 
 
 def _has(text: str, keywords: list[str]) -> bool:
@@ -73,8 +88,7 @@ def classify(rec: dict) -> None:
         areas.append("schedule_timing")
 
     # Anything measles-relevant that doesn't fit a specific policy area is
-    # tagged as general_measles. Also add general_measles for outbreak
-    # / epidemiology items even if they carry a specific tag.
+    # tagged as general_measles.
     if not areas:
         areas.append("general_measles")
 
@@ -85,9 +99,9 @@ def classify(rec: dict) -> None:
     )
 
     # ---- surveillance flag -------------------------------------------------
-    # Upgrade source_type to "surveillance" for AEFI / VAERS / MMWR type items
-    # (only if not already a stronger classification)
-    if rec.get("source_type") not in ("guideline", "clinical_trial", "preprint"):
+    # Only for items with no stronger classification (blogs, "other").
+    # Fetchers already label agency bulletins (PHAC / CDC / ECDC) correctly.
+    if rec.get("source_type") not in _PROTECTED_TYPES:
         if _has(text, SURVEILLANCE_KEYWORDS):
             rec["source_type"] = "surveillance"
 
@@ -119,8 +133,11 @@ def is_relevant(rec: dict) -> bool:
     """
     Must have a measles / MMR / rubella signal.
     Clinical trials are always kept if they passed ClinicalTrials.gov queries.
+    Curated NITAG records are always kept.
     WHO IRIS items are kept if they mention measles-adjacent terms.
     """
+    if rec.get("curated"):
+        return True
     if rec.get("source_type") == "clinical_trial":
         return True   # fetched from targeted queries — always relevant
     text = _text(rec)
