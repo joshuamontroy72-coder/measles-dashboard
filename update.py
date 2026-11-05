@@ -279,6 +279,7 @@ def pick_latest_signal(records: list[dict], today: date) -> tuple[dict | None, s
         r for r in records
         if r.get("channel") in ("who_sage", "nitag", "surveillance")
         and r.get("source_type") not in ("journal", "journal_article")
+        and r.get("upgraded_from") not in ("news", "press_release")
         and (d := _record_date(r)) is not None and d <= today
     ]
     if not official:
