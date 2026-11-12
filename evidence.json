@@ -1,17 +1,433 @@
 [
   {
+    "title": "Phylogeography and transmission dynamics of the 2025-2026 Utah-Arizona measles outbreak: a retrospective genomic epidemiology study",
+    "summary": "Background: Measles outbreaks are increasing in frequency globally as vaccine coverage decreases. During the 2025-26 Utah-Arizona border outbreak, identifying where and between whom transmission occurred was essential for directing control measures. However, epidemiological data alone are not sufficient to infer transmission patterns. Methods: As part of the local and state-wide outbreak investigation, we conducted amplicon-based whole genome sequencing on residual diagnostic samples from confirmed measles cases collected from June 15, 2025-April 30, 2026. We reconstructed viral dispersal across Utah using Bayesian phylogeographic analyses. We evaluated genetic distance thresholds for identifying recent transmission by comparing single nucleotide polymorphism (SNP)-based genetic clusters w",
+    "url": "https://www.medrxiv.org/content/10.64898/2026.11.10.26367744v1?rss=1",
+    "doi": "",
+    "source": "medRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "medRxiv"
+    },
+    "id": "url:9c2589999f385b3a",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "U.S. may lose its measles elimination status after cases doubled in a year (Video)",
+    "summary": "U.S. may lose its measles elimination status after cases doubled in a year (Video) Social News XYZ",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSElqUkQzRlhDUzdkUldRQ3drcHFscU9BdUhOb1E5d25lN2U3SEg0c0tJai1mQ3psSk1PMm1xbkRPbWJ4OE9Ccld4OWREbExabDFIUEo5clpjN2xFVnNXSzUyZnFFZEs5d3E5cW02d1BJQ2lGZVU3dUxTdTNqRUFSZER5YVhpeVRuTEMtSTBCSUstTXNiRHlUUWdva0tZZ0djekZ2UkRMY0NpUUdqOEVSR3FPb2g2czNlNGfSAboBQVVfeXFMTkhJalJEM0ZYQ1M3ZFJXUUN3a3BxbHFPQXVITm9ROXduZTdlN0hINHNLSWotZkN6bEpNTzJtcW5ET21ieDhPQnJXeDlkRGxMWmwxSFBKOXJaYzdsRVZzV0s1MmZxRWRLOXdxOXFtNndQSUNpRmVVN3VMU3UzakVBUmREeWFYaXlUbkxDLUkwQklLLU1zYkR5VFFnb2tLWWdHY3pGdlJETGNDaVFHajhFUkdxT29oNnMzZTRn?oc=5",
+    "doi": "",
+    "source": "Social News XYZ",
+    "source_type": "news",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles elimination failure"
+    },
+    "id": "url:ba22c04bd6d5a4e7",
+    "first_seen": "2026-11-11",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Why US Measles Cases Have Surged to a 35-Year High",
+    "summary": "Why US Measles Cases Have Surged to a 35-Year High Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVI4bXdEc2pRQllWOUxuY2pwLVZneXQtVEdfdG9QZ29kc0RWZlNyNkQtWmxVeS1oUXFpcFlmLXBURlRZYXRhei1SckxSc2l2NW96MzU3a0VnWlFkTWt0TE0wdkFwMWFtSjByd3IyNlVZLVZHQzF2RXdtc1dsV1JDaHVIb3hzS1F5VW5tVlp5anFGRWFkZFl2VHRrNXVpQnEzbUs0?oc=5",
+    "doi": "",
+    "source": "Bloomberg.com",
+    "source_type": "news",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles resurgence vaccination"
+    },
+    "id": "url:534d73414ee2e55d",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
+    "summary": "Why the US, Mexico and Guatemala may lose their measles-free status Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXIza0N1Y0RKaDZwTkxFNV9DM1BGV3laanViVjgzeTdRcnhxVHJzZjdMM2hqdWp2dWJxX3FYS1R3emJuX01iNkR4bTZvTV9XNzZFWDl0UW8wUTdTR0tEd2FOQ3dERmVlRVRONHB5QWROa0ZRdURJX1lZeVJwWWV1Znd1azdvTXlYX0k2dDhUWW1ZZXlISWtVUDBfOEVYRGo1VHlYTGw1RFJuZ25k0gGyAUFVX3lxTFB6ZnFWeXhEY2pGNGI2MmljdVFFcmx2YzRFblVBTE1fZ1ZXZXZPUG9wcXpoWU16eGdibHlXaXNDN2Y1eWE2UFAtZGFlQnlJS2trNFBLMlVrRTVxRDMzODdhSlBoNHFTa3p1eVFMM3REbEUtMXhLOWJ5WWgxRW5OMmNmd0dicVVOMlZWalhVYlZoTDVVWkRFalR2N3FrbXJlcHlmc0pPVk1ZWDZpbU5GcXhKc1E?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:00a99178976fa737",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "US could lose measles elimination status this week amid surge in cases",
+    "summary": "US could lose measles elimination status this week amid surge in cases Scripps News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHhGZzJyNmRqZDlwSmdnZkN4X3N6NFFlOWVVQmJxbi1wSlFLY0J5Q1c0d1pmeG1tVUR0OV9qOEQ4dnI4UjlZNzg2VE1YQlRpdDVGaTB4cE8yZzgtekY4ZkQySmd5NXBweVhZNWZmZ08tXzN2cjNmMEVqbUVZTDRZbGh2bmRsNUtiTWFwZmhmN08yRnQwSUVqZEpzbHNJUk9zei1rcFdSZ0I?oc=5",
+    "doi": "",
+    "source": "Scripps News",
+    "source_type": "news",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR vaccine pregnancy safety"
+    },
+    "id": "url:9931f53e78dbcd9c",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "She’s delivered nearly 2,000 babies. The measles outbreak changed her view of vaccines",
+    "summary": "She’s delivered nearly 2,000 babies. The measles outbreak changed her view of vaccines Mezha.net",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdktHOEpudU9wQURxMnc3aTdQd1MxVHpobG9DU3dtbjA0Q0lzLWlKYkNyU1dQWlJiR0dJTDcyNlpqd2cyOVNmNDFTSHk0YUtOOFc4dkFJYnZpbFBlc0F2MXJtd3dxMW9GTElHQ01ibUV2dk5lSEdla1F0LVpNX2V1Vk1FYlYtcFF4?oc=5",
+    "doi": "",
+    "source": "Mezha.net",
+    "source_type": "news",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak pregnancy"
+    },
+    "id": "url:86f036932324d8e9",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "NBC News"
+    ]
+  },
+  {
+    "title": "History of measles cases in US as meeting could decide elimination status - ABC News",
+    "summary": "History of measles cases in US as meeting could decide elimination status ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1ZCSnhWMXQwazdacTJ6eWt0M3RERWpXbUN1RjVmUEotbVU4V0F2N2ZBSEx3aGgwLWNMTkRSMXdMWFpndktvTjN2QzlfTTBtb2tVRmpZeWstNk10eERUVmNtMWhBNmNOclByQnZuR0pQZzJOd3NJME5HQ0V2MGh5ZVNqZEZtTWw0a0MwemtpQUZkcmgySUpOdVdwdjVjZlhtSGdUSDJOZ9IBrAFBVV95cUxQRjJyLVRuXzA1SzExYmdCUmlCOThkRm9YUGlmTzM3eWE3UXA1VWtEMjlPTmMtNXBRdGtMbFgtWWR6NUxmdkNKRFJ5THlDcmlyTWpJYWpNVW11WTZWVHpVSlllTmNwYzRZbmFVRnNmbE1ockF2cnlxMklPVU4yVmZjOHNaMWExX1VObFV5eHpZX2tfSWRlZkVYMjFUY1BqMC0zNkF6dnR1TnV6Tktx?oc=5",
+    "doi": "",
+    "source": "Breaking News, Latest News and Videos",
+    "source_type": "news",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR second dose age schedule"
+    },
+    "id": "url:27f614d9f4e14352",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles and infants: How parents can protect babies from this highly contagious disease",
+    "summary": "Measles and infants: How parents can protect babies from this highly contagious disease UCHealth",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laHpaSTFyR1JVcWlNeVNDYURYRjhfV2lNQnc4aTRhN0M2YXp3cjd4SFBjOGJmeTBOLVhobHZwdjlQS0NPZnhwc0RvdkRvUHNTNTFUTVpkdVBxem9CaUJteldBUnI?oc=5",
+    "doi": "",
+    "source": "UCHealth",
+    "source_type": "news",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR second dose age schedule"
+    },
+    "id": "url:8d45560a7baeacc5",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Who Is Roberta Devers? Midwife Who Delivered 2,000 Babies Changes Her View On Vaccines Amid US Measles Outbreak; What We Know",
+    "summary": "Who Is Roberta Devers? Midwife Who Delivered 2,000 Babies Changes Her View On Vaccines Amid US Measles Outbreak; What We Know The Sunday Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNlpwaUIxMldlMFdHX0xOWTR1ZmctZm1fOGpTZEd5OXVPajhEZTNWUzNVRFlSc1J3YmxrWlRVQ2R1WE92RERmeXJqQ1RIblpHWmpNay12TFBCZ1JPQUQzUV8wN3V0M0xUZVBvaElqZ09yTGlaM2d4czcxQW9VRTNQWXVLTEY2STU1LVFZdXBwOUh3dGhOUDVBVjFGSDYyTGVudmRMLVAtNzI5YjhFWVo5R2tfTnhVU0VrbTRwVnRleGhLb0FCQjM5YTBmdjNZRDZ6Z1UwX0pOYmFvMmVtLVJ3b1llV3l2T0hlYWVqclBodHhZSzV5cnlLb1dla9IBgAJBVV95cUxNMlZqdWNRckV2MkhfSVMzblYyWGlIcmdkeHdpRGowTmJPS25BY1JocFVxQ1cyWWlCZGpSU1FmZE5kakVxZ0l3TVNhMjljaml5RjFkVlptM29ySVg3SDFwRzVwNVFTNTRfa2JxUGV3eEQwU0ViY1JpRDhjajVFNU5XZVE4eWhBOGlwOWEycUxXMURMdmEyaXluYWVvRHNKalRLQl90bDZfcm5QcmdNQmNaUHNRbFVvQTFuQ05HYUFVS2Zkc2c5b0RiMDgzTEcxalRoRW1oUU5NLXNNWWVSdDE4Q1FpMm1sV1VHVU1oZVhqWUVYTjV4emI5Q3FRbkVxaG9t?oc=5",
+    "doi": "",
+    "source": "The Sunday Guardian",
+    "source_type": "news",
+    "published_date": "2026-11-12",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak pregnancy"
+    },
+    "id": "url:1908a4f5ced8a5a5",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Association between residence in flood-prone areas and incomplete childhood vaccination in Bangladesh",
+    "summary": "Flooding events, closely linked to climate change and variability, can disrupt communities and health systems. Vaccination, a highly effective public health intervention, plays a crucial role in preventing child mortality worldwide. However, the relationship between flood-prone residence and early childhood vaccination remains underexplored. This study combines flood exposure data from the Global Flood Database with five waves of Demographic and Health Surveys (2004-2018) in Bangladesh, including vaccination histories for children under three years. Using geographic coordinates, households were matched to spatial flood data to identify whether children lived in flood-prone areas. Generalized Estimating Equations were applied, accounting for geographic clustering, to assess the association between flood exposure and incomplete vaccination overall, as well as by vaccine type and dose. The total sample included 19,021 children, with 12,930 of them being over 1 years old and included in the main analysis. Of those over one year, 16% were defined as living in flood-prone areas, and 84% were fully vaccinated. Children in flood-prone areas had a higher risk of missing the diphtheria-tetanus-pertussis (DTP; PR = 1.34, CI: 1.11-1.62) vaccine, the bacille Calmette-Guerin (BCG; PR = 1.24, CI: 1.02-1.50) vaccine, and the oral polio vaccine (OPV; PR = 1.32, CI: 1.10-1.59) vaccines. Associations were not precise for the measles-containing vaccine (MCV; PR = 1.11, CI: 0.92-1.35) alone, nor for all four vaccines combined (PR = 1.09, CI: 0.91-1.30). These findings highlight that there is an association between residence in flood prone areas and certain vaccines, highlighting the importance of maintaining access to routine immunization services during floods, which are expected to increase with climate change.",
+    "url": "https://doi.org/10.1016/j.envres.2026.126133",
+    "doi": "10.1016/j.envres.2026.126133",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-11",
+    "journal": "Environmental research",
+    "authors": "Schwarz E, Dimitrova A, Rerolle F, Benmarhnia T, Jean K.",
+    "affiliations": "Climate Change Epidemiology Lab, Scripps Institution of Oceanography, University of California, San Diego, California, USA; MESuRS Laboratory, Conservatoire national des arts et métiers, Paris, France. 292 Rue Saint-Martin, 75003 Paris. Electronic address: emilielschwarz@gmail.com. | Climate Change Epidemiology Lab, Scripps Institution of Oceanography, University of California, San Diego, California, USA. | Department of Epidemiology and Biostatistics, University of California, San Francisco, California, USA. | Climate Change Epidemiology Lab, Scripps Institution of Oceanography, University of California, San Diego, California, USA. | MESuRS Laboratory, Conservatoire national des arts et métiers, Paris, France. 292 Rue Saint-Martin, 75003 Paris; PACRI Unit, Conservatoire national des arts et métiers, Institut Pasteur, Paris, France; Eco-Evolutionary Mathematics team, IBENS, École Normale Supérieure, CNRS, INSERM, Université Paris Sciences & Lettres, Paris, France; Paris Recherche Santé Environnement Climat (PARSEC), Ecole Normale Supérieure, INSERM, Paris, France.",
+    "extra": {
+      "pmid": "43014648",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "doi:10.1016/j.envres.2026.126133",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Global measles resurgence in 2026 with a special focus on India: the urgent need for subnational interventions",
+    "summary": "",
+    "url": "https://doi.org/10.1080/23744235.2026.2762031",
+    "doi": "10.1080/23744235.2026.2762031",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-11",
+    "journal": "Infectious diseases (London, England)",
+    "authors": "Mohapatra RK, Kandi V, Mishra S, Sahu AR, Pattnaik P, Tuglo LS.",
+    "affiliations": "Department of Chemistry, Government College of Engineering, Keonjhar, Odisha, India. | Department of Microbiology, Prathima Institute of Medical Sciences, Karimnagar, Telangana, India. | School of Biotechnology, KIIT Deemed-to-be University, Bhubaneswar, Odisha, India. | Department of Botany, Vikash Degree College, Bargarh, Odisha, India. | Ami Polymer Pvt. Ltd, Khanvel, Dadra and Nagar Haveli, India. | Infectious Disease Epidemiology Research Group, Kumasi Centre for Collaborative Research in Tropical Medicine, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.",
+    "extra": {
+      "pmid": "43013718",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "doi:10.1080/23744235.2026.2762031",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Vaccination status and its association with complications among the patients admitted with measles in the dedicated measles hospitals, Dhaka, Bangladesh",
+    "summary": "Bangladesh is facing a major resurgence of measles, with more than 60,000 suspected cases and over 600 deaths reported between March and May 2026. Despite the growing outbreak, hospital-based evidence in Bangladesh remains limited regarding measles vaccination status and its association with clinical complications. To address this critical gap, our study aimed to assess the vaccination status and its relationship with the development of clinical complications. This cross-sectional study enrolled 260 children aged 2-72 months with clinically confirmed measles who were admitted to four dedicated measles treatment hospitals in Dhaka, Bangladesh, between 15 and 25 April 2026. Data on vaccination status, sociodemographic characteristics, feeding practices, nutritional status, clinical symptoms, and complications were collected through caregiver interviews and hospital records. Adjusted odds ratios (AOR) with 95% confidence intervals (CI) were estimated; p < 0.05 was considered statistically significant. Among enrolled children, 74.6% were unvaccinated, 18.8% were partially vaccinated, and only 6.5% were fully vaccinated. In the multivariable model, age below 9 months (aOR 0.09, 95% CI 0.03-0.268, p < 0.001) was independently associated with lower odds of vaccination, while household income at or above the median (aOR 3.983, 95% CI 1.8-8.813, p = 0.004) was associated with higher odds. Complications developed in 31.1% of cases, with respiratory involvement being most common. Absence of exclusive breastfeeding (aOR 2.336, 95% CI 1.027-5.313, p = 0.043) and presenting with exactly three symptoms at admission (aOR 3.106, 95% CI 1.274-7.572, p = 0.013) were independently associated with complications. Unvaccinated children had markedly higher odds of complications than vaccinated children (aOR 5.729, 95% CI: 2.363-13.889, p < 0.001). The heavy burden of measles among unvaccinated children, shaped by socioeconomic disadvantage and suboptimal feeding practices, underscores the urgent need to restore immunization coverage and strengthen equitable health services in Bangladesh.",
+    "url": "https://doi.org/10.1371/journal.pone.0353336",
+    "doi": "10.1371/journal.pone.0353336",
+    "source": "PubMed",
+    "source_type": "journal_article",
+    "published_date": "2026-11-11",
+    "journal": "PloS one",
+    "authors": "Goutam A, Hasan A, Khan MAS, Mahid MAH, Masud SB, Babul H et al.",
+    "affiliations": "Public Health Promotion and Development Society, Dhaka, Bangladesh. | Eastern Medical College, Kabila, Cumilla, Bangladesh. | Department of Public Health, North South University, Dhaka, Bangladesh. | International Centre for Diarrhoeal Disease Research, Dhaka, Bangladesh. | Directorate General of Health Services (DGHS), Dhaka, Bangladesh. | Mahidol Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Thailand. | Centre for Tropical Medicine and Global Health, University of Oxford, Oxford, United Kingdom. | Ibn Sina Medical College Hospital, Dhaka, Bangladesh.",
+    "extra": {
+      "pmid": "43013529"
+    },
+    "id": "doi:10.1371/journal.pone.0353336",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles-like hypermutation of a Newcastle disease virus drives fatal encephalitis during BCMA × CD3 T-cell-redirecting immunotherapy",
+    "summary": "Newcastle disease virus (NDV or AOaV-1) is an avian paramyxovirus that typically causes only mild, self-limiting disease in humans. Here, we report fatal neuroinvasive AOaV-1 infection in a patient with multiple myeloma receiving maintenance therapy with teclistamab, daratumumab, and lenalidomide following frontline teclistamab-based treatment and autologous stem cell transplantation. Following rapidly progressive brainstem-cerebellar encephalitis and negative conventional microbiological testing, unbiased metagenomic RNA sequencing of a cerebellar biopsy identified AOaV-1 at high intraparenchymal abundance. Viral genome analysis revealed striking A-to-G and U-to-C substitutions selectively concentrated in the matrix gene, consistent with ADAR-mediated RNA editing. Long-read sequencing resolved two genetically distinct, independently hypermutated CNS haplotypes. Post-mortem analysis demonstrated widespread dissemination and continued viral diversification in multiple brain regions, whereas a peripheral urine sample contained a minimally mutated putative ancestral lineage. These findings support peripheral infection followed by CNS seeding and compartmentalized within-host evolution. The selective matrix-gene hypermutation closely parallels persistent measles virus infection in subacute sclerosing panencephalitis, revealing a shared mechanism of paramyxovirus adaptation to the CNS. Profound immunotherapy-associated immune dysfunction may thus create niches enabling normally low-pathogenic zoonotic viruses to persist, evolve, and acquire severe neurovirulence.",
+    "url": "https://doi.org/10.1007/s00401-026-03116-0",
+    "doi": "10.1007/s00401-026-03116-0",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-11",
+    "journal": "Acta neuropathologica",
+    "authors": "Krueger C, Schaefers C, Guenther T, Leypoldt L, Ahrens R, Alsdorf W, Al-Bazaz M, Weisel K, Kadel SK, Rasche L, Weinhold N, Raab M, Hoppe J, Postel A, Heim D, Reumann K, Robitaille A, Bluemke P, Fischbach F, Schlemm E, Friese M, Magnus T, Nierhaus A, Kluge S, Ondruschka B, Kresbach C, Dottermusch M, Luetgehetmann M, Fischer N, Grundhoff A.",
+    "affiliations": "Department of Neurology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. | Department of Oncology, Hematology and Bone Marrow Transplantation with the Section Pneumology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. | Leibniz Institute of Virology, Martinistr. 52, 20252, Hamburg, Germany. | Department of Oncology, Hematology and Bone Marrow Transplantation with the Section Pneumology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. | Department of Oncology, Hematology and Bone Marrow Transplantation with the Section Pneumology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. | Department of Oncology, Hematology and Bone Marrow Transplantation with the Section Pneumology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. | Department of Oncology, Hematology and Bone Marrow Transplantation with the Section Pneumology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. | Department of Oncology, Hematology and Bone Marrow Transplantation with the Section Pneumology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+    "extra": {
+      "pmid": "43013135",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "doi:10.1007/s00401-026-03116-0",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
     "summary": "Measles is surging in the U.S. — and outbreaks can cost millions CNBC",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11SF8wQzFKckN6TDEyVVRVZ0JDZUVwdlhBbVlENFhLWm9fQjNnQ1FuYkpPcFA2cU1iRGJWQ1FOT2RyTmQxdlBaaXNjWVd4bl9YVkpwNkZNeDRSWjJrWjJuaWF1dG56VHc1QnBndFFVOU9QVlFDbDRsbFd3?oc=5",
     "doi": "",
-    "source": "News",
+    "source": "CNBC",
     "source_type": "news",
     "published_date": "2026-11-11",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "feed": "measles outbreak search"
+      "search_term": "measles outbreak 2026"
     },
     "id": "url:d40904753b9bb46e",
     "first_seen": "2026-11-11",
@@ -197,7 +613,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "congenital measles"
+      "search_term": "measles vaccine pregnancy"
     },
     "id": "url:1d3b4e3e54bd4d42",
     "first_seen": "2026-11-11",
@@ -341,37 +757,6 @@
     "pharma": false
   },
   {
-    "title": "U.S. may lose its measles elimination status after cases doubled in a year (Video)",
-    "summary": "U.S. may lose its measles elimination status after cases doubled in a year (Video) Social News XYZ",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSElqUkQzRlhDUzdkUldRQ3drcHFscU9BdUhOb1E5d25lN2U3SEg0c0tJai1mQ3psSk1PMm1xbkRPbWJ4OE9Ccld4OWREbExabDFIUEo5clpjN2xFVnNXSzUyZnFFZEs5d3E5cW02d1BJQ2lGZVU3dUxTdTNqRUFSZER5YVhpeVRuTEMtSTBCSUstTXNiRHlUUWdva0tZZ0djekZ2UkRMY0NpUUdqOEVSR3FPb2g2czNlNGfSAboBQVVfeXFMTkhJalJEM0ZYQ1M3ZFJXUUN3a3BxbHFPQXVITm9ROXduZTdlN0hINHNLSWotZkN6bEpNTzJtcW5ET21ieDhPQnJXeDlkRGxMWmwxSFBKOXJaYzdsRVZzV0s1MmZxRWRLOXdxOXFtNndQSUNpRmVVN3VMU3UzakVBUmREeWFYaXlUbkxDLUkwQklLLU1zYkR5VFFnb2tLWWdHY3pGdlJETGNDaVFHajhFUkdxT29oNnMzZTRn?oc=5",
-    "doi": "",
-    "source": "Social News XYZ",
-    "source_type": "news",
-    "published_date": "2026-11-11",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "measles elimination failure"
-    },
-    "id": "url:ba22c04bd6d5a4e7",
-    "first_seen": "2026-11-11",
-    "date": "2026-11-11",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "na",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
     "title": "The U.S. Has Lost Its Measles-Elimination Status",
     "summary": "The U.S. Has Lost Its Measles-Elimination Status Political Wire",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPakUzNWl6bm5ianh5YjJHamUxSHlGWnZ5SnhUbkxQc1lQWFhaTGRIdGpqY0p3azdoV2xUZ2Z6azBfZzA2YjNqWDI4OHZ5Q041ZU9aR0xXVFF6OFpPNGljZFlJZkJvTEhYOEdYODI5aWp2aDFNZnJDRnJ4d2EzUDkxa0tfWW9yNnc5TXRnUUN3?oc=5",
@@ -403,18 +788,238 @@
     "pharma": false
   },
   {
+    "title": "Measles cases explode amid declining vaccination rates",
+    "summary": "Measles cases explode amid declining vaccination rates NBC News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXJwVXA2MUJHcDZTaW9memR0XzhUZlBLUGVGM2pIaTZFeHdkYVBXb0xoTG1rLVBPckx5R3NwVzNKZldUQjNfRzJCWUJuSVByaWlRek16ODIzUmdId0JfS3FGemVTa0tWWGdqS0tkdW0talN4WW91Ry1HZUxJWXUxT1NHM19QZHl0bjJBZ0NlX0VsY2hkcnM3OUhvbDlTUmFTc0ltODJEV0lzTHMyd0Zv?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-11",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:eb1f99b503679c85",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Is Florida a culprit if U.S. loses measles elimination status?",
+    "summary": "Is Florida a culprit if U.S. loses measles elimination status? Naples Daily News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYU9wQ2hfa0NTMFpUVWtleTRoODdMenFQRXhMWEJPNHVPREg5UmlRMFBPaTZoZVVubVhfR01Ca19pNURZX0VFWlI2QTBhSzhGV1V2eVJXRnZSMWlad1FXRGstMWM3aTVRNjU1aVBpUnFrWFRmVlVKNXAtRXJ5aW4tcXNBVWI1NHJYSEU1RU1Ud09CUTZueWJiNi15bEJlWUdYSW5FLUFPQzFpUUhJQ3JhUjVMRmxlR3k1TGVydlhocw?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-11",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:7f8672114e43ea09",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles Case Confirmed in Polk County - Nov. 11, 2026",
+    "summary": "Measles Case Confirmed in Polk County - Nov. 11, 2026 Polk County Iowa (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRlc3NWFmWDZsUXduaXg3T0h1Vm9UeFhOVERPc1BhVkVrSm81VzF5eVJ5NzlkRGVEUENHQTRRREhhQXhiUjBua1hLTnhMczlRdnh5SGkzeWRORFl5S2M5eFM3ODVOQmdNei16ajBoWEhyMVNCZ3UtNUt1a3NYRjVqd25ZN3JPVHhMdzduY25MTVhyYVJ2dTB3ZkJVaV92X3Vrc3NpeDYya2xrbWV4M3RhUElVU1BVcjA5Qkx1WHVkd3A?oc=5",
+    "doi": "",
+    "source": "Polk County Iowa (.gov)",
+    "source_type": "news",
+    "published_date": "2026-11-11",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR second dose age schedule"
+    },
+    "id": "url:a1868a170090c179",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Confirmed case of Measles reported in Geauga and Lake counties, exposure sites noted",
+    "summary": "Confirmed case of Measles reported in Geauga and Lake counties, exposure sites noted News 5 Cleveland WEWS",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYkdSNWl3bkROR0NIU1N5N2l5V3AyZ0ZJSWR2d0pnV21GNVRUR3plLXVsYVdITjVBVGZHNWtTdG5veEFfWE9mMXd3TVREN2M3ZjBJWm85cWRKajFnbDd5dGRfTlBsQ2RZMWItclpEU2htQkJrc09NbkFyUk42Y0MxS2dPQVdjb3R1b3VOSDNQU2dEcnNiZmlpWG5Pak91ZXUtb1I4N2pxektMV0xyTlMxQlBMUVY1bm9fSGNz?oc=5",
+    "doi": "",
+    "source": "News 5 Cleveland WEWS",
+    "source_type": "news",
+    "published_date": "2026-11-11",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR second dose age schedule"
+    },
+    "id": "url:b0e2297639c70c94",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership",
+    "summary": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5",
+    "doi": "",
+    "source": "The Guardian",
+    "source_type": "news",
+    "published_date": "2026-11-11",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak 2026"
+    },
+    "id": "url:d44ffcfb88658ac7",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "US Measles Outbreaks Cost Nearly $83 Million in 2026",
+    "summary": "US Measles Outbreaks Cost Nearly $83 Million in 2026 The American Journal of Managed Care",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTExaYVNhVWlfUzMzZHk0MWVlYVRBOWhfZmhfN1A5aF9XTnJaVno1TENnNE1zTElnYjg2eEp5NUkzcC12dnRZNGxpR3A1Vml1bm1xbWh6S2EzNWJEcXNHMXEtaTBtM3FiRGRVRmRMYjkwQjQzbEhjWkhDYzdyNnhsbGMzUQ?oc=5",
+    "doi": "",
+    "source": "The American Journal of Managed Care",
+    "source_type": "news",
+    "published_date": "2026-11-11",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak 2026"
+    },
+    "id": "url:12a812a25ada2451",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "US Faces Losing Measles-Free Status After Major Outbreaks",
+    "summary": "US Faces Losing Measles-Free Status After Major Outbreaks Yahoo News Canada",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81WVczTkVXM3BrOVlyejNNRjBuMTBHMXJGZGlJUmR0TDZfVDZjV29OM0JtVG4yZklhaE5BU2ttVEtKTExTbXJnbl8zUlVVbVhmWXlNWnY0MDhlMnFnZnlhbU4ybkpuNUlVT0lmQU9JSXZZSEpFOWRndg?oc=5",
+    "doi": "",
+    "source": "Yahoo News Canada",
+    "source_type": "news",
+    "published_date": "2026-11-11",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak Canada"
+    },
+    "id": "url:df023e5fb3d86af0",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-11",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": true,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Bridging microbiology and public health through simulation-based learning",
     "summary": "Within our synchronous, online global health-focused upper-level microbiology course, we find that students struggle to translate learning to real-world applications. For example, consider the recent measles outbreaks and major events such as the COVID-19 pandemic, which prompt many questions about how basic microbiological information is used by public health professionals. To address these points, we created a simulation-based curriculum that places students in an action role during an infectious disease outbreak. Our stand-alone curriculum walks through a historical measles outbreak that introduces outbreak investigation, community communication, and how these depend on microbiological knowledge. By using breakout groups, students have an opportunity to decide classifications, public messaging, and intervention metrics. We provide students with an outbreak investigation reference worksheet and interweave breakout rooms with didactic vignettes covering background information while revealing actual responses to outbreaks in conjunction with data obtained by responding scientists. Students synthesize material and apply it in real-time, allowing them to exercise critical thinking. Pilot testing in a small, upper-division, virtual classroom suggests that this curriculum has strong potential for increasing mastery of learning objectives and bolstering the relevance of microbiology and public health to popular media.",
     "url": "https://doi.org/10.1128/jmbe.00281-26",
     "doi": "10.1128/jmbe.00281-26",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-11-10",
     "journal": "Journal of microbiology & biology education",
-    "authors": "Krupinsky KC, Kirschner D",
-    "affiliations": "Department of Microbiology and Immunology, University of Michigan - Michigan Medicine, Ann Arbor, Michigan, USA.",
+    "authors": "Krupinsky KC, Kirschner D.",
+    "affiliations": "Department of Microbiology and Immunology, University of Michigan - Michigan Medicine, Ann Arbor, Michigan, USA. | Department of Microbiology and Immunology, University of Michigan - Michigan Medicine, Ann Arbor, Michigan, USA.",
     "extra": {
-      "pmid": "43006872"
+      "pmid": "43006872",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
     },
     "id": "doi:10.1128/jmbe.00281-26",
     "first_seen": "2026-11-10",
@@ -467,17 +1072,20 @@
   },
   {
     "title": "Strengthening catch-up vaccination delivery in routine health services for children under five in Western Kenya, 2022-2024",
-    "summary": "Catch-up vaccination can close population immunity gaps, yet integration into routine immunization services remains limited in low- and middle-income countries (LMICs). Following Kenya's 2023 catch-up vaccination policy, we evaluated a multi-strategy intervention to strengthen systematic identification, eligibility screening, and delivery of missed doses within routine health services in Siaya County. Over 12 months, five strategies addressing healthcare worker (HCW) capacity, vaccination documentation, defaulter tracking, immunization screening, and caregiver engagement were implemented in 55 public health facilities selected through stratified random sampling. Using a pre-post design, we assessed immunization uptake, missed opportunities for vaccination (MOVs), and system readiness. Baseline (November 2022-January 2023) and endline (October-December 2024) evaluations included facility assessments, HCW interviews, caregiver exit surveys among children aged <36 months with home-based records (HBRs; n = 658), and facility immunization register abstractions (n = 1650 children aged 12-23 months). Analyses accounted for sampling design, clustering, and used generalized estimating equations for HBR data. MOV prevalence among children visiting facilities for any reason declined from 94.4% to 20.9% (p < 0.001). Full immunization among children aged 12-23 months increased from 44.9% to 63.6% (p < 0.001), with uptake improving across antigens. Measles-rubella first-dose uptake increased from 51.5% to 78.0%, and second-dose uptake from 18.8% to 36.9% (p < 0.001 for both). Eligibility screening expanded from 60.6% to 86.8% of facilities (p = 0.012), defaulter tracking improved from 48.5% to 91.6% (p < 0.001), and HCW knowledge and confidence increased significantly. The multi-strategy intervention was associated with fewer MOVs and improved uptake, suggesting that embedding catch-up vaccination within routine health services can strengthen immunization systems in decentralized LMIC contexts. Kenya's catch-up vaccination policy provided a framework for introducing catch-up vaccination into routine health services.",
+    "summary": "<h4>Background</h4>Catch-up vaccination can close population immunity gaps, yet integration into routine immunization services remains limited in low- and middle-income countries (LMICs). Following Kenya's 2023 catch-up vaccination policy, we evaluated a multi-strategy intervention to strengthen systematic identification, eligibility screening, and delivery of missed doses within routine health services in Siaya County.<h4>Methods</h4>Over 12 months, five strategies addressing healthcare worker (HCW) capacity, vaccination documentation, defaulter tracking, immunization screening, and caregiver engagement were implemented in 55 public health facilities selected through stratified random sampling. Using a pre-post design, we assessed immunization uptake, missed opportunities for vaccination (MOVs), and system readiness. Baseline (November 2022-January 2023) and endline (October-December 2024) evaluations included facility assessments, HCW interviews, caregiver exit surveys among children aged <36 months with home-based records (HBRs; n = 658), and facility immunization register abstractions (n = 1650 children aged 12-23 months). Analyses accounted for sampling design, clustering, and used generalized estimating equations for HBR data.<h4>Results</h4>MOV prevalence among children visiting facilities for any reason declined from 94.4% to 20.9% (p < 0.001). Full immunization among children aged 12-23 months increased from 44.9% to 63.6% (p < 0.001), with uptake improving across antigens. Measles-rubella first-dose uptake increased from 51.5% to 78.0%, and second-dose uptake from 18.8% to 36.9% (p < 0.001 for both). Eligibility screening expanded from 60.6% to 86.8% of facilities (p = 0.012), defaulter tracking improved from 48.5% to 91.6% (p < 0.001), and HCW knowledge and confidence increased significantly.<h4>Conclusion</h4>The multi-strategy intervention was associated with fewer MOVs and improved uptake, suggesting that embedding catch-up vaccination within routine health services can strengthen immunization systems in decentralized LMIC contexts. Kenya's catch-up vaccination policy provided a framework for introducing catch-up vaccination into routine health services.",
     "url": "https://doi.org/10.1016/j.vaccine.2026.129330",
     "doi": "10.1016/j.vaccine.2026.129330",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-11-10",
     "journal": "Vaccine",
-    "authors": "Muhoza P, Kagecha C, Ward K, Gao H, Ouma D, Adan M et al.",
-    "affiliations": "Global Health Center, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA; Epidemic Intelligence Service, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA. Electronic address: pmuhoza@cdc.gov. | Centre for International Health, Education and Biosecurity (CIHEB), 6th Floor, K-Rep Centre, Wood Avenue, Kilimani, Nairobi, Kenya. | Global Health Center, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA. | Global Health Center, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA; Epidemic Intelligence Service, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA. | Siaya County Department of Health and Sanitation, P.O. Box 384, 40600 Siaya, Kenya. | National Vaccines and Immunization Program, Ministry of Health, Afya House, Cathedral Road, P.O. Box 43319, 00100 Nairobi, Kenya.",
+    "authors": "Muhoza P, Kagecha C, Ward K, Gao H, Ouma D, Adan M, Igboh LS, Park Y, Ly AN, Jepkosgei D, Akala M, Leboo I, Mulwa W, H Noh D, Ondiege J, Jalang'o R, Wafula S, Mwachari C, Koech E, E Sugerman C.",
+    "affiliations": "Global Health Center, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA; Epidemic Intelligence Service, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA. Electronic address: pmuhoza@cdc.gov. | Centre for International Health, Education and Biosecurity (CIHEB), 6th Floor, K-Rep Centre, Wood Avenue, Kilimani, Nairobi, Kenya. | Global Health Center, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA. | Global Health Center, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA. | Centre for International Health, Education and Biosecurity (CIHEB), 6th Floor, K-Rep Centre, Wood Avenue, Kilimani, Nairobi, Kenya. | Centre for International Health, Education and Biosecurity (CIHEB), 6th Floor, K-Rep Centre, Wood Avenue, Kilimani, Nairobi, Kenya. | Global Health Center, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA. | Global Health Center, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30329, USA.",
     "extra": {
-      "pmid": "43008350"
+      "pmid": "43008350",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
     },
     "id": "doi:10.1016/j.vaccine.2026.129330",
     "first_seen": "2026-11-11",
@@ -498,17 +1106,20 @@
   },
   {
     "title": "Susceptibility-weighted imaging findings in subacute sclerosing panencephalitis: subcortical paramagnetic rim and deep gray matter changes",
-    "summary": "Subacute sclerosing panencephalitis (SSPE) is a progressive neurodegenerative disorder caused by persistent measles virus infection. Conventional MRI plays a key role in diagnosis and staging; however, susceptibility-weighted imaging (SWI) findings in SSPE have not been systematically characterized, particularly with respect to their relationship to disease burden and neurodegeneration. With this study we aim to evaluate SWI changes in SSPE, with emphasis on the Subcortical Paramagnetic Rim (SPR) and deep gray matter mineralization, and to assess their association with parenchymal disease burden and cerebral atrophy. This retrospective single-center study included 126 patients with confirmed SSPE who underwent MRI including SWI. T2/FLAIR hyperintensities were assessed across predefined supratentorial and infratentorial parenchymal regions. A composite total parenchymal disease burden score was calculated. Cerebral atrophy and deep gray matter mineralization were evaluated using semi-quantitative visual grading systems. SWI was also assessed for the presence of a SPR. Associations between susceptibility findings, parenchymal disease burden, cerebral atrophy, and clinical parameters were analyzed using non-parametric statistical methods. SPR was identified in 14 of 128 MRI studies (10.9%), most commonly involving the parietal lobes. Patients with the rim had significantly longer symptom duration, higher disease stage, greater parenchymal disease burden, higher atrophy scores, and higher deep gray matter mineralization scores compared with patients without the rim (p < 0.01). Deep gray matter mineralization scores showed significant positive correlations with both global parenchymal disease burden and cerebral atrophy (Spearman's ρ, p < 0.001). SPR and deep gray matter mineralization, are associated with increasing parenchymal disease burden and atrophy. These findings likely represent imaging markers of disease chronicity and provide complementary information to conventional MRI, particularly in the evaluation of chronic encephalitis in measles-endemic regions.",
+    "summary": "<h4>Background</h4>Subacute sclerosing panencephalitis (SSPE) is a progressive neurodegenerative disorder caused by persistent measles virus infection. Conventional MRI plays a key role in diagnosis and staging; however, susceptibility-weighted imaging (SWI) findings in SSPE have not been systematically characterized, particularly with respect to their relationship to disease burden and neurodegeneration. With this study we aim to evaluate SWI changes in SSPE, with emphasis on the Subcortical Paramagnetic Rim (SPR) and deep gray matter mineralization, and to assess their association with parenchymal disease burden and cerebral atrophy.<h4>Methods</h4>This retrospective single-center study included 126 patients with confirmed SSPE who underwent MRI including SWI. T2/FLAIR hyperintensities were assessed across predefined supratentorial and infratentorial parenchymal regions. A composite total parenchymal disease burden score was calculated. Cerebral atrophy and deep gray matter mineralization were evaluated using semi-quantitative visual grading systems. SWI was also assessed for the presence of a SPR. Associations between susceptibility findings, parenchymal disease burden, cerebral atrophy, and clinical parameters were analyzed using non-parametric statistical methods.<h4>Results</h4>SPR was identified in 14 of 128 MRI studies (10.9%), most commonly involving the parietal lobes. Patients with the rim had significantly longer symptom duration, higher disease stage, greater parenchymal disease burden, higher atrophy scores, and higher deep gray matter mineralization scores compared with patients without the rim (p < 0.01). Deep gray matter mineralization scores showed significant positive correlations with both global parenchymal disease burden and cerebral atrophy (Spearman's ρ, p < 0.001).<h4>Conclusion</h4>SPR and deep gray matter mineralization, are associated with increasing parenchymal disease burden and atrophy. These findings likely represent imaging markers of disease chronicity and provide complementary information to conventional MRI, particularly in the evaluation of chronic encephalitis in measles-endemic regions.",
     "url": "https://doi.org/10.1007/s00234-026-04249-5",
     "doi": "10.1007/s00234-026-04249-5",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-11-10",
     "journal": "Neuroradiology",
-    "authors": "Arora A, Ahmed S, Patavardhan P, Bharath RD, Viswanathan LG, Kandavel T et al.",
-    "affiliations": "National Institute of Mental Health and Neurosciences, Bengaluru, India. | National Institute of Mental Health and Neurosciences, Bengaluru, India. jsaini76@gmail.com.",
+    "authors": "Arora A, Ahmed S, Patavardhan P, Bharath RD, Viswanathan LG, Kandavel T, Saini J.",
+    "affiliations": "National Institute of Mental Health and Neurosciences, Bengaluru, India. | National Institute of Mental Health and Neurosciences, Bengaluru, India. | National Institute of Mental Health and Neurosciences, Bengaluru, India. | National Institute of Mental Health and Neurosciences, Bengaluru, India. | National Institute of Mental Health and Neurosciences, Bengaluru, India. | National Institute of Mental Health and Neurosciences, Bengaluru, India. | National Institute of Mental Health and Neurosciences, Bengaluru, India. jsaini76@gmail.com.",
     "extra": {
-      "pmid": "43007425"
+      "pmid": "43007425",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
     },
     "id": "doi:10.1007/s00234-026-04249-5",
     "first_seen": "2026-11-11",
@@ -522,6 +1133,40 @@
     "pregnancy_related": false,
     "species": "human",
     "canadian": true,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Risk factors and aetiological agents of community-acquired pneumonia in children under five years in South Asia: A systematic review",
+    "summary": "Pneumonia remains a leading cause of mortality among children under five years in South Asia, a region that, with sub-Saharan Africa, accounts for over half of the world's childhood pneumonia cases. To our knowledge, no prior review has jointly synthesised the risk factors and aetiological agents of community-acquired pneumonia (CAP) in under-fives specific to this region. This systematic review aimed to identify, critically appraise, and synthesise available evidence on the risk factors and aetiological agents associated with CAP in children under five years of age in South Asian countries. Following PRISMA guidelines, four electronic databases (MEDLINE, PubMed, Global Health, and Web of Science) were systematically searched for studies published between January 2000 and July 2024, with the search updated to January 2026. Quality assessment was performed using the Crowe Critical Appraisal Tool (CCAT), with only high-quality studies (≥75% score) included in the final synthesis. Data were synthesised narratively due to heterogeneity in study designs and outcome measures. From 1196 records identified and 747 studies screened, 16 met the inclusion criteria after quality assessment (8 on risk factors, 8 on aetiology), conducted across five South Asian countries (India, Bangladesh, Nepal, Pakistan, Bhutan). Young age (children 0-23 months), malnutrition (particularly underweight and wasting), and incomplete immunisation emerged as the most consistently identified risk factors across studies. Environmental exposures, including indoor air pollution, poor ventilation, and overcrowding, were significant contributors. Viral pathogens predominated in aetiological studies, with respiratory syncytial virus being the most frequently identified pathogen (mean detection rate 29.2%). Blood culture positivity for bacterial pathogens was generally lower (1.5-31.3%; below 13% in four of five studies), with Streptococcus pneumoniae and Staphylococcus aureus most common among positive cultures. This systematic review demonstrates that childhood CAP in South Asia results from a complex interplay of modifiable host, environmental, and socioeconomic risk factors. Integrated interventions addressing nutrition, immunization coverage, household air pollution, and socioeconomic determinants are essential for reducing the substantial pneumonia burden among South Asian children.",
+    "url": "https://doi.org/10.1371/journal.pgph.0006388",
+    "doi": "10.1371/journal.pgph.0006388",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-10",
+    "journal": "PLOS global public health",
+    "authors": "Ferdowsi S, Sheikh MMR.",
+    "affiliations": "Paediatric Neurology and Development, Sir Salimullah Medical College Mitford Hospital, Dhaka, Bangladesh. | Department of Social Work, Jagannath University, Dhaka, Bangladesh.",
+    "extra": {
+      "pmid": "43008031",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
+    },
+    "id": "doi:10.1371/journal.pgph.0006388",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-10",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
     "channel": "journals",
     "source_type_label": "Journal article",
     "reviewed": false,
@@ -791,7 +1436,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR 18 months schedule recommendation"
+      "search_term": "MMR second dose age schedule"
     },
     "id": "url:c59ecf3a290e76bd",
     "first_seen": "2026-11-10",
@@ -874,7 +1519,9 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": []
   },
   {
     "title": "RFK Jr. Faces the Ultimate Test as Measles Epidemic Sweeps the Nation",
@@ -1156,18 +1803,52 @@
     "pharma": false
   },
   {
+    "title": "Eastern Kentucky measles cases rise in largest outbreak in 35 years",
+    "summary": "Eastern Kentucky measles cases rise in largest outbreak in 35 years WKYT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMkk5NERkXzltcUpIY3F3c3hwdExrc2JQc0V5ekZjOWtmcVBwSWZ3NXB5azZERHN0Q3lWTDUweDZ5SVJYblhEbFF0LVF6ZkkxUTJQSE5UVE5nRjYyc0FEN3VoejZ3UTVFdGNLQlNxdDRxakhvVHBYcXdVRXhfY0NjREVPVEJDNk00dW04TjBuTXlCZzJJS1REeTVB?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-10",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:4fc84f46cfd26398",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-10",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Clinical consultation: The role of vitamin A in the management of confirmed acute measles infection",
-    "summary": "Although measles was declared eliminated in the United States in 2000, the rate of measles infection in 2026 is the highest in more than 3 decades. This clinical consultation explores the role of vitamin A in the treatment of acute measles infection and the challenges posed with this treatment in pediatric patients due to the limitations in currently available formulations. The role of vitamin A in the treatment of acute, confirmed measles infection has been well established and is recommended by major medical organizations, including the World Health Organization and American Academy of Pediatrics. Despite the benefits that vitamin A has demonstrated in past studies, treatment with vitamin A remains difficult due to challenges in administration secondary to the limited formulations currently available in the United States. Multiple options exist to extract liquid vitamin A from capsules, but these methods are cumbersome and possess significant challenges. Vitamin A treatment should be used in patients with acute, confirmed measles infection, after confirming that they are not at risk for drug interactions and have no symptoms of vitamin A toxicity if they were previously treated with vitamin A. A concentrated liquid formulation of vitamin A approved by the US Food and Drug Administration is needed to overcome current obstacles with administration of vitamin A in pediatric patients unable to swallow capsules.",
+    "summary": "<h4>Purpose</h4>Although measles was declared eliminated in the United States in 2000, the rate of measles infection in 2026 is the highest in more than 3 decades. This clinical consultation explores the role of vitamin A in the treatment of acute measles infection and the challenges posed with this treatment in pediatric patients due to the limitations in currently available formulations.<h4>Summary</h4>The role of vitamin A in the treatment of acute, confirmed measles infection has been well established and is recommended by major medical organizations, including the World Health Organization and American Academy of Pediatrics. Despite the benefits that vitamin A has demonstrated in past studies, treatment with vitamin A remains difficult due to challenges in administration secondary to the limited formulations currently available in the United States. Multiple options exist to extract liquid vitamin A from capsules, but these methods are cumbersome and possess significant challenges.<h4>Conclusion</h4>Vitamin A treatment should be used in patients with acute, confirmed measles infection, after confirming that they are not at risk for drug interactions and have no symptoms of vitamin A toxicity if they were previously treated with vitamin A. A concentrated liquid formulation of vitamin A approved by the US Food and Drug Administration is needed to overcome current obstacles with administration of vitamin A in pediatric patients unable to swallow capsules.",
     "url": "https://doi.org/10.1093/ajhp/zxag353",
     "doi": "10.1093/ajhp/zxag353",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-11-09",
     "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
-    "authors": "Raschka M, Le D, Stinchfield P, Davies S, Goad J",
+    "authors": "Raschka M, Le D, Stinchfield P, Davies S, Goad J.",
     "affiliations": "Children's Minnesota, Minneapolis, MN, USA. | Chapman University School of Pharmacy, Irvine, CA, USA, and Rady Children's Health, Orange County, CA, USA. | Measles Collaborative, National Foundation for Infectious Diseases, Bethesda, MD, USA. | Department of Pediatrics, Texas Tech University Health Sciences Center, Lubbock, TX, USA. | Chapman University School of Pharmacy, Irvine, CA, USA, and National Foundation for Infectious Diseases, Bethesda, MD, USA.",
     "extra": {
-      "pmid": "43000905"
+      "pmid": "43000905",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
     },
     "id": "doi:10.1093/ajhp/zxag353",
     "first_seen": "2026-11-09",
@@ -1221,6 +1902,40 @@
     "pharma": false
   },
   {
+    "title": "Retrospective Analysis of the VAERS Database for Children One Year of Age",
+    "summary": "In recent studies, novel candidate safety signals were detected for infants younger than 1 year of age for specific vaccines. Herein, the Vaccine Adverse Events Reporting System (VAERS) database was retrospectively examined for possible novel candidate safety signals for children one year of age. Novel candidate safety signals were detected for multiple vaccines. Two candidate manufacturing irregularities or possible unknown contaminants were identified associated with adverse event (AE) autism for VAERS nondomestic Measles, Mumps, and Rubella (MMR II) vaccine lots from 1993 to 1995 and AE hyperpyrexia for nondomestic MMRV lots from 2019 to 2024. The candidate manufacturing irregularities were named alpha for MMR II and beta for Measles, Mumps, Rubella, and Varicella (MMRV) ProQuad vaccines. The hypothesized higher levels of alpha in the nondomestic data, MMR II appear to have been reduced or eliminated sometime soon after 1995; identification of alpha would contribute to future avoidance of possible associated AEs. Reduction of beta in the nondomestic MMRV vaccine is hypothesized to reduce hyperpyrexia and also higher pyrexia AEs not observed associated with domestic MMRV vaccine.",
+    "url": "https://doi.org/10.20944/preprints202611.0857.v1",
+    "doi": "10.20944/preprints202611.0857.v1",
+    "source": "Europe PMC",
+    "source_type": "preprint",
+    "published_date": "2026-11-09",
+    "journal": "Preprint",
+    "authors": "Ricke D.",
+    "affiliations": "",
+    "extra": {
+      "pmid": "",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": "Preprint"
+    },
+    "id": "doi:10.20944/preprints202611.0857.v1",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-09",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "New Mother’s Death Adds to Measles Toll as Pregnancy Warnings Grow",
     "summary": "New Mother’s Death Adds to Measles Toll as Pregnancy Warnings Grow Infectious Disease Advisor",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGMwVjBMcWUtZGU2aWNLa1dQa0NCa2VVWjY2Q21ScU9XWlNIV29GNUh3d1NjeHhXR3hhR2lmcjBxbTFUODhzVEpyNS1vNDBMOUJzOEhIZEFNaU9CWkVSS0J3RjJDTlNOWFQxVV9UdHRfd2hTb1FCMG5haGcyVG1PMTBaaEYyN2EtcFJQS2syRkFWSjdtLVk5UjNhenBkVVFuYXZmQXZ4dXdBS0FldzZUYWRB?oc=5",
@@ -1253,7 +1968,7 @@
     "duplicate_count": 2,
     "also_reported_by": [
       "U.S. News & World Report",
-      "Optometry Advisor"
+      "Neurology Advisor"
     ]
   },
   {
@@ -1582,6 +2297,37 @@
     },
     "id": "url:c8e956aa1cc72794",
     "first_seen": "2026-11-11",
+    "date": "2026-11-09",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles detected in Sanilac County",
+    "summary": "Measles detected in Sanilac County Times Herald",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3c1cEo1QVdsVnlXVXhySzFpMjg4aG9VY3B1eDk2ZjVmX1VBNTh6U1ZqMUJkQ29UU3NoTklQNUJYb1hySVB4V016NzhLaVVUeC15eXVlWUZwRFJFckNKVk4wVllDclJldWd3ejllRnFzRnlnSEN5a0dQNWNxaWw2d0dHVWI1dE9HaVdCVjN4NzVOYS1La25pbmo0dDZERWNhYzlzejRLUnV3NFBMejJlYWRYVnhTZw?oc=5",
+    "doi": "",
+    "source": "Times Herald",
+    "source_type": "news",
+    "published_date": "2026-11-09",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR second dose age schedule"
+    },
+    "id": "url:929be42397e1d430",
+    "first_seen": "2026-11-12",
     "date": "2026-11-09",
     "policy_area": [
       "general_measles"
@@ -1973,6 +2719,37 @@
     "pharma": false
   },
   {
+    "title": "Toronto Pearson, Durham region ER among possible measles exposure sites",
+    "summary": "Toronto Pearson, Durham region ER among possible measles exposure sites Global News",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGsyZ2dUcUY3QUY2V1g5dk1aVDRVbFlfZG1TaFBDSS0tNVl6ejZsSlFPT1hWZnFDRHJyU3NpOW1pQmU3VHhZTkpvc3dmR2JFOU1EQ1BsTWFmanNNWlVGWTlfb0JMOE03ell0SFN1MmFIUVhmVEtsTTI1MmtKa3hhRXB1UWRMZGIyMHJ3?oc=5",
+    "doi": "",
+    "source": "Global News",
+    "source_type": "news",
+    "published_date": "2026-11-08",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak Canada"
+    },
+    "id": "url:40026e161199e2c7",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-08",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
     "summary": "CDC reports more than 5,000 measles cases, highest number in 35 years Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGdTMVVFUlVIN1hESU1ieUlPUUR0ajlnUHN1RnhDT2NZRWJYQ1JmVkxyc1NYWEZPSndQeV84QUlYZ2U2X2puLVhtbENfbzZocjQtZ0JubGdueHI5X2lRcVJ3cF9zZzQwcEpHM0RmUVZBclNfNVpNQXdTUUxYclh5cGluZUNzTkpGZndjRm0wb0haMm1fTGQ3WEMwRHU2MFR2aGNZTWRQTGs4czhU0gGyAUFVX3lxTE0yVnJOd3ZFNjlVX1oybGp6c2x1by1aa2ZkT2MtMHFhMjFtclBsWUFSaktjT2tJVk1hbnpSb0FlNzRDbnRFakJjYWxsLTdnWjJSNllpQW40TXNMRzkzbHk0amhsTi0zUTNrdEZrcjE5aGpBekd4aGZqY3dIZ2Z6bm84TUo4ZmJMV01ONzdqeUZWYVI3SWtoVUNUWXJaWWxXaW41Q0prS3ZUSGpaUWFjbzJPSnc?oc=5",
@@ -2317,6 +3094,40 @@
     "pharma": false
   },
   {
+    "title": "Parental Vaccine Refusal in Kazakhstan, 2023–2025: A Nationwide Register-Based Ecological and Spatial Analysis of Trends, Reasons, Data Quality, and Links with Measles and Pertussis",
+    "summary": "<h4>Background: </h4> /Objectives: Kazakhstan experienced one of the largest measles epidemics in the WHO European Region in 2023–2024 and a pertussis resurgence in 2024, while documented parental vaccine refusals kept accumulating. Subnational, register-based evidence on refusal is lacking for Central Asia. We assessed trends, geography, structure and data quality of registered refusals and their ecological links with coverage and disease incidence. <h4>Methods:</h4> Nationwide ecological study of the official refusal register (20 regions; stocks on 1 January 2024–2026), surveillance reports and population data. We estimated prevalence per 100,000 with exact Poisson 95% confidence intervals (CIs) and rate ratios (RRs), and applied χ² tests, Ward clustering, Moran’s I with local indicators of spatial association, Spearman correlation, negative binomial regression and Bland–Altman analysis. <h4>Results:</h4> Registered refusals rose from 39,792 to 66,240 (198.6 to 323.2 per 100,000; RR 1.63, 95% CI 1.61–1.65). Prevalence varied 23-fold between regions (39.8 in Turkestan to 932.4 in Atyrau) and increased significantly in 16 of 20 regions (Kostanay, RR 2.79). Personal beliefs dominated (62.1%); religious refusals (15.5%) clustered in the west and south (Moran’s I = 0.39, p = 0.011); media-attributed refusals grew by 39.8%. In 2024, refusal prevalence was associated with measles incidence (ρ = 0.55; incidence rate ratio 1.18 per 1/1000, 95% CI 1.03–1.34), and refusal explained 54.7% of pertussis cases. The register recorded 3.35–3.84 times more bacille Calmette–Guérin (BCG) refusals than routine coverage reports, and 46 of 180 cumulative vaccine-specific counts decreased. <h4>Conclusions:</h4> Vaccine refusal in Kazakhstan is growing, regionally heterogeneous in magnitude and motive, and tracked measles burden during the epidemic. Reason-tailored regional strategies and a validated, individual-level electronic refusal register are needed.",
+    "url": "https://doi.org/10.20944/preprints202611.0709.v1",
+    "doi": "10.20944/preprints202611.0709.v1",
+    "source": "Europe PMC",
+    "source_type": "preprint",
+    "published_date": "2026-11-06",
+    "journal": "Preprint",
+    "authors": "Chayakova A, Bisarina G, Mussina A, Yerdenova G.",
+    "affiliations": "",
+    "extra": {
+      "pmid": "",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": "Preprint"
+    },
+    "id": "doi:10.20944/preprints202611.0709.v1",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-06",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Wisconsin reports first measles death in 36 years after infant dies",
     "summary": "Wisconsin reports first measles death in 36 years after infant dies Scripps News",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkVlWU84STRQNlBVLTZjQ2Q0a2dIeHlPQXZoVVc4MFdlZWNubjJac3FwNGxiWkRqNEdMVEdGeXduNmhzXzl4bFJQYXd4emJWRUwzZ2k0V251WjF3YlhpV3BNWHV3Q3Y3bDdreTRUOEVIc0x1MGdfT0ljd3hvYUg3OFZmb1NqaUhKdlNnSkVaVTk3STJ3aWJZTGRGeTBFUXlReTJWUg?oc=5",
@@ -2549,7 +3360,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR vaccine pregnancy safety"
+      "search_term": "measles vaccine pregnancy"
     },
     "id": "url:30d68720a4e74eaf",
     "first_seen": "2026-11-06",
@@ -3925,21 +4736,21 @@
     "pharma": false
   },
   {
-    "title": "measles",
-    "summary": "measles Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
+    "title": "Wisconsin infant is US’ third measles-related death this week",
+    "summary": "Wisconsin infant is US’ third measles-related death this week CNN",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWVozNlZDZEY3WEFSSVpnaGhjOHJ5Wmc0TXFISEpKdzhlXzJBeWZiYmh1dGVyTzZIaUJCYWhsYk1XUUw0eTVCRHBVVmI1RG5wWld0TDA3RWR4N05VSUZCandTRlpDNzZqLVNCaXZxMnoteGY5LTBr?oc=5",
     "doi": "",
-    "source": "Britannica",
+    "source": "News",
     "source_type": "news",
     "published_date": "2026-11-05",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR second dose age schedule"
+      "feed": "measles outbreak search"
     },
-    "id": "url:003e143159bf364d",
-    "first_seen": "2026-11-05",
+    "id": "url:c9cfb2d81d5b7fe6",
+    "first_seen": "2026-11-09",
     "date": "2026-11-05",
     "policy_area": [
       "general_measles"
@@ -3956,21 +4767,52 @@
     "pharma": false
   },
   {
-    "title": "Wisconsin infant is US’ third measles-related death this week",
-    "summary": "Wisconsin infant is US’ third measles-related death this week CNN",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWVozNlZDZEY3WEFSSVpnaGhjOHJ5Wmc0TXFISEpKdzhlXzJBeWZiYmh1dGVyTzZIaUJCYWhsYk1XUUw0eTVCRHBVVmI1RG5wWld0TDA3RWR4N05VSUZCandTRlpDNzZqLVNCaXZxMnoteGY5LTBr?oc=5",
+    "title": "DHS: Infant death connected to measles outbreak",
+    "summary": "DHS: Infant death connected to measles outbreak stoughtonnews.com",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbm5EV3plWkZWNGpsOFFRNkNGMWRKTzNCN2VRcFlQb3I1U2F5bUlMQjVDTUN4bGNsazRSUXRwakpEUDdDQWVaZDJKbC01a1Yxb0RDekhkXy1RZ3lvQjdlb21pWjMyN0JldDdzWkFYYmxVeUJrbi1DQW5FaGZWSVJNeDNxSmNHaDVTc1g0cFg3OGpGQTNzZnFmOVoxcjRyQURJVFhCcy1wMThBaVpIeEdRVXNWSDFhbV93Z19SRzJncWxpRGVKQXBLbHdzSkdyMUVwS3Y5Sko1QXVabVAtUGc?oc=5",
     "doi": "",
-    "source": "News",
+    "source": "stoughtonnews.com",
     "source_type": "news",
     "published_date": "2026-11-05",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "feed": "measles outbreak search"
+      "search_term": "MMR vaccine pregnancy safety"
     },
-    "id": "url:c9cfb2d81d5b7fe6",
-    "first_seen": "2026-11-09",
+    "id": "url:faf590749394a50a",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-05",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "A baby in Wisconsin has died from measles. The death was preventable.",
+    "summary": "A baby in Wisconsin has died from measles. The death was preventable. The Capital Times",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQzBpR0JBckoxM1JkYU42NFVBX2NEYS1pWUtpUVhNMC1QVkhyMWhFQ1pTc0t3V2JUT1p4UU5JZERGeXdkUTBua0dEemNXQ3UyT0k5OUxiWWVIN2dSMkFQU29ObDI1VG5YZFFFakpha0lKbTdkLXB2cGs2VFk3VjVCZGJLTXh1ZmplTmltejFqckQ4V09RS21YRWtXREZRRUVEX0hLSXY5dE5DcGZPcm1YUnh4cVlyU3BITFo3T0VzNC1jeUlmaWtZcnM2WWFuVE8zN1dyNmM0YTZEMWJtQmNleEhOUXM?oc=5",
+    "doi": "",
+    "source": "The Capital Times",
+    "source_type": "news",
+    "published_date": "2026-11-05",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles resurgence vaccination"
+    },
+    "id": "url:15582164365a74e8",
+    "first_seen": "2026-11-12",
     "date": "2026-11-05",
     "policy_area": [
       "general_measles"
@@ -4056,17 +4898,20 @@
   },
   {
     "title": "Neurological Complications of Mumps",
-    "summary": "Mumps is a vaccinepreventable viral illness that primarily affects the parotid glands but can also lead to neurological complications. During a community mumps outbreak in Visakhapatnam, Andhra Pradesh, India, between February and April 2025, we encountered several pediatric patients with significant central nervous system (CNS) involvement. We describe two children who presented with acute cerebellitis, meningoencephalitis with hydrocephalus, and aseptic meningitis in the setting of recent mumps infection. Detailed clinical features and shortterm outcomes are presented. All children improved with appropriate antimicrobial and antiviral therapy, immunomodulation in selected cases, and neurosurgical intervention when indicated. Our series demonstrates that severe mumpsrelated CNS disease continues to occur in partially immunized pediatric populations and can be associated with substantial morbidity. These observations highlight the importance of maintaining high measles-mumps-rubella (MMR) vaccine coverage, ensuring early recognition and comprehensive management of neurological complications, and strengthening surveillance for mumps outbreaks in India.",
+    "summary": "<h4>Abstract</h4>Mumps is a vaccinepreventable viral illness that primarily affects the parotid glands but can also lead to neurological complications. During a community mumps outbreak in Visakhapatnam, Andhra Pradesh, India, between February and April 2025, we encountered several pediatric patients with significant central nervous system (CNS) involvement. We describe two children who presented with acute cerebellitis, meningoencephalitis with hydrocephalus, and aseptic meningitis in the setting of recent mumps infection. Detailed clinical features and shortterm outcomes are presented. All children improved with appropriate antimicrobial and antiviral therapy, immunomodulation in selected cases, and neurosurgical intervention when indicated. Our series demonstrates that severe mumpsrelated CNS disease continues to occur in partially immunized pediatric populations and can be associated with substantial morbidity. These observations highlight the importance of maintaining high measles-mumps-rubella (MMR) vaccine coverage, ensuring early recognition and comprehensive management of neurological complications, and strengthening surveillance for mumps outbreaks in India.",
     "url": "https://doi.org/10.4103/aian.aian_743_26",
     "doi": "10.4103/aian.aian_743_26",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-11-04",
     "journal": "Annals of Indian Academy of Neurology",
-    "authors": "Maturu MVS, Mukkala P, Santosh M, Kishore S",
+    "authors": "Maturu MVS, Mukkala P, Santosh M, Kishore S.",
     "affiliations": "Department of Neurology, Pinnacle Hospital, Visakhapatnam, Andhra Pradesh, India. | Department of Child and Adolescent Psychiatry, Government Hospital for Mental Care, Visakhapatnam, Andhra Pradesh, India. | Department of Paediatrics, Motherly Hospital, Visakhapatnam, Andhra Pradesh, India. | Department of Paediatrics, Medicover Hospital, Visakhapatnam, Andhra Pradesh, India.",
     "extra": {
-      "pmid": "43002168"
+      "pmid": "43002168",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
     },
     "id": "doi:10.4103/aian.aian_743_26",
     "first_seen": "2026-11-09",
@@ -5536,6 +6381,74 @@
     ],
     "pregnancy_related": false,
     "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Global, Regional, and National Burden of Heart Failure, 1990-2023: A Systematic Analysis for the Global Burden of Disease Study 2023",
+    "summary": "<h4>Importance</h4>Heart failure (HF) is a common condition with substantial geographical variation in its prevalence and underlying etiologies. Consistent and comparable data on the burden of HF within populations are needed to inform health system priorities.<h4>Objective</h4>To estimate the global burden of HF.<h4>Design, setting, and participants</h4>This cross-sectional study estimates disease burden using Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) methodologies to integrate multiple information sources. Data come from 204 countries and territories from 1990 to 2023 representing the global population with prevalent HF.<h4>Exposure</h4>HF and underlying etiologies.<h4>Main outcomes and measures</h4>Estimates with 95% uncertainty intervals (UIs) for the prevalence and years lived with disability (YLDs) for HF by age, sex, location, year, and underlying etiology.<h4>Results</h4>Globally, there were 56.0 million (95% UI, 49.9-62.2 million) estimated cases of HF in 2023. The estimated prevalence of HF generally increased with age for all locations. While ischemic heart disease and hypertensive heart disease were the 2 most common etiologies globally among older adults, there was substantial variation in etiological pattern by location and age. Congenital heart anomalies and rheumatic heart disease (RHD) were common etiologies in children and young adults, while the proportion of HF due to alcohol use peaked in middle adulthood. Location-specific estimates highlighted regions with higher burden of HF due to specific etiologies, including RHD (south Asia, east Asia, Oceania, southeast Asia, central sub-Saharan Africa, eastern sub-Saharan Africa, southern sub-Saharan Africa, and western sub-Saharan Africa), alcohol use (eastern Europe, Australasia, the Caribbean, and central Europe), and Chagas disease (southern, Andean, tropical, and central Latin America).<h4>Conclusions and relevance</h4>Heart failure is a significant global public health burden, and the impact is likely to increase as populations age. However, most HF etiologies can be prevented by interventions that reduce exposure to modifiable risk factors, such as elevated blood pressure, excessive alcohol consumption, and tobacco use. Etiology- and location-specific estimates can provide necessary information for public health officials to determine how best to prioritize interventions to reduce HF disease burden.",
+    "url": "https://doi.org/10.1001/jamacardio.2026.4068",
+    "doi": "10.1001/jamacardio.2026.4068",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-01",
+    "journal": "JAMA cardiology",
+    "authors": "GBD 2023 Heart Failure Collaborators, Johnson CO, Abbasi M, Abbasifard M, Abbastabar H, ElHafeez SA, Abdel Razeq NM, Abdelgalil AA, Abdolizadeh A, Abdoun M, Abdrabou M, Abdullahi A, Abebe TB, Abejew AA, Abil OZ, Abiodun O, Aboagye RG, Abohashem S, Aboouf MA, Abouelmagd ME, Abouzid M, Abramov D, Abtahi D, Abuadas FH, Abu-Gharbieh E, Abuhelwa AY, Abushanab D, Adams LC, Addo IY, Adedokun KA, Adegbile OE, Adegoke NA, Adeleke OT, Adeniyi MA, Adesina MA, Adesola RO, Adhikari K, Adisu MA, Adoma PO, Afoakwah C, Afrifa-Yamoah E, Sohail Afzal M, Aghaali M, Agide FD, Agordoh PD, Agostinis Sobrinho C, Agrawal P, Agyemang-Duah W, Ahmad D, Ahmad M, Ahmad S, Ahmad S, Ahmad S, Ahmad W, Ahmadi A, Ahmadi S, Ahmadian S, Ahmadzadeh K, Ahmed A, Ahmed GS, Ahmed MB, Ahmed M, Ahmed S, Ahmed SA, Ajami M, Ajayi AI, Akhigbe RE, Akhtar MN, Al Awaidy ST, Al Bahhawi T, Al Hasan SM, Al Nawayseh MK, Al Thaher Y, Al Zaabi OAM, Al Zoubi MAM, Alahdab F, Al-Ahmad MM, Alalalmeh SO, Alam MK, Alam R, Alanezi F, Alanzi T, Al-Ashwal FY, Alavi R, ALBashtawy MS, Aldabbour B, Al-Dalakta A, Aldawsari KA, Al-Dewik N, Aleidi SM, Alfalki AM, Algammal A, Algethami M, Alhabib K, Alhalaiqa FN, Alhumaydhi FA, Ali I, Ali MD, Ali MU, Ali R, Ali SS, Ali SY, Alif SM, Aligaz EM, Alimohammadi M, Na'uzo MA, Al-Jabi SW, Aljohani MS, Aljunid SM, Alkubati SA, Alla F, Allemailem KS, Allouh MZ, Almagharbeh WT, Almahmeed WA, Al-Marwani S, Almazan J, Alnaeem MM, Alniss HY, Alomari MA, Alosta MR, Al-Qudah M, Al-Qudimat AR, Alrawashdeh A, Al-Rifai RH, Alrimawi I, Alsaadi M, Alshahrani NZ, Altaf A, Altobaishat O, Altwalbeh D, Alvis-Guzman N, Al-Worafi YM, Aly H, Alyahya MS, Al-Zalabani AH, Alzoubi A, Alzoubi KH, Al-Zubairi AS, Al-Zyoud WA, Amini S, Amirtharaj AD, Ammirati E, Amu H, Amusa GA, Anagnostakis F, Ananda R, Andrei CL, Ang SP, Anil A, Anjanappa S, Anokye R, Anuoluwa BS, Anuoluwa IA, Anvari S, Anyasodor AE, Apostol GLC, Arabi H, Arabloo J, Aravkin A, Areda D, Aremu A, Arias de la Torre J, Aripov T, Arjmand G, Ärnlöv J, Aryntayeva N, Asamane EA, Ascione G, Asdaq SMB, Ashraf S, Ashraf T, Asiamah-Asare BKY, Aslam MS, Assariparambil AR, Ataç Ö, Athari SS, Atorkey P, Aujayeb A, Aung ZZ, Aurangzeb K, Awan UA, Awol KL, Awotidebe AW, Ayed A, Azad AKM, Azadnia A, Azami H, Azarboo A, Azarian M, Aziz MY, Aziz SA, Azzolino D, Babu AS, Bacha R, Badar M, Bagheri N, Baghlaf K, Baig AA, Bakhshali MA, Balakrishnan S, Baltatu OC, Bandara RP, Banik B, Barqawi HJ, Basharat Z, Bashir S, Bashiri A, Basiru A, Bastan MM, Batarseh N, Batchi-Bouyou AL, Batool S, Beeraka NM, Behnam B, Belay BM, Bente Kamal Tune SN, Ben-Umeh KC, Berihun AA, Bhagat DS, Bhardwaj N, Bhardwaj P, Bhaskar S, Bhattacharjee P, Bhattacharya S, Bhatti GK, Bhuiyan MMH, Bimal T, Bitar AN, Bizzozero-Peroni B, Bohn L, Borran M, Carvajal AB, Bouaoud S, Boxe C, Brant LC, Bugiardini R, Bui LP, Bulamu NB, Busch F, Bustanji YK, Campos LA, Cao Y, Cao Z, Capodici A, Carvalho F, Chakraborty A, Chakraborty C, Chakraborty S, Chan JSK, Chandrasekaran B, Chattu VK, Chau LD, Chaudhary AA, Cheema AAA, Chen AT, Chen H, Chen H, Chen MX, Chen X, Chew N, Chi G, Ching PR, Chong B, Chong K, Chopra D, Chopra H, Choudhari SG, Chowdhury EK, Chowdhury R, Chua JMT, Chung SC, Chung S, Cicero AFG, Corda M, Cosma C, Costa VM, Cruz-Martins N, Dadras O, Dai J, Dai X, Dalakoti M, Damasceno A, D'Amico E, D'Anna L, Darcho SD, Davletov D, Dejenie TA, Delgado-Enciso I, Dergaa I, Derviševic E, Desai HD, Devanbu VGC, Dhali A, Dhane AS, Dhungel B, Di Pumpo M, Dias da Silva D, Do HPT, Do TC, Dohare S, Dorostkar F, Doshi OP, Dourado PMM, Dumbili E, Duraes AR, Duraisamy SB, Dutta S, Dutta S, E'mar AR, Edeh C, Edvardsson DJ, Ejeta D, Ekholuenetale M, Adel El Arab R, El Sayed I, Eladl MA, Elalfy A, Elgendy IY, Elhadi M, El-Huneidi W, Elkhanishy S, Elmeligy OAA, Elmonem MA, Elmoselhi AB, Elnaem MH, Eltahawy AS, Emeto TI, Eva FN, Fabin N, Fadavian H, Fagbamigbe AF, Fakhradiyev I, Fareed M, Farhana A, Al-Juhyiish WF, Fazylov T, Fekadu G, Fekadu G, Fernandez-Jimenez R, Ferrara P, Ferreira N, Fischer F, Flor LS, Fogacci F, Fornari C, Rodrigues CF, Foschi M, Gad AG, Gaipov A, Ganessane E, Gangachannaiah S, Ganguli A, Gao D, Garcia FB, Garg C, Garlasco J, Gaye B, Gebrehiwot M, Matin AG, Getacher L, Getahun GK, Gete KY, Ghaderzadeh M, Ghaffari K, Jolfayi AG, Ghafoury R, Ghamkhar A, Gharaibeh L, Ghasemi M, Ghashghaee A, Ghazy RM, Ghith NMM, Ghoba S, Gil A, Gilani SA, Gillum RF, Gizachew S, Göbölös L, Golechha M, Goleij P, Golinelli D, Golmohammadi M, Goshu YA, Goulart AC, Guadie HA, Guha A, Gunawardane DA, Gupta L, Gupta M, Gupta R, Gupta S, Gutiérrez-Murillo RS, Guzmán-Muñoz E, Hadi NR, Haghtalab A, Halboup AM, Halder P, Halim SA, Hamdy NM, Hamed M, Hamidi H, Hamidi S, Hamilton EB, Hanif A, Hanifi N, Hanna F, Haq MA, Haque OI, Hasaballah AI, Hasan F, Hasan MK, Hasan SMM, Hasani H, Hashempur MH, Hassan IN, Hassan II, Hassan MI, Hassan M, Hassan NAG, Hassan S, Havmoeller RJ, Hay SI, Hayatu A, He WQ, Heidari G, Heidari M, Hein ZM, Hewage SA, Hezam K, Hiraike Y, Hoang M, Holla R, Hossain A, Hossain MS, Hossain SB, Hosseinzadeh M, Hostiuc M, Huang J, Hushmandi K, Hussein D, Huynh TN, Hwang BF, Ibitoye SE, Ibrahim FM, Ibrahim RK, Ibrayeva A, Ikram A, Ilic I, Ilic M, Ilyasu S, Imoh LC, Iqbal D, Iqhrammullah M, Irfan B, Islam MR, Ismoldayev Y, Iso H, Iwagami M, Iwu CD, Iwu-Jaja C, Iyalomhe OE, Izadidehkordi S, Izquierdo-Condoy JS, Jaafari J, Jacob J, Jadidi A, Jafari-Khounigh A, Jaganathan V, Jahrami H, Jaiswal V, Yengejeh RJ, Jamal A, Jamaluddin J, Jamil S, Jawaid T, Jayasinghe YA, Jeganathan J, Jeong S, Ji Z, Jonas JB, Joo T, Jose J, Jose J, Joseph AP, Joseph MA, Joshi KJ, Joshua CE, Joukar F, Jozwiak JJ, Jung SH, Juweid M, Kaambwa B, Kadir DH, Kahe F, Kakkar AK, Kalavani K, Kalra S, Kamorudeen RT, Kamyshnyi O, Kang J, Kankam SB, Kanmiki EW, Kanmodi KK, Kannan S, Kar SK, Karajizadeh M, Karakasis P, Behnagh AK, Karkhah S, Kashoo FZ, Kashyap MK, Kassa NI, Kaur A, Kaur A, Kayode GA, Kayola KK, Kazemian S, Kebede AZ, Kebede YT, Khaksar MA, Khalil AA, Khan A, Khan A, Khan IH, Khan M, Khan MI, Khan MF, Khan MA, Khan MU, Khan YS, Khan Z, Khasbage SU, Khatatbeh H, Khatatbeh M, Kheirallah KA, Khokhar M, Khosla P, Khosravi F, Khosravi S, Khubchandani J, Kifle ZD, Kim HJ, Kim J, Kim K, Kim MS, Kimokoti RW, Kisa A, Kondlahalli SKM, Kolahi AA, Kompani F, Korzh O, Koulmane Laxminarayana SL, Krishan K, Krishnamoorthy V, Kua CH, Kuanar A, Kuddus M, Kulimbet M, Kumar A, Kumar A, Kumar L, Kumar N, Kumar P, Kumar S, Kundu S, Kunutsor SK, Kurniasari MD, Kurpad KP, Kurpas D, Kustanti CY, Kusuma D, Kuttybayev A, Kwak T, Kytö V, L C P, Lahariya C, Lai H, Lakanova B, Laksono T, Larsson AO, Le T, Le THM, Ledda C, Lee H, Lee HL, Lee H, Lee RLS, Lee SW, Lee WC, Leivaditis V, Leone PP, Leong E, Li C, Li J, Li J, Li M, Li MC, Li Q, Li X, Li ZG, Lian Y, Lin J, Lindholm D, Linn S, Liu H, Liu X, Liu X, Liu X, Liu Y, Llanaj E, Lodhi MS, Lokunarangoda NC, López-Cortés A, López-Gil JF, Lu K, Lubinda J, Lucchetti G, Ludhiadch A, Luo P, Lusk JB, Lv L, Lytvyak E, Madadi F, Madureira-Carvalho ÁM, Maffia P, Mahalingam S, Mahamed SA, Mahmood NH, Mahmoud MA, Majid A, Malik AA, Malik B, Malik T, Malkamu B, Maniya MT, Mannan F, Mannethodi K, Mansourian M, Mantovani LG, Manzoor I, Manzoor S, Maqbool T, Marateb HR, Marino M, März W, Marzo RR, Marzouk S, Masi S, Mathangasinghe Y, Mathur N, Mavrovounis G, McPhail SM, Meftah E, Mehari M, Meto TM, Melisa S, Melwani S, Memon AR, Menezes GA, Mengistie EA, Mensah GA, Meo AS, Meo SA, Mercogliano M, Merlino G, Mesfin RA, Mestrovic T, Mettananda C, Mettananda S, Metwally MM, Miao KH, Miazgowski B, Mikrajab MA, Minervini G, Ming WK, Khan Minhas AM, Mirshahvalad SA, Mishra V, Mitra T, Mogessie Y, Mohamed AE, Mohamed NS, Ahmed HM, Siraj HM, Mohammad T, Mohammadzadeh Z, Mohammed M, Mohammed O, Mohammed S, Mokdad AH, Mondal H, Montazerinamin S, Moradi A, Morgan AK, Morovvati M, Morsy MM, Mosaddeghi-Heris R, Mostafa MS, Mousavi P, Mozafar M, Yousefi KM, Mubarik S, Muche EA, Mudenda S, Muhammad JS, Mukhopadhyay A, Mulita F, Munjal K, Musa S, Mushtaq A, Muthu S, Muvunyi CM, Mwita JC, Myung W, Nabipoorashrafi S, Nagarajan AJ, Naik GR, Nainu F, Najmuldeen HHR, Nargus S, Nascimento BR, Nascimento GG, Naser MIH, Nasiri H, Nasoufidou A, Nassar M, Natto ZS, Nayak BP, Nekliudov N, Nekouei O, Nepal S, Nguyen D, Nguyen NP, Niazi RK, Nikoobar A, Nketia R, Nkrumah-Boateng PA, Noreen M, Nosseir NS, Noubiap JJ, Nri-Ezedi CA, Ntsekhe M, Nugen F, Nzoputam CI, Nzoputam OJ, Oancea B, Oduro MS, Ogbo FA, Ogunrinde A, Ojedoyin OO, Okeke SR, Okesanya OJ, Oladejo MK, Olagunju AT, Olalusi OV, Moraes Oliveira GM, Olorukooba AA, Olorunlana A, Oluwole OG, Omar Bali A, Orscelik A, Ortiz A, Ostrominski JW, Osuagwu UL, Ouyahia A, Owolabi MO, Oyebanji OA, Oyelade T, Ozsahin I, P A M, Padron-Monedero A, Padubidri JR, Paija DM, Palaniswamy V, Panda SK, Pantazopoulos I, Stoian AP, Papa MV, Papadimopoulos I, Pardhan S, Roudsari PP, Parida A, Parve S, Pasovic M, Passera R, Patel BU, Patel HP, Patel KN, Patel MN, Patel NN, Patel SV, Patil N, Patoulias D, Pattnaik S, Paudel U, Pawar SD, Toroudi HP, Peddireddy AM, Peprah P, Osei EP, Pereira AC, Perna S, Petcu IR, Petermann-Rocha F, Pham TT, Philip AK, Piracha ZZ, Pirera E, Plotnikov E, Porntaveetus T, Pourasghary S, Pourghazi F, Pruc M, Pugliese NR, Puvvula J, Qasim NH, Qi X, Qureshi A, Shahraki HR, Rafiei D, Raghav P, Raghav YS, Rahim HM, Rahimi S, Rahman FS, Rahman F, Hifz Ur Rahman M, Rahman MM, Rahman MR, Rahman M, Rahman MA, Rahmani AM, Rahmati S, Raj JP, Raja A, Raja HAA, Rajendran G, Rajendran J, Rajendran R, Rajizadeh MA, Rajpoot PL, Ramadan MM, Ramadhan K, Ramasamy C, Ramasamy SK, Ramírez-Vélez R, Ramphul K, Rao AG, Rathi I, Rathish D, Ravi R, Rawal L, Reddy MMRK, Redwan EM, Regassa AA, Rehman A, Ur Rehman N, Ren J, Rezaei M, Rezaei N, Rezaeian M, Ribeiro ALP, Rizvi MR, Buendia Rodriguez JA, Röhr S, Roever L, Romadlon DS, Rony MKK, Root KT, Ross AGP, Rotimi K, Rout HS, Roy A, Roy S, Rwegerera GM, Saad AMA, Saad MO, Saadeddin A, Saber-Ayad MM, Saboor M, Saddique MN, Sadeghi E, Sadeghi M, Sadek B, Sadr H, Saeb MR, Saeed S, Saeed U, Saghazadeh A, Saha N, Sahban Rafsanjani A, Saheb Sharif-Askari N, Sahebkar A, Sajadi SM, Saki M, Sakshaug JW, Salami B, Saleem RSZ, Saleem S, Saleh MA, Salehi M, Salem A, Salihu AT, Samodra YL, Samuel VP, Samy AM, Santos IS, Sarate S, Saravanan A, Sarmadi M, Sarode S, Sarveazad A, Sassano M, Satpathy M, Satyam SM, Saurabh A, Far MS, Khai TS, Sayeed A, Schinckus C, Schlaich MP, Schuermans A, Selvaraj C, Selvaraj S, Senthilkumaran S, Sethi Y, Setiawan CH, Alshohadaei SMS, Shabalin S, Shaban-Nejad A, Shabil M, Shahab U, Shaharudin S, Shahid I, Shahid S, Shahid SMA, Shahid W, Shahini E, Shahwan MJ, Shaikh MA, Sham S, Shamim MA, Shams F, Shams-Beyranvand M, Shamsutdinova A, Shan D, Sharifan A, Rad JS, Sharifianjazi F, Sharma A, Sharma A, Sharma B, Sharma K, Sharma RK, Sharma U, Shastry S, Sheidaei A, Shenoy RR, Shetty M, Shetty P, Shetty P, Shi J, Shimul MMH, Shirali PA, Shittu A, Shivarov V, Shoaib A, Shool S, Shorofi SA, Shrestha S, Sidamo NB, Siddig EE, Silva JP, Singh AP, Singh B, Singh BP, Singh H, Singh JA, Singh K, Singh PS, Singh P, Singh SK, Singh S, Sinha MK, Skryabin VY, Sokhal BS, Solanki S, Sood A, Sood P, Soraneh S, Sorrentino M, Spartalis M, Sriram S, Srivastava DB, Stachteas P, Starodubova A, Stubbs B, Su CY, Subasi O, Subramaniyan V, Sullman MJM, Sun X, Sundström J, Swain CK, Szarpak L, Tabaja C, Tabatabaei SM, Tabche C, Tabibi R, Tabor BB, Tagiisuran B, Taheri N, Tajabadi S, Tam HL, Tan CS, Tanashat M, Tazhiyeva AY, Tedla MG, Temedie-Asogwa T, Temsah MH, Teramoto M, Thakar V, Thangaraju P, Thangavelu L, Tharwat I, Thayakaran R, Thomas J, Thornton CS, Ticoalu JHV, Tomo S, Tonapa SI, Touko AD, Tovani-Palone MR, Tran QTH, Tran TQM, Tran TH, Trico D, Triplett T, Tristan CD, Truong QXN, Tse G, Tsegaye GW, Tully PJ, Ul Hassan A, Ullah A, Ullah H, Ullah I, Ullah R, Umair M, Umakanthan S, Umapathi KK, Umar HO, Umar M, Unim B, Unnikrishnan B, Upadhyay E, Usman JS, Uwishema O, Ozsahin DU, Uzunçibuk H, Vaithinathan AG, Valdez PR, Van den Eynde J, Varghese J, Vasankari TJ, Verma P, Vinh TB, Vitiello A, Vlassov V, Vos T, Vu LV, Wada AS, Wang L, Wang W, Wang Y, Ward PR, Wasihun YM, Wei X, Weintraub RG, Wicaksana AL, Wickramasinghe ND, Wu Z, Wubie YM, Xiao H, Xiao N, Xie W, Xu X, Yadegar A, Yahoo S, Yahya G, Yamagishi K, Yan LD, Yang C, Yang H, Yano Y, Yao H, Yassin MA, Yasufuku Y, Yaya S, Yesuf SA, Yewodiaw TK, Yigit A, Yin D, Yismaw YE, Yon DK, Yonemoto N, Younis MZ, Yu C, Yu H, Yu Y, Yunusa S, Yunusa I, Zafar M, Zafarjafarzadeh N, Zaghampour M, Zamora N, Zare I, Zarea K, Zargar S, Zastrozhin M, Zawiah M, Zeariya MGM, Zeru EM, Zhang B, Zhang DX, Zhang H, Zhang JMF, Zhang Y, Zhang Z, Zhanuzakov M, Zhong CC, Zhou XD, Zhu B, Zhumagaliuly A, Zia H, Zoghi G, Zoromba MA, Zyoud AH, Zyoud SH, Murray CJL, Roth GA.",
+    "affiliations": "Institute for Health Metrics and Evaluation, University of Washington, Seattle. | Infectious and Tropical Research Center, Tabriz University of Medical Sciences, Tabriz, Iran. | Department of Internal Medicine, Rafsanjan University of Medical Sciences, Rafsanjan, Iran. | Clinical Research Development Unit, Rafsanjan University of Medical Sciences, Rafsanjan, Iran. | Advanced Diagnostic and Interventional Radiology Research Center (ADIR), Tehran University of Medical Sciences, Tehran, Iran. | Department of Epidemiology, Alexandria University, Alexandria, Egypt. | School of Nursing, The University of Jordan, Amman, Jordan. | College of Pharmacy, King Saud University, Riyadh, Saudi Arabia.",
+    "extra": {
+      "pmid": "42814432",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "doi:10.1001/jamacardio.2026.4068",
+    "first_seen": "2026-11-05",
+    "date": "2026-11-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": true,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Climate-Related Disaster Adversity and PTSD-Related Outcomes Among Adolescents in Coastal Bangladesh: A Propensity Score Overlap-Weighted Analysis",
+    "summary": "<h4>Background</h4>Climate-related disasters are important environmental stressors for adolescent mental health, particularly in low- and middle-income countries. However, evidence regarding post-traumatic stress disorder (PTSD) and complex PTSD (CPTSD) among adolescents experiencing cumulative disaster adversity remains limited. This study examined associations between disaster adversity and PTSD-related outcomes among adolescents in coastal Bangladesh.<h4>Methods</h4>A cross-sectional school-based survey included 1697 adolescents from Grades 6-8 across three coastal upazilas between October and November 2025. Disaster adversity was assessed using an eight-item cumulative index, with ≥4 adversities defining elevated adversity. PTSD-related outcomes were assessed using the Child and Adolescent Trauma Screen-2. Physical activity and resilient coping were examined as exploratory correlates. Associations were examined using covariate-adjusted regression and propensity score overlap weighting with school-clustered robust inference.<h4>Results</h4>Elevated disaster adversity was associated with higher DSM-5 PTSD symptom severity (β = 5.21, 95% confidence interval [CI] 0.33-10.09). In overlap-weighted analyses, elevated adversity was associated with a higher prevalence of probable PTSD on the basis of the ≥25 cutoff (prevalence ratio [PR] = 2.00, 95% CI 1.14-3.52), probable International Classification of Diseases, 11th Revision (ICD-11) PTSD (PR = 2.20, 95% CI 1.10-4.38), and probable ICD-11 CPTSD (PR = 3.00, 95% CI 1.04-8.67). The estimate for probable DSM-5 PTSD was PR = 2.01 (95% CI 0.99-4.06), whereas no association was observed with functional impairment (PR = 1.02, 95% CI 0.95-1.10). Physical activity was positively associated only with PTSD symptom severity (β = 2.37, 95% CI 0.39-4.36); resilient coping was positively associated with PTSD symptom severity and several probable PTSD outcomes. PTSD-related symptom burden was higher at greater levels of cumulative adversity, with little evidence of nonlinearity.<h4>Conclusions</h4>Greater cumulative disaster adversity was cross-sectionally associated with higher PTSD symptom severity and several probable PTSD-related outcomes. These findings support consideration of adolescent mental health within disaster preparedness and school-based psychosocial support, whereas longitudinal studies are needed to establish temporal relationships.",
+    "url": "https://doi.org/10.1002/brb3.71894",
+    "doi": "10.1002/brb3.71894",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-01",
+    "journal": "Brain and behavior",
+    "authors": "Mamun FA, Mamun MA, Abdelall MMR, Islam J, Muhit M.",
+    "affiliations": "CHINTA Research Bangladesh, Dhaka, Bangladesh. | Department of Public Health, University of South Asia, Dhaka, Bangladesh. | CHINTA Research Bangladesh, Dhaka, Bangladesh. | Department of Public Health, University of South Asia, Dhaka, Bangladesh. | Department of Physical Sport Sciences, College of Sport Sciences and Physical Activity, Princess Nourah Bint Abdulrahman University, Riyadh, Saudi Arabia. | Department of Public Health, University of South Asia, Dhaka, Bangladesh. | Department of Public Health, University of South Asia, Dhaka, Bangladesh.",
+    "extra": {
+      "pmid": "43002135",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
+    },
+    "id": "doi:10.1002/brb3.71894",
+    "first_seen": "2026-11-12",
+    "date": "2026-11-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
     "canadian": false,
     "channel": "journals",
     "source_type_label": "Journal article",
@@ -7040,6 +7953,37 @@
     "pharma": false
   },
   {
+    "title": "measles",
+    "summary": "measles Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
+    "doi": "",
+    "source": "Britannica",
+    "source_type": "news",
+    "published_date": "2026-10-24",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR second dose age schedule"
+    },
+    "id": "url:003e143159bf364d",
+    "first_seen": "2026-11-05",
+    "date": "2026-10-24",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Pennsylvania Warns Doctors About Congenital Measles After 66 Pregnant Women Were Infected in the State Outbreak",
     "summary": "Pennsylvania Warns Doctors About Congenital Measles After 66 Pregnant Women Were Infected in the State Outbreak Medical Daily",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTDFUU1pkQjEtX1pCX0xJQUZnMDd3UF82b0VmRGtBdjNVS1VxR19tVFpVNHBlSFlqaktGbHV5YlRvRUxBcjZaWXAxX0JaLW9Zc1VidEd0eUJ6Y2NVRU1ZTV80MnFFWWV3TmpzUDdTdDNZZjJORUU0aTBMNld3eEpZeHdPNGhSMDQ2VHRWZ3BTZlQ3OXBYaGc?oc=5",
@@ -7466,17 +8410,17 @@
   },
   {
     "title": "Why Measles Poses Added Risks During Pregnancy",
-    "summary": "Why Measles Poses Added Risks During Pregnancy The American Journal of Managed Care",
+    "summary": "Why Measles Poses Added Risks During Pregnancy AJMC",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yNVdpRmprN1QzX29QejlNUzJSU3lVZVhBbXBSN3R5ay1HTHVfek5QeFRGbzFXY2FrZktfeXNadk04ckZSQ2RIemhXZTRpVVlUUlIxc2gySGotZ1U5T09iWWNFYWJUdmJBUkZUTTN1LVlQbkVya1Y3cGZ2WHI?oc=5",
     "doi": "",
-    "source": "The American Journal of Managed Care",
+    "source": "AJMC",
     "source_type": "news",
     "published_date": "2026-10-22",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles in pregnancy outcome"
+      "search_term": "measles post-exposure prophylaxis pregnancy"
     },
     "id": "url:6ad461460229eaf0",
     "first_seen": "2026-11-05",
@@ -7854,7 +8798,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles outbreak pregnancy"
+      "search_term": "congenital measles"
     },
     "id": "url:cf84c1e7e7135dc8",
     "first_seen": "2026-11-05",
@@ -8166,9 +9110,10 @@
     "source_type_label": "News article",
     "reviewed": false,
     "pharma": false,
-    "duplicate_count": 1,
+    "duplicate_count": 2,
     "also_reported_by": [
-      "Yahoo Health"
+      "Yahoo Health",
+      "AOL.ca"
     ]
   },
   {
@@ -8482,37 +9427,6 @@
     "pharma": false
   },
   {
-    "title": "Canada’s 2-year measles outbreak officially over: PHAC",
-    "summary": "Canada’s 2-year measles outbreak officially over: PHAC Global News",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wS1NnTmk2a1o3M0JkdnlwdUlneWdqcDJaQkFEX1ctNGpqSkFSS0pMVHc1c1p6anZ3cVlDNWFFUFZrTG9aSzVNSW5UQkM4UGY4MnNBNFlrQko1VnplVmxieTFGSGpiRnQxRTdGQ1pReEdwSERHOFF6ZF83ZU50ajQ?oc=5",
-    "doi": "",
-    "source": "Global News",
-    "source_type": "news",
-    "published_date": "2026-10-20",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "measles outbreak Canada"
-    },
-    "id": "url:06f960d4620fa0d7",
-    "first_seen": "2026-11-05",
-    "date": "2026-10-20",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": true,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
     "title": "Updates on the Molecular Classification of Endometrial Carcinoma",
     "summary": "The risk of recurrence and metastasis in patients with endometrial carcinoma varies widely, making evaluation of risk in individual patients critically important for planning effective adjuvant treatment. Tumor histotype and grade have been used, along with stage and lymphovascular space invasion (LVSI), but suboptimal reproducibility of histotype assignment (especially for high-grade tumors) and tumor grade have made risk assessment challenging. Similarly, single biomarkers such as L1CAM and beta-catenin have shown potential but none have emerged as well-validated and reproducible markers of risk in endometrial carcinoma. This changed with the finding of The Cancer Genome Atlas that there are 4 molecular subtypes of endometrial carcinoma, based on genomic architecture. Subsequently, a clinically applicable approach to endometrial carcinoma molecular subtype has emerged, based on sequencing of POLE to detect a limited number of pathogenic mutations, and immunostaining for mismatch repair (MMR) proteins and p53. This approach places each endometrial carcinoma into one of 4 molecular subtypes (POLEmut, MMRd, p53abn, and no specific molecular profile [NSMP]) that can be reproducibly diagnosed, show excellent concordance between the biopsy and hysterectomy specimen, are of prognostic significance, predict response to specific adjuvant therapies, and can be used to screen for underlying hereditary cancer susceptibility syndromes. Molecular subtype is now integrated into widely used endometrial carcinoma risk assessment guidelines and is a key component of the 2023 update to the International Federation of Gynecology and Obstetrics (FIGO) staging system for endometrial carcinoma. Recently, prognostic refinement of the 4 molecular groups introduces a possible fifth group showing absence of estrogen receptor (ER) expression and/or high histologic grade within the NSMP subtype. We will review the key features of endometrial carcinoma molecular subtypes, focusing on recent advances in molecular subtype diagnosis in practice.",
     "url": "https://doi.org/10.1097/pap.0000000000000556",
@@ -8574,6 +9488,37 @@
     "canadian": false,
     "channel": "journals",
     "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Canada’s 2-year measles outbreak officially over: PHAC",
+    "summary": "Canada’s 2-year measles outbreak officially over: PHAC Global News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wS1NnTmk2a1o3M0JkdnlwdUlneWdqcDJaQkFEX1ctNGpqSkFSS0pMVHc1c1p6anZ3cVlDNWFFUFZrTG9aSzVNSW5UQkM4UGY4MnNBNFlrQko1VnplVmxieTFGSGpiRnQxRTdGQ1pReEdwSERHOFF6ZF83ZU50ajQ?oc=5",
+    "doi": "",
+    "source": "Global News",
+    "source_type": "news",
+    "published_date": "2026-10-19",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak Canada"
+    },
+    "id": "url:06f960d4620fa0d7",
+    "first_seen": "2026-11-05",
+    "date": "2026-10-19",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": true,
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -8668,7 +9613,11 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "980 CJME"
+    ]
   },
   {
     "title": "Opinion: Canada’s fight to regain measles elimination status shouldn’t stop at the border",
@@ -9250,7 +10199,11 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "CP24"
+    ]
   },
   {
     "title": "Case Study on Formulating a Multidose Lyophilized Measles-Rubella (MR) Vaccine Candidate for Local Manufacturing in Africa: Lab-Scale Results and Lessons Learned for Future Technology Transfer",
@@ -9995,6 +10948,40 @@
     },
     "id": "doi:10.3390/jcm15207814",
     "first_seen": "2026-11-05",
+    "date": "2026-10-10",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "A Case of Hidden Synchronous Colorectal Cancer",
+    "summary": "Synchronous colorectal cancer (SCC) is uncommon and refers to multiple primary colorectal cancers arising simultaneously. The following case presents the clinical course of a 54-year-old female patient who presented with abdominal pain. She was found to have a mass in the hepatic flexure and another mass in the splenic flexure, both of which were found to be invasive adenocarcinoma and negative for mismatch repair (MMR) deficiency on the testing performed. Clinicians should be aware of SCC, as colonoscopy can identify tumors not visualized on computed tomography (CT), and early surgical intervention can ultimately be curative for patients.",
+    "url": "https://doi.org/10.7759/cureus.117746",
+    "doi": "10.7759/cureus.117746",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-10-10",
+    "journal": "Cureus",
+    "authors": "Eshak A, Kavvathas S, Sergah R, Paredes H.",
+    "affiliations": "Internal Medicine, Arrowhead Regional Medical Center, Colton, USA. | Internal Medicine, Arrowhead Regional Medical Center, Colton, USA. | Internal Medicine, Arrowhead Regional Medical Center, Colton, USA. | Gastroenterology, Arrowhead Regional Medical Center, Colton, USA.",
+    "extra": {
+      "pmid": "43005966",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
+    },
+    "id": "doi:10.7759/cureus.117746",
+    "first_seen": "2026-11-12",
     "date": "2026-10-10",
     "policy_area": [
       "general_measles"
@@ -12098,6 +13085,40 @@
     "pharma": false
   },
   {
+    "title": "Estimating Risk of Measles Virus Transmission in Countries with Measles Elimination Status: A Comparative Measles Seroprevalence Study",
+    "summary": "Measles elimination is threatened by the virus's high infectivity (R 0 = 12-18), waning immunity, and persistent immunity gaps. No global study has compared measles seroprevalence before and after elimination. We assessed whether countries that had eliminated measles achieved and maintained the herd immunity threshold and identified key vulnerabilities. For countries with World Health Organization (WHO)-confirmed measles elimination, we systematically searched PubMed, Web of Science, and Google Scholar for seroprevalence data covering the three years before and the three years after elimination verification. Sample-size-weighted medians and interquartile ranges were calculated to describe seroprevalence, with stratified analyses by age group and country. The overall seroprevalence in the three years before and after elimination verification was also compared. Among 31 countries with measles elimination status (351 datasets comprising 562,772 participants), the overall median seroprevalence was 92.8%. Seroprevalence increased significantly with age ( P < 0.001), from 56.5% among infants (aged 0-1 years) to 96.8% among older adults (aged > 40 years). Twenty-six percent of the countries had a seroprevalence of ≥ 92%, indicating a low risk of measles transmission, whereas 45% had a seroprevalence of < 85%, indicating a substantial transmission risk. The median seroprevalence decreased significantly from 94.9% during the three years before elimination verification to 83.5% during the three years after verification ( P < 0.001). Achieving measles elimination does not guarantee that population-level protection will be sustained. Despite high overall seroprevalence, important immunity gaps persist among infants and young children, and some countries do not maintain the required herd immunity threshold following elimination. Targeted interventions are needed to close immunity gaps and strengthen national population immunity to prevent measles resurgence.",
+    "url": "https://doi.org/10.3967/bes2026.106",
+    "doi": "10.3967/bes2026.106",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-10-01",
+    "journal": "Biomedical and environmental sciences : BES",
+    "authors": "Gong LL, Abudurusuli G, Zheng F, Xie JY, Wang HQ.",
+    "affiliations": "State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics, National Innovation Platform for Industry-Education Integration in Vaccine Research, Xiamen University, Xiamen 361000, Fujian, China;State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, School of Public Health, Xiamen University, Xiamen 361000, Fujian, China. | State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics, National Innovation Platform for Industry-Education Integration in Vaccine Research, Xiamen University, Xiamen 361000, Fujian, China;State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, School of Public Health, Xiamen University, Xiamen 361000, Fujian, China. | State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics, National Innovation Platform for Industry-Education Integration in Vaccine Research, Xiamen University, Xiamen 361000, Fujian, China;State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, School of Public Health, Xiamen University, Xiamen 361000, Fujian, China. | State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics, National Innovation Platform for Industry-Education Integration in Vaccine Research, Xiamen University, Xiamen 361000, Fujian, China;State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, School of Public Health, Xiamen University, Xiamen 361000, Fujian, China. | State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics, National Innovation Platform for Industry-Education Integration in Vaccine Research, Xiamen University, Xiamen 361000, Fujian, China;State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, School of Public Health, Xiamen University, Xiamen 361000, Fujian, China;National Immunization Program, Chinese Center for Disease Control and Prevention, Beijing 100021, China.",
+    "extra": {
+      "pmid": "43016183",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "doi:10.3967/bes2026.106",
+    "first_seen": "2026-11-12",
+    "date": "2026-10-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Timeliness of childhood vaccination in Iran: Survival analysis of a national immunization survey, 2019",
     "summary": "<h4>Objectives</h4>Despite high vaccination coverage in Iran, delays in administering age-appropriate vaccines may compromise overall protection. This study used survival analysis to examine the timeliness of vaccine delivery and its sociodemographic correlates.<h4>Methods</h4>We analyzed the vaccination histories of 8248 children aged 24-35 months from the 2019 National Immunization Coverage Survey. Timeliness for the third pentavalent dose (Penta3) and the first measles-mumps-rubella dose (MMR1) was assessed via Kaplan-Meier curves and Cox proportional hazards models, with time-dependent effects where the proportionality assumption was violated. The Gini index was accounted for through stratification.<h4>Results</h4>Although Penta3 coverage was high at 99.13%, only 72.23% of participants had received their vaccinations within the recommended time frame (<i>P</i> < 0.001). In contrast, the disparity between total coverage (99.04%) and valid coverage (94.36%) for MMR1 was notably less pronounced (<i>P</i> = 0.003). For Penta3, maternal literacy was associated with higher on-time vaccination (hazard ratio [HR] = 1.38; 95% confidence interval [CI] = 1.16-1.66), whereas a birth order ≥4 was associated with lower timeliness (HR = 0.72; 0.63-0.82). For MMR1, urban residence was associated with a lower baseline hazard of on-time vaccination (HR = 0.57; 0.49-0.67), alongside a modest increase in the time-dependent HR (TD-HR = 1.02; 1.01-1.03), suggesting partial convergence over time. Maternal literacy showed no strong main effect for MMR1 (HR = 0.94; 0.64-1.37), with a slight positive time trend (TD-HR = 1.01; 0.99-1.04).<h4>Conclusion</h4>Even with high coverage, gaps in on-time vaccination remain-particularly, among higher-parity children and in urban settings at baseline. The findings underscore the value of routinely reporting timeliness (not just total coverage) and of targeting context-specific barriers (e.g. for large families and urban clinics) to narrow disparities in on-time immunization.",
     "url": "https://doi.org/10.1016/j.ijregi.2026.101031",
@@ -12160,40 +13181,6 @@
     "pregnancy_related": false,
     "species": "human",
     "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "Global, Regional, and National Burden of Heart Failure, 1990-2023: A Systematic Analysis for the Global Burden of Disease Study 2023",
-    "summary": "<h4>Importance</h4>Heart failure (HF) is a common condition with substantial geographical variation in its prevalence and underlying etiologies. Consistent and comparable data on the burden of HF within populations are needed to inform health system priorities.<h4>Objective</h4>To estimate the global burden of HF.<h4>Design, setting, and participants</h4>This cross-sectional study estimates disease burden using Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) methodologies to integrate multiple information sources. Data come from 204 countries and territories from 1990 to 2023 representing the global population with prevalent HF.<h4>Exposure</h4>HF and underlying etiologies.<h4>Main outcomes and measures</h4>Estimates with 95% uncertainty intervals (UIs) for the prevalence and years lived with disability (YLDs) for HF by age, sex, location, year, and underlying etiology.<h4>Results</h4>Globally, there were 56.0 million (95% UI, 49.9-62.2 million) estimated cases of HF in 2023. The estimated prevalence of HF generally increased with age for all locations. While ischemic heart disease and hypertensive heart disease were the 2 most common etiologies globally among older adults, there was substantial variation in etiological pattern by location and age. Congenital heart anomalies and rheumatic heart disease (RHD) were common etiologies in children and young adults, while the proportion of HF due to alcohol use peaked in middle adulthood. Location-specific estimates highlighted regions with higher burden of HF due to specific etiologies, including RHD (south Asia, east Asia, Oceania, southeast Asia, central sub-Saharan Africa, eastern sub-Saharan Africa, southern sub-Saharan Africa, and western sub-Saharan Africa), alcohol use (eastern Europe, Australasia, the Caribbean, and central Europe), and Chagas disease (southern, Andean, tropical, and central Latin America).<h4>Conclusions and relevance</h4>Heart failure is a significant global public health burden, and the impact is likely to increase as populations age. However, most HF etiologies can be prevented by interventions that reduce exposure to modifiable risk factors, such as elevated blood pressure, excessive alcohol consumption, and tobacco use. Etiology- and location-specific estimates can provide necessary information for public health officials to determine how best to prioritize interventions to reduce HF disease burden.",
-    "url": "https://doi.org/10.1001/jamacardio.2026.4068",
-    "doi": "10.1001/jamacardio.2026.4068",
-    "source": "Europe PMC",
-    "source_type": "journal_article",
-    "published_date": "2026-09-30",
-    "journal": "JAMA cardiology",
-    "authors": "GBD 2023 Heart Failure Collaborators, Johnson CO, Abbasi M, Abbasifard M, Abbastabar H, ElHafeez SA, Abdel Razeq NM, Abdelgalil AA, Abdolizadeh A, Abdoun M, Abdrabou M, Abdullahi A, Abebe TB, Abejew AA, Abil OZ, Abiodun O, Aboagye RG, Abohashem S, Aboouf MA, Abouelmagd ME, Abouzid M, Abramov D, Abtahi D, Abuadas FH, Abu-Gharbieh E, Abuhelwa AY, Abushanab D, Adams LC, Addo IY, Adedokun KA, Adegbile OE, Adegoke NA, Adeleke OT, Adeniyi MA, Adesina MA, Adesola RO, Adhikari K, Adisu MA, Adoma PO, Afoakwah C, Afrifa-Yamoah E, Sohail Afzal M, Aghaali M, Agide FD, Agordoh PD, Agostinis Sobrinho C, Agrawal P, Agyemang-Duah W, Ahmad D, Ahmad M, Ahmad S, Ahmad S, Ahmad S, Ahmad W, Ahmadi A, Ahmadi S, Ahmadian S, Ahmadzadeh K, Ahmed A, Ahmed GS, Ahmed MB, Ahmed M, Ahmed S, Ahmed SA, Ajami M, Ajayi AI, Akhigbe RE, Akhtar MN, Al Awaidy ST, Al Bahhawi T, Al Hasan SM, Al Nawayseh MK, Al Thaher Y, Al Zaabi OAM, Al Zoubi MAM, Alahdab F, Al-Ahmad MM, Alalalmeh SO, Alam MK, Alam R, Alanezi F, Alanzi T, Al-Ashwal FY, Alavi R, ALBashtawy MS, Aldabbour B, Al-Dalakta A, Aldawsari KA, Al-Dewik N, Aleidi SM, Alfalki AM, Algammal A, Algethami M, Alhabib K, Alhalaiqa FN, Alhumaydhi FA, Ali I, Ali MD, Ali MU, Ali R, Ali SS, Ali SY, Alif SM, Aligaz EM, Alimohammadi M, Na'uzo MA, Al-Jabi SW, Aljohani MS, Aljunid SM, Alkubati SA, Alla F, Allemailem KS, Allouh MZ, Almagharbeh WT, Almahmeed WA, Al-Marwani S, Almazan J, Alnaeem MM, Alniss HY, Alomari MA, Alosta MR, Al-Qudah M, Al-Qudimat AR, Alrawashdeh A, Al-Rifai RH, Alrimawi I, Alsaadi M, Alshahrani NZ, Altaf A, Altobaishat O, Altwalbeh D, Alvis-Guzman N, Al-Worafi YM, Aly H, Alyahya MS, Al-Zalabani AH, Alzoubi A, Alzoubi KH, Al-Zubairi AS, Al-Zyoud WA, Amini S, Amirtharaj AD, Ammirati E, Amu H, Amusa GA, Anagnostakis F, Ananda R, Andrei CL, Ang SP, Anil A, Anjanappa S, Anokye R, Anuoluwa BS, Anuoluwa IA, Anvari S, Anyasodor AE, Apostol GLC, Arabi H, Arabloo J, Aravkin A, Areda D, Aremu A, Arias de la Torre J, Aripov T, Arjmand G, Ärnlöv J, Aryntayeva N, Asamane EA, Ascione G, Asdaq SMB, Ashraf S, Ashraf T, Asiamah-Asare BKY, Aslam MS, Assariparambil AR, Ataç Ö, Athari SS, Atorkey P, Aujayeb A, Aung ZZ, Aurangzeb K, Awan UA, Awol KL, Awotidebe AW, Ayed A, Azad AKM, Azadnia A, Azami H, Azarboo A, Azarian M, Aziz MY, Aziz SA, Azzolino D, Babu AS, Bacha R, Badar M, Bagheri N, Baghlaf K, Baig AA, Bakhshali MA, Balakrishnan S, Baltatu OC, Bandara RP, Banik B, Barqawi HJ, Basharat Z, Bashir S, Bashiri A, Basiru A, Bastan MM, Batarseh N, Batchi-Bouyou AL, Batool S, Beeraka NM, Behnam B, Belay BM, Bente Kamal Tune SN, Ben-Umeh KC, Berihun AA, Bhagat DS, Bhardwaj N, Bhardwaj P, Bhaskar S, Bhattacharjee P, Bhattacharya S, Bhatti GK, Bhuiyan MMH, Bimal T, Bitar AN, Bizzozero-Peroni B, Bohn L, Borran M, Carvajal AB, Bouaoud S, Boxe C, Brant LC, Bugiardini R, Bui LP, Bulamu NB, Busch F, Bustanji YK, Campos LA, Cao Y, Cao Z, Capodici A, Carvalho F, Chakraborty A, Chakraborty C, Chakraborty S, Chan JSK, Chandrasekaran B, Chattu VK, Chau LD, Chaudhary AA, Cheema AAA, Chen AT, Chen H, Chen H, Chen MX, Chen X, Chew N, Chi G, Ching PR, Chong B, Chong K, Chopra D, Chopra H, Choudhari SG, Chowdhury EK, Chowdhury R, Chua JMT, Chung SC, Chung S, Cicero AFG, Corda M, Cosma C, Costa VM, Cruz-Martins N, Dadras O, Dai J, Dai X, Dalakoti M, Damasceno A, D'Amico E, D'Anna L, Darcho SD, Davletov D, Dejenie TA, Delgado-Enciso I, Dergaa I, Derviševic E, Desai HD, Devanbu VGC, Dhali A, Dhane AS, Dhungel B, Di Pumpo M, Dias da Silva D, Do HPT, Do TC, Dohare S, Dorostkar F, Doshi OP, Dourado PMM, Dumbili E, Duraes AR, Duraisamy SB, Dutta S, Dutta S, E'mar AR, Edeh C, Edvardsson DJ, Ejeta D, Ekholuenetale M, Adel El Arab R, El Sayed I, Eladl MA, Elalfy A, Elgendy IY, Elhadi M, El-Huneidi W, Elkhanishy S, Elmeligy OAA, Elmonem MA, Elmoselhi AB, Elnaem MH, Eltahawy AS, Emeto TI, Eva FN, Fabin N, Fadavian H, Fagbamigbe AF, Fakhradiyev I, Fareed M, Farhana A, Al-Juhyiish WF, Fazylov T, Fekadu G, Fekadu G, Fernandez-Jimenez R, Ferrara P, Ferreira N, Fischer F, Flor LS, Fogacci F, Fornari C, Rodrigues CF, Foschi M, Gad AG, Gaipov A, Ganessane E, Gangachannaiah S, Ganguli A, Gao D, Garcia FB, Garg C, Garlasco J, Gaye B, Gebrehiwot M, Matin AG, Getacher L, Getahun GK, Gete KY, Ghaderzadeh M, Ghaffari K, Jolfayi AG, Ghafoury R, Ghamkhar A, Gharaibeh L, Ghasemi M, Ghashghaee A, Ghazy RM, Ghith NMM, Ghoba S, Gil A, Gilani SA, Gillum RF, Gizachew S, Göbölös L, Golechha M, Goleij P, Golinelli D, Golmohammadi M, Goshu YA, Goulart AC, Guadie HA, Guha A, Gunawardane DA, Gupta L, Gupta M, Gupta R, Gupta S, Gutiérrez-Murillo RS, Guzmán-Muñoz E, Hadi NR, Haghtalab A, Halboup AM, Halder P, Halim SA, Hamdy NM, Hamed M, Hamidi H, Hamidi S, Hamilton EB, Hanif A, Hanifi N, Hanna F, Haq MA, Haque OI, Hasaballah AI, Hasan F, Hasan MK, Hasan SMM, Hasani H, Hashempur MH, Hassan IN, Hassan II, Hassan MI, Hassan M, Hassan NAG, Hassan S, Havmoeller RJ, Hay SI, Hayatu A, He WQ, Heidari G, Heidari M, Hein ZM, Hewage SA, Hezam K, Hiraike Y, Hoang M, Holla R, Hossain A, Hossain MS, Hossain SB, Hosseinzadeh M, Hostiuc M, Huang J, Hushmandi K, Hussein D, Huynh TN, Hwang BF, Ibitoye SE, Ibrahim FM, Ibrahim RK, Ibrayeva A, Ikram A, Ilic I, Ilic M, Ilyasu S, Imoh LC, Iqbal D, Iqhrammullah M, Irfan B, Islam MR, Ismoldayev Y, Iso H, Iwagami M, Iwu CD, Iwu-Jaja C, Iyalomhe OE, Izadidehkordi S, Izquierdo-Condoy JS, Jaafari J, Jacob J, Jadidi A, Jafari-Khounigh A, Jaganathan V, Jahrami H, Jaiswal V, Yengejeh RJ, Jamal A, Jamaluddin J, Jamil S, Jawaid T, Jayasinghe YA, Jeganathan J, Jeong S, Ji Z, Jonas JB, Joo T, Jose J, Jose J, Joseph AP, Joseph MA, Joshi KJ, Joshua CE, Joukar F, Jozwiak JJ, Jung SH, Juweid M, Kaambwa B, Kadir DH, Kahe F, Kakkar AK, Kalavani K, Kalra S, Kamorudeen RT, Kamyshnyi O, Kang J, Kankam SB, Kanmiki EW, Kanmodi KK, Kannan S, Kar SK, Karajizadeh M, Karakasis P, Behnagh AK, Karkhah S, Kashoo FZ, Kashyap MK, Kassa NI, Kaur A, Kaur A, Kayode GA, Kayola KK, Kazemian S, Kebede AZ, Kebede YT, Khaksar MA, Khalil AA, Khan A, Khan A, Khan IH, Khan M, Khan MI, Khan MF, Khan MA, Khan MU, Khan YS, Khan Z, Khasbage SU, Khatatbeh H, Khatatbeh M, Kheirallah KA, Khokhar M, Khosla P, Khosravi F, Khosravi S, Khubchandani J, Kifle ZD, Kim HJ, Kim J, Kim K, Kim MS, Kimokoti RW, Kisa A, Kondlahalli SKM, Kolahi AA, Kompani F, Korzh O, Koulmane Laxminarayana SL, Krishan K, Krishnamoorthy V, Kua CH, Kuanar A, Kuddus M, Kulimbet M, Kumar A, Kumar A, Kumar L, Kumar N, Kumar P, Kumar S, Kundu S, Kunutsor SK, Kurniasari MD, Kurpad KP, Kurpas D, Kustanti CY, Kusuma D, Kuttybayev A, Kwak T, Kytö V, L C P, Lahariya C, Lai H, Lakanova B, Laksono T, Larsson AO, Le T, Le THM, Ledda C, Lee H, Lee HL, Lee H, Lee RLS, Lee SW, Lee WC, Leivaditis V, Leone PP, Leong E, Li C, Li J, Li J, Li M, Li MC, Li Q, Li X, Li ZG, Lian Y, Lin J, Lindholm D, Linn S, Liu H, Liu X, Liu X, Liu X, Liu Y, Llanaj E, Lodhi MS, Lokunarangoda NC, López-Cortés A, López-Gil JF, Lu K, Lubinda J, Lucchetti G, Ludhiadch A, Luo P, Lusk JB, Lv L, Lytvyak E, Madadi F, Madureira-Carvalho ÁM, Maffia P, Mahalingam S, Mahamed SA, Mahmood NH, Mahmoud MA, Majid A, Malik AA, Malik B, Malik T, Malkamu B, Maniya MT, Mannan F, Mannethodi K, Mansourian M, Mantovani LG, Manzoor I, Manzoor S, Maqbool T, Marateb HR, Marino M, März W, Marzo RR, Marzouk S, Masi S, Mathangasinghe Y, Mathur N, Mavrovounis G, McPhail SM, Meftah E, Mehari M, Meto TM, Melisa S, Melwani S, Memon AR, Menezes GA, Mengistie EA, Mensah GA, Meo AS, Meo SA, Mercogliano M, Merlino G, Mesfin RA, Mestrovic T, Mettananda C, Mettananda S, Metwally MM, Miao KH, Miazgowski B, Mikrajab MA, Minervini G, Ming WK, Khan Minhas AM, Mirshahvalad SA, Mishra V, Mitra T, Mogessie Y, Mohamed AE, Mohamed NS, Ahmed HM, Siraj HM, Mohammad T, Mohammadzadeh Z, Mohammed M, Mohammed O, Mohammed S, Mokdad AH, Mondal H, Montazerinamin S, Moradi A, Morgan AK, Morovvati M, Morsy MM, Mosaddeghi-Heris R, Mostafa MS, Mousavi P, Mozafar M, Yousefi KM, Mubarik S, Muche EA, Mudenda S, Muhammad JS, Mukhopadhyay A, Mulita F, Munjal K, Musa S, Mushtaq A, Muthu S, Muvunyi CM, Mwita JC, Myung W, Nabipoorashrafi S, Nagarajan AJ, Naik GR, Nainu F, Najmuldeen HHR, Nargus S, Nascimento BR, Nascimento GG, Naser MIH, Nasiri H, Nasoufidou A, Nassar M, Natto ZS, Nayak BP, Nekliudov N, Nekouei O, Nepal S, Nguyen D, Nguyen NP, Niazi RK, Nikoobar A, Nketia R, Nkrumah-Boateng PA, Noreen M, Nosseir NS, Noubiap JJ, Nri-Ezedi CA, Ntsekhe M, Nugen F, Nzoputam CI, Nzoputam OJ, Oancea B, Oduro MS, Ogbo FA, Ogunrinde A, Ojedoyin OO, Okeke SR, Okesanya OJ, Oladejo MK, Olagunju AT, Olalusi OV, Moraes Oliveira GM, Olorukooba AA, Olorunlana A, Oluwole OG, Omar Bali A, Orscelik A, Ortiz A, Ostrominski JW, Osuagwu UL, Ouyahia A, Owolabi MO, Oyebanji OA, Oyelade T, Ozsahin I, P A M, Padron-Monedero A, Padubidri JR, Paija DM, Palaniswamy V, Panda SK, Pantazopoulos I, Stoian AP, Papa MV, Papadimopoulos I, Pardhan S, Roudsari PP, Parida A, Parve S, Pasovic M, Passera R, Patel BU, Patel HP, Patel KN, Patel MN, Patel NN, Patel SV, Patil N, Patoulias D, Pattnaik S, Paudel U, Pawar SD, Toroudi HP, Peddireddy AM, Peprah P, Osei EP, Pereira AC, Perna S, Petcu IR, Petermann-Rocha F, Pham TT, Philip AK, Piracha ZZ, Pirera E, Plotnikov E, Porntaveetus T, Pourasghary S, Pourghazi F, Pruc M, Pugliese NR, Puvvula J, Qasim NH, Qi X, Qureshi A, Shahraki HR, Rafiei D, Raghav P, Raghav YS, Rahim HM, Rahimi S, Rahman FS, Rahman F, Hifz Ur Rahman M, Rahman MM, Rahman MR, Rahman M, Rahman MA, Rahmani AM, Rahmati S, Raj JP, Raja A, Raja HAA, Rajendran G, Rajendran J, Rajendran R, Rajizadeh MA, Rajpoot PL, Ramadan MM, Ramadhan K, Ramasamy C, Ramasamy SK, Ramírez-Vélez R, Ramphul K, Rao AG, Rathi I, Rathish D, Ravi R, Rawal L, Reddy MMRK, Redwan EM, Regassa AA, Rehman A, Ur Rehman N, Ren J, Rezaei M, Rezaei N, Rezaeian M, Ribeiro ALP, Rizvi MR, Buendia Rodriguez JA, Röhr S, Roever L, Romadlon DS, Rony MKK, Root KT, Ross AGP, Rotimi K, Rout HS, Roy A, Roy S, Rwegerera GM, Saad AMA, Saad MO, Saadeddin A, Saber-Ayad MM, Saboor M, Saddique MN, Sadeghi E, Sadeghi M, Sadek B, Sadr H, Saeb MR, Saeed S, Saeed U, Saghazadeh A, Saha N, Sahban Rafsanjani A, Saheb Sharif-Askari N, Sahebkar A, Sajadi SM, Saki M, Sakshaug JW, Salami B, Saleem RSZ, Saleem S, Saleh MA, Salehi M, Salem A, Salihu AT, Samodra YL, Samuel VP, Samy AM, Santos IS, Sarate S, Saravanan A, Sarmadi M, Sarode S, Sarveazad A, Sassano M, Satpathy M, Satyam SM, Saurabh A, Far MS, Khai TS, Sayeed A, Schinckus C, Schlaich MP, Schuermans A, Selvaraj C, Selvaraj S, Senthilkumaran S, Sethi Y, Setiawan CH, Alshohadaei SMS, Shabalin S, Shaban-Nejad A, Shabil M, Shahab U, Shaharudin S, Shahid I, Shahid S, Shahid SMA, Shahid W, Shahini E, Shahwan MJ, Shaikh MA, Sham S, Shamim MA, Shams F, Shams-Beyranvand M, Shamsutdinova A, Shan D, Sharifan A, Rad JS, Sharifianjazi F, Sharma A, Sharma A, Sharma B, Sharma K, Sharma RK, Sharma U, Shastry S, Sheidaei A, Shenoy RR, Shetty M, Shetty P, Shetty P, Shi J, Shimul MMH, Shirali PA, Shittu A, Shivarov V, Shoaib A, Shool S, Shorofi SA, Shrestha S, Sidamo NB, Siddig EE, Silva JP, Singh AP, Singh B, Singh BP, Singh H, Singh JA, Singh K, Singh PS, Singh P, Singh SK, Singh S, Sinha MK, Skryabin VY, Sokhal BS, Solanki S, Sood A, Sood P, Soraneh S, Sorrentino M, Spartalis M, Sriram S, Srivastava DB, Stachteas P, Starodubova A, Stubbs B, Su CY, Subasi O, Subramaniyan V, Sullman MJM, Sun X, Sundström J, Swain CK, Szarpak L, Tabaja C, Tabatabaei SM, Tabche C, Tabibi R, Tabor BB, Tagiisuran B, Taheri N, Tajabadi S, Tam HL, Tan CS, Tanashat M, Tazhiyeva AY, Tedla MG, Temedie-Asogwa T, Temsah MH, Teramoto M, Thakar V, Thangaraju P, Thangavelu L, Tharwat I, Thayakaran R, Thomas J, Thornton CS, Ticoalu JHV, Tomo S, Tonapa SI, Touko AD, Tovani-Palone MR, Tran QTH, Tran TQM, Tran TH, Trico D, Triplett T, Tristan CD, Truong QXN, Tse G, Tsegaye GW, Tully PJ, Ul Hassan A, Ullah A, Ullah H, Ullah I, Ullah R, Umair M, Umakanthan S, Umapathi KK, Umar HO, Umar M, Unim B, Unnikrishnan B, Upadhyay E, Usman JS, Uwishema O, Ozsahin DU, Uzunçibuk H, Vaithinathan AG, Valdez PR, Van den Eynde J, Varghese J, Vasankari TJ, Verma P, Vinh TB, Vitiello A, Vlassov V, Vos T, Vu LV, Wada AS, Wang L, Wang W, Wang Y, Ward PR, Wasihun YM, Wei X, Weintraub RG, Wicaksana AL, Wickramasinghe ND, Wu Z, Wubie YM, Xiao H, Xiao N, Xie W, Xu X, Yadegar A, Yahoo S, Yahya G, Yamagishi K, Yan LD, Yang C, Yang H, Yano Y, Yao H, Yassin MA, Yasufuku Y, Yaya S, Yesuf SA, Yewodiaw TK, Yigit A, Yin D, Yismaw YE, Yon DK, Yonemoto N, Younis MZ, Yu C, Yu H, Yu Y, Yunusa S, Yunusa I, Zafar M, Zafarjafarzadeh N, Zaghampour M, Zamora N, Zare I, Zarea K, Zargar S, Zastrozhin M, Zawiah M, Zeariya MGM, Zeru EM, Zhang B, Zhang DX, Zhang H, Zhang JMF, Zhang Y, Zhang Z, Zhanuzakov M, Zhong CC, Zhou XD, Zhu B, Zhumagaliuly A, Zia H, Zoghi G, Zoromba MA, Zyoud AH, Zyoud SH, Murray CJL, Roth GA.",
-    "affiliations": "Institute for Health Metrics and Evaluation, University of Washington, Seattle. | Infectious and Tropical Research Center, Tabriz University of Medical Sciences, Tabriz, Iran. | Department of Internal Medicine, Rafsanjan University of Medical Sciences, Rafsanjan, Iran. | Clinical Research Development Unit, Rafsanjan University of Medical Sciences, Rafsanjan, Iran. | Advanced Diagnostic and Interventional Radiology Research Center (ADIR), Tehran University of Medical Sciences, Tehran, Iran. | Department of Epidemiology, Alexandria University, Alexandria, Egypt. | School of Nursing, The University of Jordan, Amman, Jordan. | College of Pharmacy, King Saud University, Riyadh, Saudi Arabia.",
-    "extra": {
-      "pmid": "42814432",
-      "cited_by": 0,
-      "open_access": false,
-      "preprint_server": ""
-    },
-    "id": "doi:10.1001/jamacardio.2026.4068",
-    "first_seen": "2026-11-05",
-    "date": "2026-09-30",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": true,
     "channel": "journals",
     "source_type_label": "Journal article",
     "reviewed": false,
@@ -13363,10 +14350,10 @@
   },
   {
     "title": "COVID-19, Measles, and the New Vaccine Order: What Parents Should Know",
-    "summary": "COVID-19, Measles, and the New Vaccine Order: What Parents Should Know The American Journal of Managed Care",
+    "summary": "COVID-19, Measles, and the New Vaccine Order: What Parents Should Know AJMC",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFJNVUVKT2JiX0xOQkNuMk9JZG1ZdnZYRXhNT1NxRE9iYzZhRGdmNTF3MDB2aW1yWmtVYUN6Ynl6eEFmZDViNFNIaXVoaWoxZFh1ZlJTbHliMmJZWEw0UjFENDBaeTRMSzVxeHQzWTh2eHVXUFh6LV94bmZ6c1BxRjhvOGktWlk2WElrbWxSenloTlZ3Z2lONQ?oc=5",
     "doi": "",
-    "source": "The American Journal of Managed Care",
+    "source": "AJMC",
     "source_type": "news",
     "published_date": "2026-09-24",
     "journal": "",
@@ -17504,14 +18491,17 @@
     "summary": "Aseptic meningoencephalitis in immunocompetent adults in Central Europe is most commonly attributed to Borrelia burgdorferi, enteroviruses, herpesviruses (HSV, VZV), and tick-borne encephalitis virus. While these agents retain diagnostic priority, a range of less common yet clinically relevant etiologies are frequently overlooked in differential diagnosis, potentially affecting disease course and patient prognosis. This narrative review focuses on such underrecognized infectious agents in patients without a travel history outside Central Europe and adjacent regions. Discussed pathogens include hepatitis E virus (particularly genotype HEV-3, with its neurological manifestations such as neuralgicamyotrophy and Guillain-Barré syndrome), acute HIV infection, neurosyphilis, leptospirosis, bartonellosis, tularemia,Rickettsia, Anaplasma, and Coxiella infections, Mycoplasma pneumoniae, and Tropheryma whipplei. Particular attention is given to vector-borne neurotropic viruses relevant to the Central European region (West Nile virus, Usutu virus, Tahyna virus, Borna disease virus 1, Toscana virus, Sindbis virus, and Crimean-Congo hemorrhagic fever virus), respiratory viruses (influenza, SARS-CoV-2, measles, mumps, etc.), and opportunistic pathogens in immunocompromised patients. For each pathogen, key epidemiological associations, typical clinical presentation, and recommended diagnostic approach are summarized, including limitations of serological methods (notably cross-reactivity among flaviviruses) and the potential role of next-generation metagenomic sequencing. The aim of this review is to provide clinicians with a practical tool for broadening the differential diagnosis of aseptic meningoencephalitis and to highlight epidemiological and clinical clues that may facilitate earlier recognition of these overlooked, yet treatable or prognostically significant, etiologies. Keywords: aseptic meningitis, meningoencephalitis, differential diagnosis, neuroinfection, Central Europe.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43012855/",
     "doi": "",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-09-01",
     "journal": "Klinicka mikrobiologie a infekcni lekarstvi",
-    "authors": "Mihalčin M, Fašaneková L, Kašpárková B",
+    "authors": "Mihalčin M, Fašaneková L, Kašpárková B.",
     "affiliations": "Dept. of ID, Faculty of Medicine, Masaryk University and Brno UH, Czech Republic; e-mail: mihalcin.matus@fnbrno.cz.",
     "extra": {
-      "pmid": "43012855"
+      "pmid": "43012855",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
     },
     "id": "url:5de79369d0adbe1b",
     "first_seen": "2026-11-11",
@@ -18068,7 +19058,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles outbreak 2026"
+      "search_term": "congenital measles"
     },
     "id": "url:0f89d17095a56a6b",
     "first_seen": "2026-11-05",
@@ -18985,6 +19975,37 @@
     "canadian": false,
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles Resurgence and a Vaccine Guidance Vacuum Complicate Back-to-School Season",
+    "summary": "Measles Resurgence and a Vaccine Guidance Vacuum Complicate Back-to-School Season Infectious Disease Special Edition",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVNjZE9YV0pRUEtjN0d0SGF4NjRadzVacS03ZHVaM3FTal9Ta3FpdVlmZWdTcFBSdXFvWmZsR0RzZlpHdEJKUFlnMVNCd2d5UlIxdk9BOTgzTHJIckpheGJieHZLT3RfLWpBUV9CRG9rTjdGZFZnOW42V0JvOTdQSG5pa1ZyU2tiMmthcUV5c0lJUEV6cG96Sy1RaExtS0V2YmdGaC14aTBvY003TGlSVEUxekppTlk?oc=5",
+    "doi": "",
+    "source": "Infectious Disease Special Edition",
+    "source_type": "news",
+    "published_date": "2026-08-24",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles resurgence vaccination"
+    },
+    "id": "url:147d2ddd13ad30c3",
+    "first_seen": "2026-11-12",
+    "date": "2026-08-24",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -20969,17 +21990,20 @@
   },
   {
     "title": "Prevalence and factors associated with immunization non-completion among children aged 12-23 months at Kisoro General Hospital, Uganda: a cross-sectional study",
-    "summary": "Immunization non-completion, defined here as a child missing at least one age-appropriate vaccine dose under Uganda's national immunization schedule (UNEPI), remains a critical public health problem in sub-Saharan Africa, exposing children to preventable diseases. In Uganda, coverage falls substantially below the WHO target of 90%, particularly in rural districts. This study determined the prevalence of immunization non-completion among children aged 12-23 months at Kisoro General Hospital and identified associated socio-economic and healthcare-related factors. A cross-sectional study was conducted from October to December 2024 at Kisoro General Hospital among 275 caregivers of children aged 12-23 months attending the immunization clinic, selected by systematic random sampling. Immunization non-completion was defined as failure to receive at least one age-appropriate dose per the UNEPI schedule (BCG, OPV, pentavalent, PCV, rotavirus, measles, and yellow fever vaccines) by 12-23 months of age. Data were collected via structured, pre-tested questionnaires and verified immunization card records. Descriptive statistics, bivariate chi-square tests, and multivariable logistic regression were performed using Stata version 15.1 (StataCorp, College Station, TX, USA). The participation rate was 90.5% (275/304). Caregivers who declined participation (n = 10), were excluded after consent due to absent immunization records (n = 12), or whose children fell outside the 12-23-month age range (n = 7) are reported in full in the Results section. The prevalence of immunization non-completion was 34.2% (94/275; 95% CI: 28.5-39.8%). In multivariable analysis, significant predictors included lack of formal caregiver education (aOR = 3.3, 95% CI: 0.93-11.49; p = 0.044), delayed initiation of immunization beyond three weeks of birth (aOR = 7.3, 95% CI: 3.66-14.72; p < 0.001), unfriendly health worker attitude (aOR = 5.8, 95% CI: 1.29-11.46; p = 0.022), and vaccine stock-outs (aOR = 6.1, 95% CI: 1.71-14.67; p = 0.005). Children of caregivers aged 25-34 years were less likely to have incomplete immunization than those of caregivers aged over 34 years (aOR = 0.3, 95% CI: 0.16-0.76; p = 0.008). One in three children attending Kisoro General Hospital had incomplete immunization, far below national and global targets. Modifiable determinants at both caregiver and health system levels were identified. Targeted interventions including caregiver education, timely postnatal vaccination, health worker training, and vaccine supply strengthening are urgently needed.",
+    "summary": "<h4>Background</h4>Immunization non-completion, defined here as a child missing at least one age-appropriate vaccine dose under Uganda's national immunization schedule (UNEPI), remains a critical public health problem in sub-Saharan Africa, exposing children to preventable diseases. In Uganda, coverage falls substantially below the WHO target of 90%, particularly in rural districts. This study determined the prevalence of immunization non-completion among children aged 12-23 months at Kisoro General Hospital and identified associated socio-economic and healthcare-related factors.<h4>Methods</h4>A cross-sectional study was conducted from October to December 2024 at Kisoro General Hospital among 275 caregivers of children aged 12-23 months attending the immunization clinic, selected by systematic random sampling. Immunization non-completion was defined as failure to receive at least one age-appropriate dose per the UNEPI schedule (BCG, OPV, pentavalent, PCV, rotavirus, measles, and yellow fever vaccines) by 12-23 months of age. Data were collected via structured, pre-tested questionnaires and verified immunization card records. Descriptive statistics, bivariate chi-square tests, and multivariable logistic regression were performed using Stata version 15.1 (StataCorp, College Station, TX, USA). The participation rate was 90.5% (275/304). Caregivers who declined participation (n = 10), were excluded after consent due to absent immunization records (n = 12), or whose children fell outside the 12-23-month age range (n = 7) are reported in full in the Results section.<h4>Results</h4>The prevalence of immunization non-completion was 34.2% (94/275; 95% CI: 28.5-39.8%). In multivariable analysis, significant predictors included lack of formal caregiver education (aOR = 3.3, 95% CI: 0.93-11.49; p = 0.044), delayed initiation of immunization beyond three weeks of birth (aOR = 7.3, 95% CI: 3.66-14.72; p < 0.001), unfriendly health worker attitude (aOR = 5.8, 95% CI: 1.29-11.46; p = 0.022), and vaccine stock-outs (aOR = 6.1, 95% CI: 1.71-14.67; p = 0.005). Children of caregivers aged 25-34 years were less likely to have incomplete immunization than those of caregivers aged over 34 years (aOR = 0.3, 95% CI: 0.16-0.76; p = 0.008).<h4>Conclusions</h4>One in three children attending Kisoro General Hospital had incomplete immunization, far below national and global targets. Modifiable determinants at both caregiver and health system levels were identified. Targeted interventions including caregiver education, timely postnatal vaccination, health worker training, and vaccine supply strengthening are urgently needed.",
     "url": "https://doi.org/10.1186/s12889-026-29002-8",
     "doi": "10.1186/s12889-026-29002-8",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-08-12",
     "journal": "BMC public health",
-    "authors": "Acomo G, Okema JN, Obal R, Foscah FA, Lourdes IM, Sesay MJ et al.",
-    "affiliations": "Faculty of Clinical Medicine and Dentistry, Kampala International University, Kampala, Uganda. | St. Mary's Hospital Lacor, Gulu, Uganda. | Faculty of Medicine, Gulu University, P.O. Box 160, Gulu, Uganda. ojamesnelson@gmail.com. | St. Mary's Hospital Lacor, Gulu, Uganda. ojamesnelson@gmail.com. | Faculty of Medicine, Gulu University, P.O. Box 160, Gulu, Uganda.",
+    "authors": "Acomo G, Okema JN, Obal R, Foscah FA, Lourdes IM, Sesay MJ, Bangura F, Bulitya J, Elioba JL.",
+    "affiliations": "Faculty of Clinical Medicine and Dentistry, Kampala International University, Kampala, Uganda. | St. Mary's Hospital Lacor, Gulu, Uganda. | Faculty of Medicine, Gulu University, P.O. Box 160, Gulu, Uganda. ojamesnelson@gmail.com. | St. Mary's Hospital Lacor, Gulu, Uganda. ojamesnelson@gmail.com. | Faculty of Medicine, Gulu University, P.O. Box 160, Gulu, Uganda. | St. Mary's Hospital Lacor, Gulu, Uganda. | Faculty of Clinical Medicine and Dentistry, Kampala International University, Kampala, Uganda. | Faculty of Clinical Medicine and Dentistry, Kampala International University, Kampala, Uganda.",
     "extra": {
-      "pmid": "43000319"
+      "pmid": "43000319",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
     },
     "id": "doi:10.1186/s12889-026-29002-8",
     "first_seen": "2026-11-09",
@@ -21265,17 +22289,20 @@
   },
   {
     "title": "Clinical and epidemiological profile of suspected and laboratory-confirmed measles cases in South Kivu, Democratic Republic of the Congo, 2023",
-    "summary": "Measles remains a major public health challenge in many low-resource settings, despite repeated vaccination efforts. In 2023, a resurgence of suspected measles cases was reported in South Kivu Province (Democratic Republic of Congo) following a mass vaccination campaign targeting children aged 6-59 months. This study aimed to describe the clinical and epidemiological characteristics of suspected measles cases and to identify factors associated with measles IgM positivity in the post-campaign period. A cross-sectional study was conducted among children aged 6-59 months presenting with clinical signs of measles in five health zones most affected by the outbreak (Kalehe, Minova, Idjwi, Miti-Murhesa, and Kalonge). Suspected cases were enrolled exhaustively from line lists provided by local health authorities. After obtaining parental consent, blood samples were collected and tested for measles and rubella IgM antibodies at the National Institute for Biomedical Research (INRB). Data were analyzed using R version 4.3.3. Logistic regression was used to identify characteristics associated with measles IgM positivity among suspected cases. Of the 82 children tested, 39 (48%) were positive for measles IgM. Among the 43 IgM-negative children, 8 (18%) were rubella IgM positive. In adjusted analyses, measles IgM positivity showed an evidence of an association with male parental decision-making regarding child vaccination (aOR :7.22; 95% CI: 1.64-43.2; p = 0.015) and others workers (aOR: 8.28; 95%CI:1.19-48; p = < 0.008). Despite reported high administrative vaccination coverage, measles continues to circulate among children in South Kivu. Strengthening immunization service quality, improving outreach to unvaccinated children, and engaging male parents and others workers may enhance vaccine acceptance and reduce measles transmission in the post-campaign period. Not applicable.",
+    "summary": "<h4>Background</h4>Measles remains a major public health challenge in many low-resource settings, despite repeated vaccination efforts. In 2023, a resurgence of suspected measles cases was reported in South Kivu Province (Democratic Republic of Congo) following a mass vaccination campaign targeting children aged 6-59 months. This study aimed to describe the clinical and epidemiological characteristics of suspected measles cases and to identify factors associated with measles IgM positivity in the post-campaign period.<h4>Methods</h4>A cross-sectional study was conducted among children aged 6-59 months presenting with clinical signs of measles in five health zones most affected by the outbreak (Kalehe, Minova, Idjwi, Miti-Murhesa, and Kalonge). Suspected cases were enrolled exhaustively from line lists provided by local health authorities. After obtaining parental consent, blood samples were collected and tested for measles and rubella IgM antibodies at the National Institute for Biomedical Research (INRB). Data were analyzed using R version 4.3.3. Logistic regression was used to identify characteristics associated with measles IgM positivity among suspected cases.<h4>Results</h4>Of the 82 children tested, 39 (48%) were positive for measles IgM. Among the 43 IgM-negative children, 8 (18%) were rubella IgM positive. In adjusted analyses, measles IgM positivity showed an evidence of an association with male parental decision-making regarding child vaccination (aOR :7.22; 95% CI: 1.64-43.2; p = 0.015) and others workers (aOR: 8.28; 95%CI:1.19-48; p = < 0.008).<h4>Conclusion</h4>Despite reported high administrative vaccination coverage, measles continues to circulate among children in South Kivu. Strengthening immunization service quality, improving outreach to unvaccinated children, and engaging male parents and others workers may enhance vaccine acceptance and reduce measles transmission in the post-campaign period.<h4>Clinical trial number</h4>Not applicable.",
     "url": "https://doi.org/10.1186/s12879-026-14197-3",
     "doi": "10.1186/s12879-026-14197-3",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-08-11",
     "journal": "BMC infectious diseases",
-    "authors": "Joseph MA, Eric MM, Cito B, Ciribagula C, Tshongo J, Daddy KM et al.",
-    "affiliations": "Provincial Health Division, Provincial Vaccination Coordination, Bukavu, Democratic Republic of the Congo. matundanya@gmail.com. | Regional School of Public Health, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. matundanya@gmail.com. | Provincial Health Division, Provincial Vaccination Coordination, Bukavu, Democratic Republic of the Congo. | Faculty of Medicine, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. | Center For Tropical Diseases and Global Health, Faculty of Medicine, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. | Dr. Lurhuma Research Laboratory, Faculty of Medicine, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. | Regional School of Public Health, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. | Regional School of Public Health, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. lyabpacifique@yahoo.fr.",
+    "authors": "Joseph MA, Eric MM, Cito B, Ciribagula C, Tshongo J, Daddy KM, Gaylord N, Mannix MI, Mwene-Batu P, David LM.",
+    "affiliations": "Provincial Health Division, Provincial Vaccination Coordination, Bukavu, Democratic Republic of the Congo. matundanya@gmail.com. | Regional School of Public Health, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. matundanya@gmail.com. | Provincial Health Division, Provincial Vaccination Coordination, Bukavu, Democratic Republic of the Congo. | Faculty of Medicine, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. | Center For Tropical Diseases and Global Health, Faculty of Medicine, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. | Dr. Lurhuma Research Laboratory, Faculty of Medicine, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. | Regional School of Public Health, Catholic University of Bukavu, P.O Box 285, Bukavu, Democratic Republic of the Congo. | Provincial Health Division, Provincial Vaccination Coordination, Bukavu, Democratic Republic of the Congo.",
     "extra": {
-      "pmid": "43004269"
+      "pmid": "43004269",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
     },
     "id": "doi:10.1186/s12879-026-14197-3",
     "first_seen": "2026-11-10",
@@ -21563,17 +22590,20 @@
   },
   {
     "title": "Barriers to disease notification among primary healthcare physicians in West Bank, Palestine: a cross-sectional survey",
-    "summary": "Underreporting remains a persistent challenge for infectious disease surveillance systems. Evidence on notification knowledge and practices among physicians in the West Bank remains limited, although they play a critical role in disease notification. We aimed to assess the knowledge, attitudes, and practices of primary healthcare physicians in disease notification, identify factors associated with appropriate notification of suspected mumps, measles, and chickenpox cases, and describe barriers to notification. We conducted a cross-sectional survey on primary healthcare physicians in the Palestinian Ministry of Health primary healthcare centers between August 2024 and May 2025. The questionnaire assessed knowledge, attitudes, and self-reported notification practices. Multivariable logistic regression was used to identify factors associated with recent notification practices. Among 223 respondents, 30.9% were categorized as having a good knowledge score of the disease notification process across multiple operational domains of disease notification, while 93.3% were categorized as having a good attitude score. Common misconceptions included laboratory confirmation being required for notification (61.0%) and that surveillance case definitions require laboratory criteria (65.5%). Over 80% of respondents notified their last-encountered measles, mumps, or chickenpox case. However, timely notification was lower; 52.4% of measles cases were reported immediately, compared with 19.3% of mumps and 14.0% of chickenpox cases reported within the recommended timeframes. Commonly reported barriers included lack of time (60.5%), and uncertainty about which diseases to notify (38.1%) and when (32.3%). Knowledge and attitude scores were not significantly associated with notification practices, although limited observations and composite scores may have obscured these associations. Physicians who received recent supervisory feedback on disease notification had higher odds of notifying chickenpox cases (OR: 4.01, 95%CI: 1.40-11.43). Compared to general practitioners, other medical specialties had lower odds of notifying mumps (OR: 0.21, 95%CI: 0.06-0.81) and chickenpox cases (OR: 0.23, 95%CI: 0.08-0.69). Despite positive attitudes towards the notification system, knowledge gaps and misconceptions may contribute to underreporting of notifiable conditions. Strengthening training, clarifying guidance, improving feedback mechanisms, and addressing identified barriers and preferences may enhance disease notification performance by primary healthcare physicians in the West Bank.",
+    "summary": "<h4>Introduction</h4>Underreporting remains a persistent challenge for infectious disease surveillance systems. Evidence on notification knowledge and practices among physicians in the West Bank remains limited, although they play a critical role in disease notification. We aimed to assess the knowledge, attitudes, and practices of primary healthcare physicians in disease notification, identify factors associated with appropriate notification of suspected mumps, measles, and chickenpox cases, and describe barriers to notification.<h4>Methods</h4>We conducted a cross-sectional survey on primary healthcare physicians in the Palestinian Ministry of Health primary healthcare centers between August 2024 and May 2025. The questionnaire assessed knowledge, attitudes, and self-reported notification practices. Multivariable logistic regression was used to identify factors associated with recent notification practices.<h4>Results</h4>Among 223 respondents, 30.9% were categorized as having a good knowledge score of the disease notification process across multiple operational domains of disease notification, while 93.3% were categorized as having a good attitude score. Common misconceptions included laboratory confirmation being required for notification (61.0%) and that surveillance case definitions require laboratory criteria (65.5%). Over 80% of respondents notified their last-encountered measles, mumps, or chickenpox case. However, timely notification was lower; 52.4% of measles cases were reported immediately, compared with 19.3% of mumps and 14.0% of chickenpox cases reported within the recommended timeframes. Commonly reported barriers included lack of time (60.5%), and uncertainty about which diseases to notify (38.1%) and when (32.3%). Knowledge and attitude scores were not significantly associated with notification practices, although limited observations and composite scores may have obscured these associations. Physicians who received recent supervisory feedback on disease notification had higher odds of notifying chickenpox cases (OR: 4.01, 95%CI: 1.40-11.43). Compared to general practitioners, other medical specialties had lower odds of notifying mumps (OR: 0.21, 95%CI: 0.06-0.81) and chickenpox cases (OR: 0.23, 95%CI: 0.08-0.69).<h4>Conclusions</h4>Despite positive attitudes towards the notification system, knowledge gaps and misconceptions may contribute to underreporting of notifiable conditions. Strengthening training, clarifying guidance, improving feedback mechanisms, and addressing identified barriers and preferences may enhance disease notification performance by primary healthcare physicians in the West Bank.",
     "url": "https://doi.org/10.1186/s12913-026-15297-1",
     "doi": "10.1186/s12913-026-15297-1",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-08-10",
     "journal": "BMC health services research",
-    "authors": "Tuffaha A, Johansson EW, Alshaer S, Asad S",
+    "authors": "Tuffaha A, Johansson EW, Alshaer S, Asad S.",
     "affiliations": "Hebron Preventive Medicine Department, Palestinian Ministry of Health, Hebron, Palestine. ayahtuffaha231@yahoo.com. | Mediterranean and Black Sea Programme in Intervention Epidemiology Training (MediPIET), European Centre for Disease Prevention and Control (ECDC), Stockholm, Sweden. ayahtuffaha231@yahoo.com. | Department of Women's and Children's Health, Global Health and Migration Unit, Uppsala University, Uppsala, Sweden. | Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden. | Mediterranean and Black Sea Programme in Intervention Epidemiology Training (MediPIET), European Centre for Disease Prevention and Control (ECDC), Stockholm, Sweden. | Jericho Preventive Medicine Department, Palestinian Ministry of Health, Jericho, Palestine. | Palestinian Ministry of Health, Ramallah, Palestine.",
     "extra": {
-      "pmid": "43000367"
+      "pmid": "43000367",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
     },
     "id": "doi:10.1186/s12913-026-15297-1",
     "first_seen": "2026-11-09",
@@ -21783,37 +22813,6 @@
     "pharma": false
   },
   {
-    "title": "Canada has half as many measles cases as U.S., WHO says",
-    "summary": "Canada has half as many measles cases as U.S., WHO says 980 CJME",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTFteW1CSW5LMWlLRjZMRkpnQW04NFFyc0NtbU0tV0hLaHdXTEpSUHoxREt2Y2E3MVdyWTBJU0tfWER0cGJxSS1JU0YxUVdqTzdXSUx4Q2dxajExZF9EOWxCWHN6c1BQSWhVd0FIQVc1dDEwdmlGWVJHWmFiY0x3U1ZFZE9abFc2Yjc5Y3JBcw?oc=5",
-    "doi": "",
-    "source": "980 CJME",
-    "source_type": "news",
-    "published_date": "2026-08-09",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "measles outbreak Canada"
-    },
-    "id": "url:3e71906546673ae6",
-    "first_seen": "2026-11-05",
-    "date": "2026-08-09",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "na",
-    "canadian": true,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
     "title": "Canada has higher measles rate per capita than U.S.: WHO data",
     "summary": "Canada has higher measles rate per capita than U.S.: WHO data CTV News",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXlSQS03RUNHc3otYm10cldlRmp6WjlsR1ZlMnZBdXYtNE5nY3pSZ2tDbk9wRHdOcngwZGM0SXZMSG16WlA4Tm9LSERRc2FWVVpfdklSbHhRUm5YdDdHMTdHMzNCZm5sNDhqOU54UXQ3bzBDdVFkdmNMNFl4Sl91LTMwSnJRSGt0Nmoza2d4MUxFZUpTX2c?oc=5",
@@ -21913,6 +22912,41 @@
     "pharma": false
   },
   {
+    "title": "Canada has half as many measles cases as U.S.: WHO data",
+    "summary": "Canada has half as many measles cases as U.S.: WHO data CityNews Vancouver",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGQ2cmZQbng4X0RkWWxYRDBBWTc5TFNxRUpDTkFWSHVSM0xHaU16Nk5lelFYZmtQWkZwemdEX2Rtc2h2UkJPR0lTQjJOQmRFRUF2TDg2alJYVUJSM3g2Y1BrcUtsT1NvcDNMQnk3TVo4a0V6a2ViMVNuMnZTbjRZeGlTM19IajdfN1BYXzFENDB2TmoyNXB5ZWo0VQ?oc=5",
+    "doi": "",
+    "source": "CityNews Vancouver",
+    "source_type": "news",
+    "published_date": "2026-08-08",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak Canada"
+    },
+    "id": "url:1591bc9355c3d83b",
+    "first_seen": "2026-11-12",
+    "date": "2026-08-08",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": true,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "980 CJME"
+    ]
+  },
+  {
     "title": "Classification of the risk of transmission of vaccine-preventable diseases among children under 2 years of age in the municipality of São Paulo, Brazil",
     "summary": "To analyze the classification of the risk of transmission of vaccine-preventable diseases among children under 2 years of age in a large Brazilian municipality in 2022 and 2023. Ecological epidemiological study using secondary data on vaccination coverage (VC) for nine immunobiologicals recommended in the vaccination schedule for children under 2 years of age. Immunobiological dose data were obtained from the National Immunization Program Information System (Sistema de Informações do Programa Nacional de Imunizações - SI-PNI), while data were collected from the Ministry of Health website and filtered by place of residence. Data were analyzed using the R software package. In 2022, 100% of the Health Surveillance Units (Unidades de Vigilância em Saúde - UVIS) showed low VC for the second dose of the measles-mumps-rubella (MMR) vaccine. In the same year, 61% and 54% of the UVIS achieved adequate VC for the hepatitis A and human rotavirus vaccines, respectively. In 2023, improvements in VC were observed for most vaccines, except for the meningococcal C and varicella vaccines, which showed a reduction in the number of UVIS achieving adequate VC. Regarding the classification of the risk of reintroduction of vaccine-preventable diseases, the proportion classified as \"low and very low\" increased from 0% in 2022 to 10.7% in 2023. VC improved in 2023 for most vaccines analyzed across the UVIS. However, variations in VC were observed according to vaccine type and year. These findings reinforce the need to maintain regional actions aimed at achieving vaccination targets, given the indications of a recovery in VC.",
     "url": "https://doi.org/10.1590/1980-549720260035",
@@ -21955,7 +22989,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles resurgence vaccination"
+      "search_term": "measles outbreak 2026"
     },
     "id": "url:251ba747b2304cdb",
     "first_seen": "2026-11-05",
@@ -24844,6 +25878,37 @@
     "pharma": false
   },
   {
+    "title": "Delaware Declares a Measles Outbreak in Kent County as Arizona and Wyoming Track Separate Clusters",
+    "summary": "Delaware Declares a Measles Outbreak in Kent County as Arizona and Wyoming Track Separate Clusters Medical Daily",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZngtN3lkaG1NQ3B5Si1wbkVmZGJkRDZQSW5RalBLY29za2pQRnBZUVNJVUxsRDdhSGJ6OUNId1gyS1VqTEtxRXNXWjYwQnpYWjRRZVFZT3pZcWx5NlVNUFR1OFFybUlzSHllOUszdGtlMDB4N1otMXJyaTg1QVF0SjNtWWhMV20zRFlXWVZmcTJVbTI4UEN0cVpvVzBIaTA?oc=5",
+    "doi": "",
+    "source": "Medical Daily",
+    "source_type": "news",
+    "published_date": "2026-07-27",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles post-exposure prophylaxis pregnancy"
+    },
+    "id": "url:5c6dd420c39583c1",
+    "first_seen": "2026-11-12",
+    "date": "2026-07-27",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Vaccination of Patients with Chronic Kidney Disease and Cocooning Strategy in a Tertiary Hospital",
     "summary": "<h4>Background</h4>Despite the increased infection-related morbidity of patients with chronic kidney disease (CKD), their vaccination coverage is low. Cocooning strategy has not been adequately researched in this group. Our aim was to evaluate vaccination coverage of CKD pediatric and adult patients and their families.<h4>Methods</h4>In this prospective, single-center study, we recorded the vaccination coverage of CKD pediatric and adult patients and their families who attend a tertiary University Hospital. Vaccination rates were calculated according to the national vaccination program. Vaccination of pediatric CKD patients was compared to a control group of healthy children.<h4>Results</h4>The vaccination rate of 63 hemodialysis patients was low for influenza (61.9%), COVID-19 (79.4% primary, 3.2% booster doses), RSV (50%), herpes zoster (42.4%), hepatitis B (41.3%), <i>Streptococcus pneumoniae</i> (25.4%), tetanus-pertussis (3.2%), and HPV (0%). Their 30 underaged relatives had low vaccination rates for influenza (13.3%), DTaP/Tdap (80%), and Men B (50%), with adequate vaccination for other pathogens. The 53 children with CKD were poorly vaccinated for influenza (20.8%), COVID-19 (0%), <i>Streptococcus pneumoniae</i> (15.4%), Men B (30.2%), DTaP/Tdap (67.9%), MMR (78.8%) and VZV (86.5%), but their vaccination rates for influenza were significantly higher compared to controls. Their 108 adult relatives were inadequately vaccinated for influenza (27.8%), COVID-19 (1.9%), and Tdap (1.9%). Their 35 underaged relatives were poorly vaccinated for influenza (22.9%) and DTaP (80%).<h4>Conclusions</h4>Vaccination coverage of CKD patients is suboptimal for vaccines particularly important for their condition and their family members are insufficiently informed about potential contribution to their protection by cocooning strategy.",
     "url": "https://doi.org/10.3390/vaccines14080655",
@@ -25256,7 +26321,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "congenital measles"
+      "search_term": "measles outbreak 2026"
     },
     "id": "url:3293d16fea7770f3",
     "first_seen": "2026-11-05",
@@ -25868,9 +26933,10 @@
     "source_type_label": "News article",
     "reviewed": false,
     "pharma": false,
-    "duplicate_count": 1,
+    "duplicate_count": 2,
     "also_reported_by": [
-      "ABC7 New York"
+      "ABC7 New York",
+      "ABC7 Chicago"
     ]
   },
   {
@@ -27029,6 +28095,37 @@
     "pharma": false
   },
   {
+    "title": "When revaccination is recommended: An evaluation of non-guideline poliovirus serology testing in Alberta, Canada",
+    "summary": "The National Advisory Committee on Immunization (NACI) advises against routine poliovirus serology (POLV-S) testing for poliovirus (POLV) immunity, recommending age-appropriate revaccination when immunity is unknown. POLV-S tests strain laboratory resources, result in unnecessary phlebotomy, and are frequently cancelled due to no primary indication. This study assessed more than one year of provincial POLV-S requests to identify gaps in adherence to national guidelines. Data on POLV-S requests from May 1, 2023, to December 31, 2024, were obtained from the laboratory information system. Patient demographics, physician specialty, years of experience, patient history, indication(s) for testing, availability of vaccine records, and additional serologies ordered were analyzed. Of 108 POLV-S requests (requested by 77 physicians), the median patient age was 34.5 years. All ordering physicians were general practitioners. Three (2.8%) requests were for POLV-S alone; 105 (97.2%) included a median of 7 additional serology tests, most commonly measles, rubella, and mumps IgG (89.8%-90.7%). Patient history was absent in 86 (79.6%) requests. Testing was primarily for employment (45.5%), occupational health forms (27.3%), immigration (13.6%), and immunity verification (13.6%). Vaccine records were available for 50 (46.3%) patients; of these, 56% lacked documentation of a POLV vaccine date. Our findings highlight the need to ensure adherence to NACI guidelines to reduce unnecessary POLV-S testing. Education surrounding the lack of availability of POLV-S testing and the safety and efficacy of revaccination in patients with unknown immunization history will improve laboratory efficiency and ensure immunity to POLV.",
+    "url": "https://doi.org/10.3138/jammi-2026-0009",
+    "doi": "10.3138/jammi-2026-0009",
+    "source": "PubMed",
+    "source_type": "journal_article",
+    "published_date": "2026-07-16",
+    "journal": "Journal of the Association of Medical Microbiology and Infectious Disease Canada = Journal officiel de l'Association pour la microbiologie medicale et l'infectiologie Canada",
+    "authors": "Rosen C, Zelyas N, Berenger BM, Zhou HY, Fonseca K, Gustafson K et al.",
+    "affiliations": "Department of Microbiology, Immunology & Infectious Diseases, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada. | Provincial Public Health Laboratory, Alberta Precision Laboratories, Edmonton, Alberta, Canada. | Department of Laboratory Medicine & Pathology, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada. | Provincial Public Health Laboratory, Alberta Precision Laboratories, Calgary, Alberta, Canada. | Department of Pathology & Laboratory Medicine, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada. | Department of Medicine, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada. | Division of Infectious Diseases, Department of Medicine, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.",
+    "extra": {
+      "pmid": "43017667"
+    },
+    "id": "doi:10.3138/jammi-2026-0009",
+    "first_seen": "2026-11-12",
+    "date": "2026-07-16",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": true,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "CIDRAP Op-Ed: Measles isn't a coin flip—death isn't the only bad outcome",
     "summary": "CIDRAP Op-Ed: Measles isn't a coin flip—death isn't the only bad outcome CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTV9IZE9LLXNnc1lpYl9YTnFoeVMzNDM4ekdzSHpXYnFPYXpOWUVFWUYyLS1FM3IwVldRNTZwMV9hb2NwcWlvWl9Wa3ZQczR3N0doemFEdTBsVHFqRktOZExKcFpUN1ZHcF95X29oNTV6MHVaVjVzeW9jc2ZxY3ZwZzhyU2pWWmlQYWk5VkIwUmxaUDJUdmxIV2w2NUVmVjA?oc=5",
@@ -27438,14 +28535,14 @@
     "summary": "Measles World Health Organization (WHO)",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CSm90Nlo1aVhLczFhQ3MwSV80amFZNzd4WWZBbHFqbllGaXJ1S3psNFZ5YkxwbVB5bG93bTY5bnc1SEFaOTRtekd3ZVlmYXltT2lvYjRqbTNyc2VBYnE0WTkyYXpUT0k?oc=5",
     "doi": "",
-    "source": "World Health Organization (WHO)",
+    "source": "News",
     "source_type": "news",
     "published_date": "2026-07-15",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR vaccine pregnancy safety"
+      "feed": "measles outbreak search"
     },
     "id": "url:073650c8d8b2ac1d",
     "first_seen": "2026-11-05",
@@ -27761,37 +28858,6 @@
     "canadian": false,
     "channel": "journals",
     "source_type_label": "Journal article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "Shapiro Administration Launches Measles Dashboard | Department of Health",
-    "summary": "Shapiro Administration Launches Measles Dashboard | Department of Health Commonwealth of Pennsylvania (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjB2cmxJZzdBMEdUV1lIM3lRbGJxSjNxNWJHaGp3dV9xSVJCVW1fWE41bWZaNldZZTBDeUhYb1BCcWs5bG9LcXJXNlBrQklBT21Ob2VKc0ljU2RPdmlENXd3RHJDbkhBZVE2WW1DMWduRXliUVpNTlVIRElMc0VyOVN0a05VV0FiUXJ3Q2c2Qm1ZaVRhanhVNw?oc=5",
-    "doi": "",
-    "source": "Commonwealth of Pennsylvania (.gov)",
-    "source_type": "news",
-    "published_date": "2026-07-14",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "MMR vaccine pregnancy safety"
-    },
-    "id": "url:2b2b73a868a5063c",
-    "first_seen": "2026-11-05",
-    "date": "2026-07-14",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "na",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -28895,7 +29961,7 @@
     "affiliations": "Research Center for Emerging Infections and Zoonoses, University of Veterinary Medicine Foundation, Hannover 30559, Germany. | Research Center for Emerging Infections and Zoonoses, University of Veterinary Medicine Foundation, Hannover 30559, Germany. | Department of Pathology, University of Veterinary Medicine Foundation, Hannover 30559, Germany. | Department of Pathology, University of Veterinary Medicine Foundation, Hannover 30559, Germany. | Research Center for Emerging Infections and Zoonoses, University of Veterinary Medicine Foundation, Hannover 30559, Germany. | Research Center for Emerging Infections and Zoonoses, University of Veterinary Medicine Foundation, Hannover 30559, Germany. | Research Center for Emerging Infections and Zoonoses, University of Veterinary Medicine Foundation, Hannover 30559, Germany. | Department de Sanitat i Anatomia Animal, Facultat de Veterniària, Universitat Autònoma de Barcelona, Bellaterra 08193, Spain.",
     "extra": {
       "pmid": "42412932",
-      "cited_by": 0,
+      "cited_by": 1,
       "open_access": false,
       "preprint_server": ""
     },
@@ -30020,40 +31086,6 @@
     "canadian": false,
     "channel": "journals",
     "source_type_label": "Journal article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "Vaccination Status and Its Association with Complications among the Patients Admitted with Measles in the Dedicated Measles Hospitals, Dhaka, Bangladesh",
-    "summary": "Bangladesh is facing a major resurgence of measles, with more than 60,000 suspected cases and over 600 deaths reported between March and May 2026. Despite the growing outbreak, hospital-based evidence in Bangladesh remains limited regarding measles vaccination status and its association with clinical complications. To address this critical gap, our study aimed to assess the vaccination status and its relationship with the development of clinical complications. A total of 260 children admitted to the measles ward were enrolled in this cross-sectional study. They were aged 2–72 months, had clinically confirmed measles, and were admitted to four dedicated measles treatment hospitals in Dhaka, Bangladesh, between 15 and 25 April 2026. Data on vaccination status, sociodemographic characteristics, feeding practices, Nutritional status, clinical symptoms, and complications were collected through caregiver interviews and hospital records. Adjusted odds ratios (AOR) with a corresponding 95% confidence interval (CI), and a p-value of <0.05 were considered statistically significant. Among enrolled children, 74.6% were unvaccinated, 18.8% were partially vaccinated, and only 6.5% were fully vaccinated. In the multivariable model, age below 9 months (aOR 0.077, 95% CI 0.025–0.236,p<0.001) was independently associated with lower odds of vaccination, while household income at or above the median (aOR 3.480, 95% CI 1.493–8.110,p=0.004) was associated with higher odds. Complications developed in 31.1% of cases, with respiratory involvement being most common. Absence of exclusive breastfeeding (aOR 2.336, 95% CI 1.027–5.313,p=0.043) and presenting with exactly three symptoms at admission (aOR 3.106, 95% CI 1.274–7.572,p=0.013) were independently associated with complications. Unvaccinated individuals exhibited markedly elevated odds of complications compared to those who were vaccinated (aOR 5.729,95% CI: 2.363-13.889, p<0.001). The overwhelming burden of measles in unvaccinated children, shaped by socioeconomic disadvantage and suboptimal feeding practices, underscores the urgent need to restore immunization coverage and strengthen equitable health services in Bangladesh.",
-    "url": "https://doi.org/10.64898/2026.06.24.26356486",
-    "doi": "10.64898/2026.06.24.26356486",
-    "source": "Europe PMC",
-    "source_type": "preprint",
-    "published_date": "2026-06-29",
-    "journal": "Preprint",
-    "authors": "Goutam A, Hasan A, Khan MAS, Mahid MAH, Masud SB, Babul H, Rahman L, Siddiqui A, Luthfa ST, Tuli SN, Paul I, Bari MR, Saleh ASM, Hawlader MDH.",
-    "affiliations": "",
-    "extra": {
-      "pmid": "",
-      "cited_by": 0,
-      "open_access": false,
-      "preprint_server": "Preprint"
-    },
-    "id": "doi:10.64898/2026.06.24.26356486",
-    "first_seen": "2026-11-05",
-    "date": "2026-06-29",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": false,
-    "channel": "preprints",
-    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -48499,6 +49531,40 @@
     },
     "id": "doi:10.1002/jpn3.70336",
     "first_seen": "2026-11-05",
+    "date": "2026-01-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Vaccination status and its association with complications among the patients admitted with measles in the dedicated measles hospitals, Dhaka, Bangladesh",
+    "summary": "",
+    "url": "https://europepmc.org/article/PMC/PMC13754102",
+    "doi": "",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-01-01",
+    "journal": "PloS one",
+    "authors": "Goutam A, Hasan A, Khan M, Mahid M, Masud S, Babul H, Rahman L, Siddiqui A, Luthfa S, Tuli S, Paul I, Bari M, Saleh A, Hawlader M.",
+    "affiliations": ", , | , , | , , | , , | , , | , , | , , | , ,",
+    "extra": {
+      "pmid": "",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
+    },
+    "id": "url:0fde8abed37b2dc0",
+    "first_seen": "2026-11-12",
     "date": "2026-01-01",
     "policy_area": [
       "general_measles"
