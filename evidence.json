@@ -1,17 +1,303 @@
 [
   {
+    "title": "Measles: Misinformation Can Still Kill",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063394/",
+    "doi": "",
+    "source": "PubMed",
+    "source_type": "journal_article",
+    "published_date": "2026-12-01",
+    "journal": "Rhode Island medical journal (2013)",
+    "authors": "Fink DA, Feller ER",
+    "affiliations": "7-year BA/MD program, The George Washington University, Washington, DC. | Clinical Professor of Medical Sciences, Brown University, Providence, RI.",
+    "extra": {
+      "pmid": "43063394"
+    },
+    "id": "url:8c089a01c50c56fb",
+    "first_seen": "2026-11-21",
+    "date": "2026-12-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Virginia reports first measles-related death of 2026",
+    "summary": "Virginia reports first measles-related death of 2026 The Hill",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWVWekdCQ2dOMkJHV2pyQ1lnMlJZRFhpWWpYMU9oQ2lWX3hKWEhJSnd0OWNoLWJreW1aWF94U1BBVXp1UldtTm1MWWJRRFZRVDBrOWF3bHBxemxrOXZxQmhaU3B2UTdmQXZWNFBzTzBoMThWYmNmbHdrMkEtUFNha0NENXZxYl82d1ktX3oyVlptZWY2YTFCQkFn0gGfAUFVX3lxTE5ueU9JaEVtUlEyN2std3lYNUJ3UW9NaERvOXpPNzhWVFZlc3J0SjVUcFRDVzdGWndxTDNvcF94eU5sNkR6NW9hWjFOcEpXLXRIYWZMYWZJdVEzSDVQcE1HZ0hVTnlzM2s5SFZDaHZfUUZwdUx5Z240SlVYZDE5d2VfTVRoQTZKRTFtZi1XcHBOZ0l3M1U4ZEVJaC12aGt3VQ?oc=5",
+    "doi": "",
+    "source": "The Hill",
+    "source_type": "news",
+    "published_date": "2026-11-21",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak 2026"
+    },
+    "id": "url:f97d1b990b1fcc30",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-21",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "US Measles Outbreak Claims Another Child Victim As Virginia Reports First Death",
+    "summary": "US Measles Outbreak Claims Another Child Victim As Virginia Reports First Death تسنیم",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaERqTnA3SXFqU0w1TzhId2lGU2l2ckZKZEhvXzkwZ2o3WXVDZXdfYzk0Rl9IdFpGRVNfSmNlMW43MnBYYW5OOGhsb3VlSm0zU0pPUkZsOHdLZkNvN2hiR2tFN0JYN2xRMHZRbEhTaEpGalM0aWhEVG5CaksxN0o1cUdjbEFVZTRsWlVITUJPdl92T3FuajRpZ3lRU2RfVENEZTYyOEJWYXFfZlRnUkozc2RLd2RRUDNkdW9ZSE50LUIwOEJDTXVjajdkMG_SAdIBQVVfeXFMUFhISl9CdnNyVUxwX3M3bHdJbDUwVWtqSDVpM2Y5dzFmbHBuVThRU0JhYXVUU0tqTGNmYU1ySFhpaklTUlE0YUpFUnVHNFQ1Ums1c296VGJBRUlwcEg2N2M0d3lTUjlmdk9yUlJ0LWZHejVkbUloZTl6dmFMOW9ybWVCM0pJZDEzRFAtNmtvbF9OZ25VVjBaeGtURWNjQnVjMDFsR19Ib0pZWGFoemVoRlpvcHo4aVpKNnM4SkZlb0czUmpTeWpfenBYamc4MG1MbnhR?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-21",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:b10a8e89c9c9a14b",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-21",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Health alert | Measles cases in the U.S. top 5,800 in 2026, the highest total since 1991, as states report 10 deaths",
+    "summary": "Health alert | Measles cases in the U.S. top 5,800 in 2026, the highest total since 1991, as states report 10 deaths El Cronista",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTEtUVBld2RYeF80ZkxCbmt6N0k2LUUtTTlCZFFReGIyX19fOW1hdjNfWk5WckZjdXJCdlU1bGdWVGY2QXkwTXNGRDZmUGJQenVSVkVvSHAwMUlYQ3A3QVUxYUE2eWx0czZBa3pSN0Zuc2xKaGxiTzlnOGc1S0xpd3BOclFEa3BUNC15SUo2akdxRk5ORjUtUmdGUmVTTHlxM3ZtTjh6ZFZwa2dEaVZWR0JNczhldjZjX29VYTRrOElfSTd3bnhFcDlDdnpGbklrZ3lrVFM5aWJPVENT?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-21",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:e093944f8d36cead",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-21",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "US Records 5,838 Measles Cases in 2026 as Outbreaks Spread Across 47 Jurisdictions",
+    "summary": "US Records 5,838 Measles Cases in 2026 as Outbreaks Spread Across 47 Jurisdictions Arise News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3luVkV0VXJvUzlidXV6Wng4YWhoR0FEOGlFLXBheGcyeFQyeU9ES2pERlk1UFpnNWFyb29sMHdWSzItY0ZLaUJ3cF9TVUFxSzR6elUxenZRblQwSC1CUGhKSVNlR0UwTFNJd0ZlVTdMeFQwbjJsN1prY1hiLVU3bFZjbmZZb0xUbDFPNXIyNDJxYnpEUFd3a05vOFItTHdWMWtZTDN3?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-21",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:c2b41893be5e6e7d",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-21",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Report Documents 112 Confirmed Measles Cases During Pregnancy in United States",
+    "summary": "Report Documents 112 Confirmed Measles Cases During Pregnancy in United States Bioengineer.org",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMW1oakdNQjFEWkhOUXVDYVVHZG8xLXVwc0JoUHV0TDJsM050R1BWdTZ1anAzRExhTVo0ZG9OUjJoTlM0bHBCYjh5dWo0eGc5WU1LSWkzanY1TU9QZmdqaWlSMnJHa0hTTDZGcUpZRWhRWnU3Rk9zRFhMOHE1LXRDZ1ZiUV9KZ1B4dlVMRW4xd29fNkdJVTMzSHpEcVlodFFfUjY5SEN3?oc=5",
+    "doi": "",
+    "source": "Bioengineer.org",
+    "source_type": "news",
+    "published_date": "2026-11-21",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles vaccine pregnancy"
+    },
+    "id": "url:498df1c4f34e6f1e",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-21",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Avoiding Measles During Pregnancy: A Fetal Specialist Offers Clinical Considerations",
+    "summary": "Avoiding Measles During Pregnancy: A Fetal Specialist Offers Clinical Considerations Contagion Live",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYnIzLWhRTTVndFNacjE3ZGx0elhpVl9RbE9vaHFkckZuQkhOWWZrNlBENkMxSVdoajVkc2FuSkxBaEQ5OGQ3cEdld09CZFMzNmYwZVZLb2xxMGlYSmtNZ3hZNDNJQXZiXy11bW5Qd040R2wzYTdUS0dMYmp0ZDJSV1FMaWRrc3RRLU1Zc1ZVVENwUWMtek43c1JvaHZaaUxVMkhmY0pZNGstb3pXOW1IR0JQZWpFa3NFdVE?oc=5",
+    "doi": "",
+    "source": "Contagion Live",
+    "source_type": "news",
+    "published_date": "2026-11-21",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "congenital measles"
+    },
+    "id": "url:481f122f3f082153",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-21",
+    "policy_area": [
+      "pregnancy_infection"
+    ],
+    "policy_area_labels": [
+      "Measles/rubella infection in pregnancy"
+    ],
+    "pregnancy_related": true,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "After Canada, the U.S. loses measles elimination status",
+    "summary": "After Canada, the U.S. loses measles elimination status CTV News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmthZEtFS3FuOW81MTZoUVhkYk5MOTY3TTNObVdfeGhkcFBWcVdERzB5bEdPSXR2b05sOWo1WG45TXhXTVV6NFRWaDUyVWdZR2h3ZjMyOTV0Z3hrbkNKNjM1SUdoektaWGxEYW1zUmVOdjJHOEtkeFE4cUdQSldJaGFRVmlFeHdGblYwVURUdVd4S0psemQwSENaZDdNelV1?oc=5",
+    "doi": "",
+    "source": "CTV News",
+    "source_type": "news",
+    "published_date": "2026-11-21",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak Canada"
+    },
+    "id": "url:002f6d321eee8cf3",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-21",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": true,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "The Atlanta Voice"
+    ]
+  },
+  {
+    "title": "CDC Declines Measles-in-Pregnancy Alert",
+    "summary": "CDC Declines Measles-in-Pregnancy Alert Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGJMQi1kbV9uZ3h2QUV2ZEtFaWRNX016SUNFb0VlekZ0dTUxRUlMYTlVQkNab3FBc0M1eEx5eERFQTBNeFdtWlpfT0tFSjAyZHZoWF9XTEx4TUpRUnRsb195X3Z5TkZLRmdaYVl0aUU0OGJVQVdLd1VYNktsMElyaUhDMUM?oc=5",
+    "doi": "",
+    "source": "Wisevoter",
+    "source_type": "news",
+    "published_date": "2026-11-21",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak pregnancy"
+    },
+    "id": "url:f201dfdd3e7ff0c2",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-21",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "The immunity-misinformation loop: How vaccine hesitancy erodes herd protection and fuels its own resurgence",
     "summary": "Vaccine hesitancy and health misinformation are typically treated as exogenous pressures on immunization systems, reducible in principle by targeted communication and educational interventions. This editorial argues that this framing is structurally inadequate and proposes modeling misinformation and reduced population immunity as coupled variables within a self-reinforcing feedback loop. Declining vaccine coverage increases outbreak risk, and outbreaks provide material for new misinformation that further erodes confidence and coverage. The proposed loop operates through 4 sequential nodes: misinformation exposure shapes vaccine-related beliefs; those beliefs drive individual vaccination decisions, mediated by psychological antecedents such as confidence, complacency, and collective responsibility; individual decisions aggregate into population-level coverage patterns that shape outbreak probability, particularly in spatially clustered undervaccinated communities; and disease outbreaks are reinterpreted by antivaccine actors through recurrent rhetorical strategies that generate new misinformation. Evidence from epidemiological surveillance, behavioral science, and communication research supports each node individually, but not yet the complete loop. The European measles resurgence of 2023-2025, with 127,350 cases reported in 2024 alone, illustrates the epidemiological consequences of sustained coverage decline. Effective countermeasures require simultaneous intervention at multiple nodes rather than a sequential, outbreak-by-outbreak response. The strongest experimental support for prebunking strategies comes from psychological inoculation theory, although measured outcomes reflect recognition of manipulation techniques rather than vaccination uptake or coverage. Addressing the confidence deficit underlying hesitancy requires sustained trust-building in public health institutions rather than information-deficit corrections. Integrating real-time surveillance of vaccine coverage, hesitancy clustering, and misinformation volume into a unified monitoring framework remains an unmet methodological priority.",
     "url": "https://doi.org/10.17219/acem/231035",
     "doi": "10.17219/acem/231035",
-    "source": "PubMed",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-11-20",
     "journal": "Advances in clinical and experimental medicine : official organ Wroclaw Medical University",
-    "authors": "Szuster-Ciesielska A",
+    "authors": "Szuster-Ciesielska A.",
     "affiliations": "Department of Virology and Immunology, Institute of Biological Sciences, Maria Curie-Skłodowska University, Lublin, Poland.",
     "extra": {
-      "pmid": "43059593"
+      "pmid": "43059593",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
     },
     "id": "doi:10.17219/acem/231035",
     "first_seen": "2026-11-20",
@@ -91,7 +377,7 @@
     "source_type_label": "News article",
     "reviewed": false,
     "pharma": false,
-    "duplicate_count": 2,
+    "duplicate_count": 1,
     "also_reported_by": [
       "Froedtert & MCW"
     ]
@@ -201,7 +487,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR vaccine pregnancy safety"
+      "search_term": "measles vaccine pregnancy"
     },
     "id": "url:fa8aaf25b1b4d725",
     "first_seen": "2026-11-20",
@@ -232,7 +518,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR vaccine pregnancy safety"
+      "search_term": "measles vaccine pregnancy"
     },
     "id": "url:ca2dd8d44da27457",
     "first_seen": "2026-11-20",
@@ -438,8 +724,256 @@
     "pharma": false
   },
   {
+    "title": "Wisconsin sees triple-digit measles increase as US nears 6,000 cases",
+    "summary": "Wisconsin sees triple-digit measles increase as US nears 6,000 cases CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVJEbjdWOFVrc3FXd24tY2RsYnh1d2tITEkyYmxJQWwyLW9qYXFmOHBzUHB0R2FrejNuVXRBQmtIa0VENG9GVTM0bEoyUEVjTXVhYzVmTF9ucHVTQTFJTWQwZEJaazczUUdhSzR5c2l1WFFOV19uVlVVWGJiZmNCaTRjWVYtM3EzM2xyQmVuSWM4UEhFNU00NHdjbXBaQWln?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:0e57c647cf4d600b",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-20",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Pennsylvania reports 8th measles death as outbreak continues",
+    "summary": "Pennsylvania reports 8th measles death as outbreak continues American Hospital Association",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1NudWpibE9yTlVLNTBhbVZEanJsWi1uMWtVdEF4Ymw2VXAxTFpTei1FVmtFQ0o5eXA5QzItVXpXQWRCM3U0TU4wekZneDgwaDE4VUwyVHNnTGdDUk16Mm5VcG9LaC1zTEF6dVRHRzZWOENSYVhEc1RZZ2Y0SXlKYmxOc1RCcFgyOFZGYXhVSlNtalM2aHREWGFBdHVZZkZ3dlpqdA?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:976c69328b921134",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-20",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Wisconsin measles cases pass 800 as outbreak surges statewide",
+    "summary": "Wisconsin measles cases pass 800 as outbreak surges statewide Milwaukee Journal Sentinel",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWQ0MUlCS3lCbTNTNzU0bzVmeDltQjFGWU9ETnNuMmZia0hOYzRweUxOc0dMRVJjNW1HdTNGOGRfcjNQT19saERKcHVpeGRvOG0xeUVuZURhY0ZfWUtqdW9JLXNsSGx3YmpVN243UkdIVUFxVmdZYXlGTDRJb001ZHZLVGZIZmpZbDVHSV91WTZ3X1JPQVBEMGkyN3JWcm1YRmc5NEFXa2xFdDRUWnY4a0VvMzRtUnFEbzQxUnFxbzJDaXpmeEo1NA?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:8da715e002a04dc2",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-20",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles outbreak hits Indiana. Here’s where the confirmed cases are",
+    "summary": "Measles outbreak hits Indiana. Here’s where the confirmed cases are Indiana Public Radio",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUhFYXdIb2N1VHRXM0ZfWWtPTmliajFhTm5yQnlEcHdfNkVSZWp0WUxMRFNvNGZ1XzZabHkxbi13R3NMcnBCZGZBX1NzdTRtYTllT2pnZmJkdG1aR1dOZ0lfRTVTbl9sRThjeS1fUGUzNURIcl9tT2pXMmpEbzBUUG9mb3F2VzRDb2xWenNqcm5lX0puTjVfZkV2alhmdG13LUhMVTNUSC1hNE4tTjRN?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:4befd5d09988afbd",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-20",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Virginia Reports First Measles Death; US Total for Year Now 12",
+    "summary": "Virginia Reports First Measles Death; US Total for Year Now 12 Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1F2WE9sVEh5ZlJCaGNuVkhJdjNQZHpFQzVhVlNLMDNjZTNSVFpLSXRMYVV3U3RMdm1ESVZicU1mQ3oyMUFMTzlldnJJb19CZmZoa0VUdFFsYjZPLTZxNm1TV2d4NkZfMEFsMnZULVQwNDV2cXNuWF9tWE9uNzFQTmlCUzFPUmY2cTlMYWpDcm9jZWpMTDdYZS1uTm1MV2pwbThaRmRwQ013dDBRTm9lOFlR?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:59ef0bd84a4d15f9",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-20",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "US Measles Cases Near 6,000 Mark as Outbreak Worsens",
+    "summary": "US Measles Cases Near 6,000 Mark as Outbreak Worsens U.S. News & World Report",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVNnX1BKYkotODVTSElyc3EzYi1wY09YVzBwRzJfM29jM2E0aE9GejJXbEFnbUNfd2V3anpEczFXYlJTZkt4aW5HMnVJVGhhUl85b1V3MUR6WUVOaFNrZ3FQY0NsNzNiVnZ0X3RVNlVEdzlvZGRjWXhqR095cmxnQS1Vb2RLWkZ5WVFnZ1g0Z2thT0Q4Y1dFRDhFVTlwN3Y1Qlpnbm9B?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:a3df8bf0be4bd15f",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-20",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Virginia reports first measles-associated death of 2026 involving young child",
+    "summary": "Virginia reports first measles-associated death of 2026 involving young child The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53WFNWckJ3OXVFbU9hQWRQRUxReTJYYVNvODVhQ1JkUU0wY0tiQnhFd0MyX3FoLXhCSG5XSkVuUnc0R1Y5ZG92dHFVY05vT0dBZ0VEeS1RYkdKeWc2Nk9tUlhJV0hVQXc?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:b577f2ee4a930188",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-20",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Congenital Measles Returns to the United States",
+    "summary": "Congenital Measles Returns to the United States Infectious Disease Special Edition",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmd1bWtFdDEtUzNYT3hlY1BtSFc0enpVbFFrNEJVTXVvejdsalZwX1AxSmJrdXVCUTFNcVVPaDVYYzdBRXM1M2NwU3hMdEtlYm1idzFGaHVHTzNmR2c4cnYxdHlXckJodktReFdGRVFRNG5ZLTlCQVQ2YmV6N1VGMTBzNnJfUWN1a1dGZVdEODhZWXdPSEF3Y1FfNkExTW9XdE5IaEpTcFV5UVhzTVE?oc=5",
+    "doi": "",
+    "source": "Infectious Disease Special Edition",
+    "source_type": "news",
+    "published_date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "congenital measles"
+    },
+    "id": "url:3bd4f7e742985471",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-20",
+    "policy_area": [
+      "pregnancy_infection"
+    ],
+    "policy_area_labels": [
+      "Measles/rubella infection in pregnancy"
+    ],
+    "pregnancy_related": true,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Impact of Autologous Stem Cell Transplantation and CAR-T Cells Therapy on Vaccine Immunogenicity in Hematological Malignancies: A Prospective Cohort Study",
-    "summary": "To evaluate pathogen-specific humoral responses and vaccine immunogenicity before and after vaccination in patients treated with Chimeric Antigen Receptor (CAR) T-cells therapy or Autologous Stem Cell Transplantation (ASCT). Humoral protection against tetanus, diphtheria, measles, varicella zoster virus (VZV), and hepatitis B virus (HBV) was evaluated before and up to 18 months after CAR T-cell therapy or ASCT for Hodgkin lymphoma, B-cell lymphoma or multiple myeloma. Vaccinations started 6 months after treatment according to international recommendations. Vaccine response was defined as achieving seroprotective antibody titers. Fifty-three patients were prospectively included: 22/53 (41,5%) underwent ASCT and 31/53 (58,5%) CAR T-cells therapy, including 17/31 (54,8%) B-Cell Maturation Antigen (BCMA) CAR-T recipients. Baseline seroprotection rates in the overall population ranged from 42.9 to 87.5% depending on the pathogen. Patients receiving CD19 CAR-T cells showed higher baseline seroprotection rates (51,7 - 100%) than ASCT or BCMA CAR-T recipients (31.8 - 83.3% and 25 - 87.5% respectively). Treatments did not significantly affect seroprotection persistence at 6 months irrespective of treatment type. After revaccination, responses were mainly observed in ASCT recipients (36 - 64% of responders depending on the pathogen), whereas they were limited in BCMA and CD19 CAR-T recipients (0 to 27% and 0 to 9 % responders respectively). Median antibody titers for tetanus, diphtheria and HBV increased after vaccination in ASCT and BCMA CAR-T recipients, but not in CD19 CAR-T recipients. This study highlights heterogeneous vaccine responses in high-risk populations and challenges current recommendations with identical vaccination schedules regardless of treatment type.",
+    "summary": "<h4>Objective</h4>To evaluate pathogen-specific humoral responses and vaccine immunogenicity before and after vaccination in patients treated with Chimeric Antigen Receptor (CAR) T-cells therapy or Autologous Stem Cell Transplantation (ASCT).<h4>Methods</h4>Humoral protection against tetanus, diphtheria, measles, varicella zoster virus (VZV), and hepatitis B virus (HBV) was evaluated before and up to 18 months after CAR T-cell therapy or ASCT for Hodgkin lymphoma, B-cell lymphoma or multiple myeloma. Vaccinations started 6 months after treatment according to international recommendations. Vaccine response was defined as achieving seroprotective antibody titers.<h4>Results</h4>Fifty-three patients were prospectively included: 22/53 (41,5%) underwent ASCT and 31/53 (58,5%) CAR T-cells therapy, including 17/31 (54,8%) B-Cell Maturation Antigen (BCMA) CAR-T recipients. Baseline seroprotection rates in the overall population ranged from 42.9 to 87.5% depending on the pathogen. Patients receiving CD19 CAR-T cells showed higher baseline seroprotection rates (51,7 - 100%) than ASCT or BCMA CAR-T recipients (31.8 - 83.3% and 25 - 87.5% respectively). Treatments did not significantly affect seroprotection persistence at 6 months irrespective of treatment type. After revaccination, responses were mainly observed in ASCT recipients (36 - 64% of responders depending on the pathogen), whereas they were limited in BCMA and CD19 CAR-T recipients (0 to 27% and 0 to 9 % responders respectively). Median antibody titers for tetanus, diphtheria and HBV increased after vaccination in ASCT and BCMA CAR-T recipients, but not in CD19 CAR-T recipients.<h4>Conclusion</h4>This study highlights heterogeneous vaccine responses in high-risk populations and challenges current recommendations with identical vaccination schedules regardless of treatment type.",
     "url": "https://doi.org/10.1016/j.cmi.2026.11.016",
     "doi": "10.1016/j.cmi.2026.11.016",
     "source": "Europe PMC",
@@ -540,18 +1074,52 @@
     "pharma": false
   },
   {
+    "title": "Kindergarten MMR Coverage, Vaccination Exemptions, and State-Level Measles Incidence in the United States, 2024 - 2026",
+    "summary": "<h4>Objectives: </h4> To examine associations of kindergarten measles-mumps-rubella (MMR) coverage and vaccination exemptions with state-level measles incidence in the United States, 2024-2026. Methods. In this ecological study of 50 states and Washington, DC (up to 153 jurisdiction-years), we linked CDC surveillance, SchoolVaxView, and Census data. Negative-binomial models estimated incidence rate ratios (IRRs) per percentage-point increase for completed years 2024-2025 (generalized estimating equations) and through MMWR week 39, 2024-2026 (maximum likelihood, adjusted for density and poverty). Results. Cases rose from 269 (2024) to 2,263 (2025); 3,642 were reported provisionally through October 2, 2026. Completed-year IRRs were 0.875 (95% CI=0.806, 0.950) for MMR coverage, 1.202 (1.075, 1.344) for any exemption, and 1.207 (1.059, 1.376) for nonmedical exemption. Adjusted week-39 IRRs were 0.945 (0.837, 1.068), 1.147 (1.004, 1.310), and 1.131 (0.972, 1.316). Under cluster-robust maximum likelihood, completed-year intervals for MMR coverage and nonmedical exemption included 1. Conclusions. Higher exemption prevalence was associated with greater measles incidence; other estimates were imprecise. Public Health Implications. Monitoring exemptions alongside MMR coverage may help identify jurisdictions needing closer vaccination-gap assessment. Ecological findings do not establish causality.",
+    "url": "https://doi.org/10.64898/2026.11.17.26368302",
+    "doi": "10.64898/2026.11.17.26368302",
+    "source": "Europe PMC",
+    "source_type": "preprint",
+    "published_date": "2026-11-19",
+    "journal": "Preprint",
+    "authors": "Ghosh S, Sunil TS, Chowdhury S, Hasan MN, Islam MK, Ronoh JK, Kungu JM, Makau DN.",
+    "affiliations": "",
+    "extra": {
+      "pmid": "",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": "Preprint"
+    },
+    "id": "doi:10.64898/2026.11.17.26368302",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-19",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "The U.S. Just Lost Its Measles-Free Status. Who—or What—Is To Blame?",
     "summary": "The U.S. Just Lost Its Measles-Free Status. Who—or What—Is To Blame? Reason Magazine",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2ViOExoaEE0UzBfN0Z3TVBCUG81WTRSMlhEclo0akY3SnpQS3JxWjJJbk9LSVZSMElTT3dKV0F2Z2lKMmZyZTh0Mmk5UmktdHh5YVdMcGcxUDI4UnVpV1B1dlNqUEZQcU52bGNJelROQ3Q4N21aNG1vdnUtSFVsdkczbTItbl9XSzRTS0lfanZBQlBuaWpxVmlTQ2c?oc=5",
     "doi": "",
-    "source": "News",
+    "source": "Reason Magazine",
     "source_type": "news",
     "published_date": "2026-11-19",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "feed": "measles outbreak search"
+      "search_term": "measles resurgence vaccination"
     },
     "id": "url:5aa938c8207295e8",
     "first_seen": "2026-11-19",
@@ -1067,37 +1635,6 @@
     "pharma": false
   },
   {
-    "title": "What pregnant women should know about measles as cases grow in the US - ABC News",
-    "summary": "What pregnant women should know about measles as cases grow in the US ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0NEQlZVejBJWGN2UUwyc09hYmNqX3NEemhXamFaRDNCUWsxMElOS19nMEd4RWJ2ZnVpaG14SVBINHVoUUFFcVpXeEYxZkx2NkI3eWd6X18tRFNENng5ZXBld3I4SmZZbzVDS0RiTUJEMU1pdHhidmU2ek8zVF9sdEJ4STQ5YmIza0hidkJNVmFiWktoMWJCV3d5ZmxLeDg?oc=5",
-    "doi": "",
-    "source": "Breaking News, Latest News and Videos",
-    "source_type": "news",
-    "published_date": "2026-11-19",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "measles vaccine pregnancy"
-    },
-    "id": "url:2e8a8e2979128942",
-    "first_seen": "2026-11-10",
-    "date": "2026-11-19",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
     "title": "Coshocton County reports first measles case amid statewide outbreak",
     "summary": "Coshocton County reports first measles case amid statewide outbreak Coshocton Tribune",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDRhcmxQdXhxa2N4TENGSDZhMWZlZkZPWFpkc19uOWRHczQwY1dkWnlESFA4QVJBUVZPQkRWTXF0b3BBSU9ZdVkxZF92M29QTHZ1cEppSG1USEZxVE9LbW9JNV8yeUVSVUxOZDFsREd4aVNCVl9CMUFyRTRSRU5FLUZSc21LU2VGMzhsd3ZQWGdiREg3S2ZqZi1XSllKcW9sZnZSUVJWdGU5bGxGb0RnQkhmejZwNktsNjNjQzk4V2Z3MVNSQUZYdzZzVjNjS21pTWctUg?oc=5",
@@ -1189,6 +1726,41 @@
     "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
+  },
+  {
+    "title": "Pennsylvania confirms eighth measles-related death amid US outbreak",
+    "summary": "Pennsylvania confirms eighth measles-related death amid US outbreak Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
+    "doi": "",
+    "source": "Reuters",
+    "source_type": "news",
+    "published_date": "2026-11-19",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak 2026"
+    },
+    "id": "url:f6fed1da3578027b",
+    "first_seen": "2026-11-19",
+    "date": "2026-11-19",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "News"
+    ]
   },
   {
     "title": "US loses measles elimination status as \"once beaten\" disease sweeps nation",
@@ -2162,37 +2734,6 @@
     "pharma": false
   },
   {
-    "title": "Pennsylvania confirms eighth measles-related death amid US outbreak",
-    "summary": "Pennsylvania confirms eighth measles-related death amid US outbreak Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
-    "doi": "",
-    "source": "News",
-    "source_type": "news",
-    "published_date": "2026-11-18",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "feed": "measles outbreak search"
-    },
-    "id": "url:f6fed1da3578027b",
-    "first_seen": "2026-11-19",
-    "date": "2026-11-18",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
     "title": "Measles outbreaks reported in Hillsdale, St. Joseph counties",
     "summary": "Measles outbreaks reported in Hillsdale, St. Joseph counties WILX",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUltU0FFR0N1Z0VLVnhoNXB5TE5ZTjkwaHNNV1NhbHVNZHlWR0tkeG5sa19WdUd0YXdpd0R5R2NKVFNJekxKRW1yX1dvdzl6VmpHVThKZGg1aUpzX1Y3V19CYTAyQVlxMVkwRU9pbkRXa2tCZzQwT2JCN3FqOEZiR1dseUlYRzhfajZ1UWpJU0l3TzVtNTlkczBB?oc=5",
@@ -2230,14 +2771,14 @@
     "summary": "Canada lost its measles-free status. Here is how we can get it back CBC",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG81ZmlROWNzaVdrTjNWOUI4Q2ZqcVhZcllQTHNmX1pmLU9YOXVVT2FfZ2ViaS1RSGJES20yUHpGSndCUTl0RHFyNjVjcUFKZ3dyTnNhV0JIeU40RGwtX21jaHdraExCa2lXWTFoTmdicFRlLUVRMFJlSkpnSTJ5UFZxNUtGSzlmU0FmTQ?oc=5",
     "doi": "",
-    "source": "News",
+    "source": "CBC",
     "source_type": "news",
     "published_date": "2026-11-18",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "feed": "measles outbreak search"
+      "search_term": "measles outbreak 2026"
     },
     "id": "url:b04c4ed8d65afc13",
     "first_seen": "2026-11-19",
@@ -2381,6 +2922,68 @@
     "pharma": false
   },
   {
+    "title": "How dangerous is a measles outbreak?",
+    "summary": "How dangerous is a measles outbreak? UChicago Medicine",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0t4LU9FUjBSd3BBb2xLSUFma0YtRkVyVW5tYmpxbWdOWU9xVzRpOXRyaTM3V0lVWlVXXzhnQXhsUEhfNnUzZzBHb0psZUR6T3REdjFjRFdVWEhmSEdRUV93cmNuOW9XWEg5Uks1R0dEb01qckJjekcxM2Q3TUdRY3F2ZE9faUd6LXpWUUc1WThKOGpaVHZkaURDeW1tN2Y4WUsteTVwUlhMekU3V1VuVUQzb25IVUlxYmc?oc=5",
+    "doi": "",
+    "source": "UChicago Medicine",
+    "source_type": "news",
+    "published_date": "2026-11-18",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR second dose age schedule"
+    },
+    "id": "url:2a0eb66bd045a8d7",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-18",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles detected at Stamford wastewater facility: Officials",
+    "summary": "Measles detected at Stamford wastewater facility: Officials NBC Connecticut",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFU1Qk0wcWxBY2tzTWo0Vk1rV1ZZS1hLbjJiRlZsWjMxejVRcFpsQXpXVzBqVllFNmh6RF9sdlpfT1dRZm8tOVJHdDVCclRvSEwxU25tY1I1VnpfVkdqVHVIS3plbE1IOUJPYkk0S2ZSQlE1S0g1RW1JYi1qZGtpenpSU0F4RmVSS2czc0hDTmFaakN1UlBya1lJeHNMWlFRT1JhUk51WW8yVlRZQ2fSAbYBQVVfeXFMUGkzSS1wU0JLeWxHRlE4Y2RiQUtWbFp2UmRvc3l0SUxRYlFkTG40WEJISWp4cUF3M1VDRndackNnVHAwem0zM1pTeVdoajVtSUIzWU9ZdEVyV3lZT2h2a0trYlQzZ1VSZkFLYWhXaGdCeUpTbzBsa0JNOXQxWWFsRXBSc1VYYlByR1p3NXFEbDFjZFJxYTczMmVmQVlBdVFldlVtMXF2RGRYMnNDLUMySWJ6THlkTVE?oc=5",
+    "doi": "",
+    "source": "NBC Connecticut",
+    "source_type": "news",
+    "published_date": "2026-11-18",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR 18 months schedule recommendation"
+    },
+    "id": "url:811d7a26a7423a63",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-18",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "US loses measles elimination status: what it means for the world",
     "summary": "",
     "url": "https://doi.org/10.1038/d41586-026-03747-z",
@@ -2483,6 +3086,37 @@
     "pharma": false
   },
   {
+    "title": "What pregnant women should know about measles as cases grow in the US - ABC News",
+    "summary": "What pregnant women should know about measles as cases grow in the US ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0NEQlZVejBJWGN2UUwyc09hYmNqX3NEemhXamFaRDNCUWsxMElOS19nMEd4RWJ2ZnVpaG14SVBINHVoUUFFcVpXeEYxZkx2NkI3eWd6X18tRFNENng5ZXBld3I4SmZZbzVDS0RiTUJEMU1pdHhidmU2ek8zVF9sdEJ4STQ5YmIza0hidkJNVmFiWktoMWJCV3d5ZmxLeDg?oc=5",
+    "doi": "",
+    "source": "Breaking News, Latest News and Videos",
+    "source_type": "news",
+    "published_date": "2026-11-17",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles in pregnancy outcome"
+    },
+    "id": "url:2e8a8e2979128942",
+    "first_seen": "2026-11-10",
+    "date": "2026-11-17",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk.",
     "summary": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lLVBscUhhTi1PZldLT25LVkgzdDdwVUh4ZDVVd2JUQV9uY2puOE9NejY5eVhTOTNBcm5SaWNyRnNsN3NoTFlia1ZwYS1WaEtyTVdiaXFMUWx4TUhHSmowbzJXTmdZWkJqQjFDUUVYZ2Y4Q1lTTmF1eFRB?oc=5",
@@ -2512,9 +3146,8 @@
     "source_type_label": "News article",
     "reviewed": false,
     "pharma": false,
-    "duplicate_count": 2,
+    "duplicate_count": 1,
     "also_reported_by": [
-      "Everyday Health",
       "Time Magazine"
     ]
   },
@@ -2547,7 +3180,9 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": []
   },
   {
     "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data.",
@@ -3293,7 +3928,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR 18 months schedule recommendation"
+      "search_term": "measles resurgence vaccination"
     },
     "id": "url:5d81ec9de97ef4e5",
     "first_seen": "2026-11-17",
@@ -3563,9 +4198,8 @@
     "source_type_label": "News article",
     "reviewed": false,
     "pharma": false,
-    "duplicate_count": 3,
+    "duplicate_count": 2,
     "also_reported_by": [
-      "NanaimoNewsNOW",
       "Toronto Star",
       "paNOW"
     ]
@@ -4037,11 +4671,7 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false,
-    "duplicate_count": 1,
-    "also_reported_by": [
-      "eMarketer"
-    ]
+    "pharma": false
   },
   {
     "title": "‘A national embarrassment’: Measles is again endemic in the US",
@@ -4354,21 +4984,21 @@
     "pharma": false
   },
   {
-    "title": "CDC Reports 13 Congenital Measles Cases During US Outbreaks",
-    "summary": "CDC Reports 13 Congenital Measles Cases During US Outbreaks Demokratis.co.id",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0N3JiSnZ3S3VYTzNoc25qM3BUMjc1c2s4ekRITUcxc1pCREdnUjJwb3RWUEo3OGZDRFhJVlREem5ZZEtDdWFpcG5hV1lJeUdGcXRIb2pOUVhlbUhLRkRsR0pIYWJZMW5hS2Zz?oc=5",
+    "title": "Measles During Pregnancy: CDC Reports 112 Maternal Infections, 13 Congenital Cases—and Troubling Gaps in Surveillance",
+    "summary": "Measles During Pregnancy: CDC Reports 112 Maternal Infections, 13 Congenital Cases—and Troubling Gaps in Surveillance TrialSite News",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWmhwNTEzMTg4OTdLR1BHWE5nTURaNHFYaHBOMzY5Uzc2Ym5rWW1YaXJxWEhybTNmZ3Z4dTlvUTNPYXpWdllhNWNWTkZOUm1KeTFaWm11bFJVLVZQTDBHVFJ6R0JFOERSd2VVMDF4bmYzcnBPdDdKVndxY1Z6VVVoOUl4cXoxWVd6Z3JQMUYwdUlyWFFaay10emZJLUl5eXdrMENmNzVqck1mNGRJUF82cV9aTEp1NHpnOEltWU9qUVZaUjlVYzNxQS1KYkhjTDdaZ3N4NV9jenZiWUszOFpBNUtVTHRoNFNaTXFz?oc=5",
     "doi": "",
-    "source": "Demokratis.co.id",
+    "source": "TrialSite News",
     "source_type": "news",
     "published_date": "2026-11-17",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles outbreak pregnancy"
+      "search_term": "measles in pregnancy outcome"
     },
-    "id": "url:aaf3e3ba601da80a",
-    "first_seen": "2026-11-18",
+    "id": "url:4bd85be6f4681cac",
+    "first_seen": "2026-11-21",
     "date": "2026-11-17",
     "policy_area": [
       "pregnancy_infection"
@@ -4382,7 +5012,11 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "Demokratis.co.id"
+    ]
   },
   {
     "title": "Measles Warning for Gen Z and Millennial Women as Cases Rise",
@@ -4489,7 +5123,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "congenital measles"
+      "search_term": "IVIg measles pregnancy"
     },
     "id": "url:f6d386b72de37b68",
     "first_seen": "2026-11-18",
@@ -4799,40 +5433,9 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR 18 months schedule recommendation"
+      "search_term": "measles outbreak 2026"
     },
     "id": "url:defea0ed1fd42210",
-    "first_seen": "2026-11-19",
-    "date": "2026-11-17",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "na",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "U.S. Loses Measles Elimination Status: Who Needs MMR?",
-    "summary": "U.S. Loses Measles Elimination Status: Who Needs MMR? The Atlanta Voice",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdnl3bjZKWkxJMFBJR2Z5WHJsMjVRVWhaLWVkWDBDZ04xVnUxcGxRNkRjbVVqWnVIM1FkUWxNME16aFFDSmVnVXMwWldZYXFLT0t1TFJ2bTRLa0t3SEh6ZnZ3UHF1OUh4OUwteS1IQmpIOWE0MXV2VzNvbVVhLVpleVVyQWU1R0hRbFE?oc=5",
-    "doi": "",
-    "source": "The Atlanta Voice",
-    "source_type": "news",
-    "published_date": "2026-11-17",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "MMR second dose age schedule"
-    },
-    "id": "url:959a8770f9015e81",
     "first_seen": "2026-11-19",
     "date": "2026-11-17",
     "policy_area": [
@@ -4962,6 +5565,161 @@
     },
     "id": "url:f20747f590e080e0",
     "first_seen": "2026-11-20",
+    "date": "2026-11-17",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles Outbreaks: Common Questions & How to Protect Your Child",
+    "summary": "Measles Outbreaks: Common Questions & How to Protect Your Child HealthyChildren.org",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkxKemNQUnkzc1MxWTU0ZGQxdndLR1gxYzlhX01TcEp2WkVxQzRaYzhySXJQd3dBblBqek1LU0w1LXBod1pROXF5Vlg0X2IwYWYyOFFOclFCMmpBWTNkUjFaSWJMSGtQZTVDMG9qM0t0VjVTQlZYcURQcmdLVU5BYjlybG5fejhzQW1OTDlGX0pDSnNGTy1ka3pGS0xsVjFoR0gxSlFPNDNtS1hiS09NWHlqSHlXVlhlRTJXVlNaVVlaSHBkZmVYWGNkUUxRVEQ0MzZn?oc=5",
+    "doi": "",
+    "source": "HealthyChildren.org",
+    "source_type": "news",
+    "published_date": "2026-11-17",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR vaccine pregnancy safety"
+    },
+    "id": "url:50d0a2a2c2b9817e",
+    "first_seen": "2026-11-05",
+    "date": "2026-11-17",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Pennsylvania sees growing number of measles cases among pregnant women",
+    "summary": "Pennsylvania sees growing number of measles cases among pregnant women Good Morning America",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVdUZ1l4czBpdXROQVAyREh4SDF2b3IzTU9pX01VR0xjZkQtQ05PZHpiRlJGN0lvZGFzT0s4U1dVNGVyZmdVTVRibm5wQ0IxcXdqRjZqYUVUU19VOXZZb1g3Q04yTmFZbjB0Y014M1RMazNXSjJYeXVBOHBnWEN4MU12U3ItQ193Wm9JaVBnZjRjcjNmSFlXNUhFVEE0OF8zblkwMnZLQjE0RU1OMkl1U2JB0gG3AUFVX3lxTE1PZTFmSS1CZmZfbVR2T1EyVDM5enJ4akN4amNRTy1VenRaTzFzYVkzMTZxUVFjZWZHOTk1c1VvaFoweklIVEkwdXpkM2w4UTBrdnNNbmN4OWJMMVRSVGcxN2NOcUVhbGgwX1lpQ2l1UjYtQUhXLXpTdVo3aGZFdXk5akkzTDJJVTh1elByUmhlZFdkcVZLVXRKM19GWHlCMUNXYlFncDhQaWpvVUFxSU5za19RYWpUaw?oc=5",
+    "doi": "",
+    "source": "Good Morning America",
+    "source_type": "news",
+    "published_date": "2026-11-17",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak pregnancy"
+    },
+    "id": "url:d8dd92ce07a24e35",
+    "first_seen": "2026-11-18",
+    "date": "2026-11-17",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "US loses measles-free status as vaccinations fall, cases and deaths mount",
+    "summary": "US loses measles-free status as vaccinations fall, cases and deaths mount South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeW9BUmhHdFRFenJKaDByVUktVzZRalFIaW1kNk14YVBBc21vazU0LXBUTlRfTkFXZTNKbFEyWUFZNjBiQWwwTm85dU1Dc1FLSVNFZ1g3RUVjOXhWQjZKYzU2bHJiaEF1UVVjNGdzQTJQNVhYNFRNRzIwbzk2M0pqNjd1QjF2TmJFTExtVFZhZU5KXzB4aXkwOG95eE5tYXF6R0JObzNUd0h1a0M5NTBxN2JRTk8zb0xIdVF4OFpfVzRXX2VzVXJKN3VHV0pXN3hoTlJzTdIB1AFBVV95cUxObE93THR1aXhUZkx6a1J1eDNMYWtPZHdORTJUVXA3ZEtKQ0dOX0F6VW5kSFpyWFFzdlA2MkI3NkNqMVI3cjh0Z1V3cVRlanRBbEFjNTJ2SnJuUmJvdmJwUXVYcTlEa3IwRkd3cTAzdFU5eWsyekZtNnI2QzRBM3ZVRGFDYlBYdi1WdUJaRDQ3a1ZQSTluQi0zZnlQRlViZkJOOFJldXNmanFEcWhtSkE4UmJsc1UyYVZhN2dTc2VuRkN4RjBYc3Z4SXVwRW5KYjBTLWhEQg?oc=5",
+    "doi": "",
+    "source": "South China Morning Post",
+    "source_type": "news",
+    "published_date": "2026-11-17",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak Canada"
+    },
+    "id": "url:e9ca74c40600ef19",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-17",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles is (officially) back. Here’s what outbreaks are revealing",
+    "summary": "Measles is (officially) back. Here’s what outbreaks are revealing Healthbeat",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMEVFUk5jN3g3N2dHOUQ3TW90OWs1eW4wYVRjeDhxN1FqU0lzbW8ydFFEMmllYi1jVkVvakdpR3lQQ2RObGtPdUk2NTYyZHNzaEI3clZsVmVvbmZVQWFhZmRmZDZGUjJNemxCYWhhWWhUVWpWZURaMHFzUXg3QVh2ckI2UXhwTDNEZEt1dGZyLWpoY3AtQWFWclE2M1M4WVU?oc=5",
+    "doi": "",
+    "source": "Healthbeat",
+    "source_type": "news",
+    "published_date": "2026-11-17",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles resurgence vaccination"
+    },
+    "id": "url:f5cbf03aa36bc178",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-17",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+    "summary": "Health organization to announce that the U.S. has lost its measles elimination status NPR",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzRPNUhtTWxFMnVIVHgzU19heDUwNUtsb3p6RTlNUDhlTmptNS1TOENOeDVGcFNZTmN4V18tV2lyb2FlekNkcUNrWjZ2Mzlqb2c3eTBiUXM0dkNIRnZsXzBZVThSNE5yNjJPN05JMUpjb0JpOGpvQTByNC1TaS1QMHdXVVk1VXZkby1IVS03TVJxM2tfTmRtVjVwMEFvVUtyM0J3RnBzQkpKWkNlcEJOVV9wdi0xV1BvcXMwd0N1RjNXRnFha0lnMg?oc=5",
+    "doi": "",
+    "source": "NPR",
+    "source_type": "news",
+    "published_date": "2026-11-17",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles resurgence vaccination"
+    },
+    "id": "url:0cd7e40c7cafa46d",
+    "first_seen": "2026-11-21",
     "date": "2026-11-17",
     "policy_area": [
       "general_measles"
@@ -5251,6 +6009,41 @@
     ]
   },
   {
+    "title": "What parents need to know as US loses measles elimination status - ABC News",
+    "summary": "What parents need to know as US loses measles elimination status ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXFzTGVaQlFTZGRSa1V0WDdTbWRrWlo0RkY0WWg4cF9HRlFOMDJScmtPMlFHNTBVSVJHeE4yTFdXWWN4ZUF2TmlabUtxYTVJYVRIdTZpVUhRaG1SS2tuNUZXVUVFOGM3ZXNGbHBWb2cwZzdHUXppSlZ3dWplVUhVZkRYMDhTdlVMa3dxbDkyX1_SAZYBQVVfeXFMTjNJckRESmRsWEFCYXVMb3RqamxPeHkyVHhuSjVWVVVhVXB4SEVFN3BGNGllQjU1QWhOSWc4cWd1YTUyV0VFN2dZcExjNlloaXlhRXhfak16d1g5ck1LUzhjTlpOZy14a2w1Xy1pWlhSM3FxNHVRMnZUbGZYdHZReHV4VzNXRFlicW5RVl9GdjlCZFZhRWdn?oc=5",
+    "doi": "",
+    "source": "News",
+    "source_type": "news",
+    "published_date": "2026-11-16",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "feed": "measles outbreak search"
+    },
+    "id": "url:f1726c945527df9b",
+    "first_seen": "2026-11-17",
+    "date": "2026-11-16",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "HealthyChildren.org"
+    ]
+  },
+  {
     "title": "Measles resources 2026: Elimination status lost, death toll rises",
     "summary": "Measles resources 2026: Elimination status lost, death toll rises Association of Health Care Journalists",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkg5Q0w5QUVzUV82bnhXSHZKc3JyLVBDdFgxd3BGSVY4MmxBQURaZ0xaZnQyczdXQzhHYUlFZmUtTnVRSXNacHJtSENmQTdpcGRvZE1nYVBSMVFycXlQLUVqRGRPVWcwS29xX2JhNVlHN0RRY1NMQ3RHbXdpWHItR0NqdGxlZw?oc=5",
@@ -5283,41 +6076,6 @@
     "duplicate_count": 1,
     "also_reported_by": [
       "Telehealth.org"
-    ]
-  },
-  {
-    "title": "New Public Health Alerts report spotlights how pregnant women with measles and their babies fare",
-    "summary": "New Public Health Alerts report spotlights how pregnant women with measles and their babies fare CIDRAP",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdlpadWVLbFZxLWE3SlZxSzV6Ml9fMk1mMmMySTIzRXlTRHYzM0NvUDduSTNiSDgyaG5MVWt3R00yeUZqYkJMWDlsY0U5dXJYYTJITFhWaTJsY0Y2bElrLW9IeTBIT1pva0FGUVFzZTA2amhrSUo2cjhjQl9sOXNnQldHaTlKOUtmSnd1UksybzZWMVRqMTRZZ2ZLZkRVdVRkQTVsQmtURDJ0ZXJGT0pUZG1YTlpqaVgwWGxIandB?oc=5",
-    "doi": "",
-    "source": "CIDRAP",
-    "source_type": "news",
-    "published_date": "2026-11-16",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "measles vaccine pregnancy"
-    },
-    "id": "url:00c99df89351be50",
-    "first_seen": "2026-11-16",
-    "date": "2026-11-16",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false,
-    "duplicate_count": 1,
-    "also_reported_by": [
-      "News"
     ]
   },
   {
@@ -5354,6 +6112,37 @@
     "also_reported_by": [
       "PBS"
     ]
+  },
+  {
+    "title": "New Public Health Alerts report spotlights how pregnant women with measles and their babies fare",
+    "summary": "New Public Health Alerts report spotlights how pregnant women with measles and their babies fare CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdlpadWVLbFZxLWE3SlZxSzV6Ml9fMk1mMmMySTIzRXlTRHYzM0NvUDduSTNiSDgyaG5MVWt3R00yeUZqYkJMWDlsY0U5dXJYYTJITFhWaTJsY0Y2bElrLW9IeTBIT1pva0FGUVFzZTA2amhrSUo2cjhjQl9sOXNnQldHaTlKOUtmSnd1UksybzZWMVRqMTRZZ2ZLZkRVdVRkQTVsQmtURDJ0ZXJGT0pUZG1YTlpqaVgwWGxIandB?oc=5",
+    "doi": "",
+    "source": "CIDRAP",
+    "source_type": "news",
+    "published_date": "2026-11-16",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles vaccine pregnancy"
+    },
+    "id": "url:00c99df89351be50",
+    "first_seen": "2026-11-16",
+    "date": "2026-11-16",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
   },
   {
     "title": "What It Took for America to Wipe Out Measles",
@@ -5731,10 +6520,10 @@
   },
   {
     "title": "Measles cases nationwide top 5,400 as deaths rise to 10; elimination status decision expected soon",
-    "summary": "Measles cases nationwide top 5,400 as deaths rise to 10; elimination status decision expected soon ABC7 Los Angeles",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV2Q3LVdwLWM0TkZPekJ4bkl0ZFViSk5yYzA2cWFzQVh5OGwyTEdHRHlvQ3lpV3lxZ19KSUR3V0lfbmxpUkQzSDNjdVU5RW50VkNGVklpZThGdnc1bjZUdnFlQ1lUWFBOT0FHUTVjOWpYYndIX1JMb25vWU5JU184TEkwNmNmVi1EMXNrY0pMdGllc2NHUmxYUzJwM1lfaE1uSkJQaERFZEMzOG1mUkl2cmVLZTlDX1VSUEl4VG9YcWQ1ZlY5LTRTeFVEVk5ybGUxSHktWlQxOVZLaUJ1TGtlQg?oc=5",
+    "summary": "Measles cases nationwide top 5,400 as deaths rise to 10; elimination status decision expected soon 6abc Philadelphia",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1RNX2ZTWVVwNm1CT3ZSR1hjNmZSVFFXRkU2Qlo1YnVwNDBlWFJEQzhqRFhkSndBMUd0V1Nac0hZNUdnd3FGdW11Z2FtMmM4dmFrLU91UjZCYkNlM1lSaWtUSGdrYWZBRzF5WndQM1J3V2RUUy1McFJxVk5JZC1VRGJXcEpfTmtlMTNUamNxLWtRUnNhU01CTlY4NXVhOV9oUkVGbWw4c2VWdkdqNnB0eExfenJnYzVYQW1jbTlzVVROVXhTalRZU0w4dUM1Y0ZvaDc4akp2WTFsdXU4ZlAyMg?oc=5",
     "doi": "",
-    "source": "ABC7 Los Angeles",
+    "source": "6abc Philadelphia",
     "source_type": "news",
     "published_date": "2026-11-16",
     "journal": "",
@@ -5743,8 +6532,8 @@
     "extra": {
       "search_term": "MMR second dose age schedule"
     },
-    "id": "url:4bb964ab1949f2b5",
-    "first_seen": "2026-11-20",
+    "id": "url:d6f085dccb95ccc4",
+    "first_seen": "2026-11-21",
     "date": "2026-11-16",
     "policy_area": [
       "general_measles"
@@ -5761,7 +6550,7 @@
     "pharma": false,
     "duplicate_count": 1,
     "also_reported_by": [
-      "ABC13 Houston"
+      "ABC7 Los Angeles"
     ]
   },
   {
@@ -5853,37 +6642,6 @@
     ],
     "pregnancy_related": false,
     "species": "human",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "What parents need to know as US loses measles elimination status - ABC News",
-    "summary": "What parents need to know as US loses measles elimination status ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXFzTGVaQlFTZGRSa1V0WDdTbWRrWlo0RkY0WWg4cF9HRlFOMDJScmtPMlFHNTBVSVJHeE4yTFdXWWN4ZUF2TmlabUtxYTVJYVRIdTZpVUhRaG1SS2tuNUZXVUVFOGM3ZXNGbHBWb2cwZzdHUXppSlZ3dWplVUhVZkRYMDhTdlVMa3dxbDkyX1_SAZYBQVVfeXFMTjNJckRESmRsWEFCYXVMb3RqamxPeHkyVHhuSjVWVVVhVXB4SEVFN3BGNGllQjU1QWhOSWc4cWd1YTUyV0VFN2dZcExjNlloaXlhRXhfak16d1g5ck1LUzhjTlpOZy14a2w1Xy1pWlhSM3FxNHVRMnZUbGZYdHZReHV4VzNXRFlicW5RVl9GdjlCZFZhRWdn?oc=5",
-    "doi": "",
-    "source": "News",
-    "source_type": "news",
-    "published_date": "2026-11-16",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "feed": "measles outbreak search"
-    },
-    "id": "url:f1726c945527df9b",
-    "first_seen": "2026-11-17",
-    "date": "2026-11-16",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "na",
     "canadian": false,
     "channel": "news",
     "source_type_label": "News article",
@@ -6050,14 +6808,14 @@
     "summary": "US Stands to Lose Measles Elimination Status as Multiple States Face The Worst Outbreaks in Nearly Three Decades Health Policy Watch",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YVlNhTThWMUZqUnc0RDV6a2V4eEFOcWJ1bXhBSXRyQkxsRDd0a0FMYnBTSG5HSFM0UnpucUxnelNaS2dRbTRIenNnamZxbUpkNERhY2ZsT1hKNUFpWWdSVDAwMWkyTlY3UnIyRUpyYnRxZXNhRjBTUkVB?oc=5",
     "doi": "",
-    "source": "News",
+    "source": "Health Policy Watch",
     "source_type": "news",
     "published_date": "2026-11-16",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "feed": "measles outbreak search"
+      "search_term": "congenital measles"
     },
     "id": "url:f13145654a57716f",
     "first_seen": "2026-11-15",
@@ -6446,37 +7204,6 @@
       "search_term": "measles in pregnancy outcome"
     },
     "id": "url:2fea89b6442b3501",
-    "first_seen": "2026-11-14",
-    "date": "2026-11-14",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "na",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands",
-    "summary": "Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXlKX3BJeGxyUWR0NDlUZGVEMS1SRXJZbDJEX0dabk5YNFRWYXN4SGFJekJHM2JCcHU4dnpfYnFmUl9sNVlJcWFnWXdkeUdrNEVOM0JraVg5TElvaHFhVDFxZm9QNkdXczlFNWhQZVg4Q1NSZUdLcG5XVVAwdFZwUzdNSER5czQxNG50b3dZOXZyTXgwcE80Qzg3YXVXUDV0NmU2SE1LU043eFZJdFhkVVRaQQ?oc=5",
-    "doi": "",
-    "source": "WSJ",
-    "source_type": "news",
-    "published_date": "2026-11-14",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "measles resurgence vaccination"
-    },
-    "id": "url:bdcafe1ed3f6da43",
     "first_seen": "2026-11-14",
     "date": "2026-11-14",
     "policy_area": [
@@ -7033,6 +7760,37 @@
     "pharma": false
   },
   {
+    "title": "Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands",
+    "summary": "Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXlKX3BJeGxyUWR0NDlUZGVEMS1SRXJZbDJEX0dabk5YNFRWYXN4SGFJekJHM2JCcHU4dnpfYnFmUl9sNVlJcWFnWXdkeUdrNEVOM0JraVg5TElvaHFhVDFxZm9QNkdXczlFNWhQZVg4Q1NSZUdLcG5XVVAwdFZwUzdNSER5czQxNG50b3dZOXZyTXgwcE80Qzg3YXVXUDV0NmU2SE1LU043eFZJdFhkVVRaQQ?oc=5",
+    "doi": "",
+    "source": "WSJ",
+    "source_type": "news",
+    "published_date": "2026-11-13",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles resurgence vaccination"
+    },
+    "id": "url:bdcafe1ed3f6da43",
+    "first_seen": "2026-11-14",
+    "date": "2026-11-13",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "How Long Does the Measles Vaccine Last? What to Know About Measles in 2026",
     "summary": "How Long Does the Measles Vaccine Last? What to Know About Measles in 2026 University of Rochester",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWxBeFBnQzE3dEN1cVlwSjItVTM5SmlvRndxWHFVamdGdUdhMEx6R0Z1eU9jLWVEel9TOU55SHZRSzhORDBQWk14S0lmTThBeUE3aENiQzRmbWJxeUphZmppczRVMnRrRzRmTzE0Z2tXM2ExY1JhLTFzejlnRzBqa29rT2c5b3BDb3pkVU9rZzRCR0EzOWNwQWNJcHhoZHpBdTVJUA?oc=5",
@@ -7139,7 +7897,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles outbreak 2026"
+      "search_term": "MMR vaccine pregnancy safety"
     },
     "id": "url:4b17996513b9533f",
     "first_seen": "2026-11-14",
@@ -7488,37 +8246,6 @@
     },
     "id": "url:b2c67753236d5868",
     "first_seen": "2026-11-14",
-    "date": "2026-11-13",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "Measles Outbreaks: Common Questions & How to Protect Your Child",
-    "summary": "Measles Outbreaks: Common Questions & How to Protect Your Child HealthyChildren.org",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkxKemNQUnkzc1MxWTU0ZGQxdndLR1gxYzlhX01TcEp2WkVxQzRaYzhySXJQd3dBblBqek1LU0w1LXBod1pROXF5Vlg0X2IwYWYyOFFOclFCMmpBWTNkUjFaSWJMSGtQZTVDMG9qM0t0VjVTQlZYcURQcmdLVU5BYjlybG5fejhzQW1OTDlGX0pDSnNGTy1ka3pGS0xsVjFoR0gxSlFPNDNtS1hiS09NWHlqSHlXVlhlRTJXVlNaVVlaSHBkZmVYWGNkUUxRVEQ0MzZn?oc=5",
-    "doi": "",
-    "source": "HealthyChildren.org",
-    "source_type": "news",
-    "published_date": "2026-11-13",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "MMR vaccine pregnancy safety"
-    },
-    "id": "url:50d0a2a2c2b9817e",
-    "first_seen": "2026-11-05",
     "date": "2026-11-13",
     "policy_area": [
       "general_measles"
@@ -9914,37 +10641,6 @@
     "pharma": false
   },
   {
-    "title": "Pennsylvania sees growing number of measles cases among pregnant women",
-    "summary": "Pennsylvania sees growing number of measles cases among pregnant women Good Morning America",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVdUZ1l4czBpdXROQVAyREh4SDF2b3IzTU9pX01VR0xjZkQtQ05PZHpiRlJGN0lvZGFzT0s4U1dVNGVyZmdVTVRibm5wQ0IxcXdqRjZqYUVUU19VOXZZb1g3Q04yTmFZbjB0Y014M1RMazNXSjJYeXVBOHBnWEN4MU12U3ItQ193Wm9JaVBnZjRjcjNmSFlXNUhFVEE0OF8zblkwMnZLQjE0RU1OMkl1U2JB0gG3AUFVX3lxTE1PZTFmSS1CZmZfbVR2T1EyVDM5enJ4akN4amNRTy1VenRaTzFzYVkzMTZxUVFjZWZHOTk1c1VvaFoweklIVEkwdXpkM2w4UTBrdnNNbmN4OWJMMVRSVGcxN2NOcUVhbGgwX1lpQ2l1UjYtQUhXLXpTdVo3aGZFdXk5akkzTDJJVTh1elByUmhlZFdkcVZLVXRKM19GWHlCMUNXYlFncDhQaWpvVUFxSU5za19RYWpUaw?oc=5",
-    "doi": "",
-    "source": "Good Morning America",
-    "source_type": "news",
-    "published_date": "2026-11-10",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "measles outbreak pregnancy"
-    },
-    "id": "url:d8dd92ce07a24e35",
-    "first_seen": "2026-11-18",
-    "date": "2026-11-10",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
     "title": "Clinical consultation: The role of vitamin A in the management of confirmed acute measles infection",
     "summary": "<h4>Purpose</h4>Although measles was declared eliminated in the United States in 2000, the rate of measles infection in 2026 is the highest in more than 3 decades. This clinical consultation explores the role of vitamin A in the treatment of acute measles infection and the challenges posed with this treatment in pediatric patients due to the limitations in currently available formulations.<h4>Summary</h4>The role of vitamin A in the treatment of acute, confirmed measles infection has been well established and is recommended by major medical organizations, including the World Health Organization and American Academy of Pediatrics. Despite the benefits that vitamin A has demonstrated in past studies, treatment with vitamin A remains difficult due to challenges in administration secondary to the limited formulations currently available in the United States. Multiple options exist to extract liquid vitamin A from capsules, but these methods are cumbersome and possess significant challenges.<h4>Conclusion</h4>Vitamin A treatment should be used in patients with acute, confirmed measles infection, after confirming that they are not at risk for drug interactions and have no symptoms of vitamin A toxicity if they were previously treated with vitamin A. A concentrated liquid formulation of vitamin A approved by the US Food and Drug Administration is needed to overcome current obstacles with administration of vitamin A in pediatric patients unable to swallow capsules.",
     "url": "https://doi.org/10.1093/ajhp/zxag353",
@@ -11278,6 +11974,40 @@
     "canadian": false,
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Guideline-practice gap in molecular subtyping and lynch syndrome screening for endometrial cancer",
+    "summary": "<h4>Objective</h4>International guidelines recommend molecular classification of endometrial cancer into 4 subtypes: polymerase ε (<i>POLE</i>) mutated, mismatch repair-deficient (dMMR), p53-abnormal, and no specific molecular profile. However, implementation of molecular classification is often incomplete due to limited access to <i>POLE</i> testing. For dMMR tumors, <i>MLH1</i> promoter methylation testing is used to triage sporadic <i>MLH1</i> loss before germline testing for Lynch syndrome, but its unavailability leads to inconsistent screening practices. This study evaluated real-world adherence to National Comprehensive Cancer Network guidelines regarding molecular risk stratification and Lynch syndrome screening.<h4>Methods</h4>This single-center retrospective study analyzed 204 surgically treated patients (Jan 2023-Dec 2024) for molecular stratification adherence. 103 patients with dMMR or microsatellite instability-high tumors (Jan 2018-Dec 2024) were evaluated for Lynch syndrome screening practices.<h4>Results</h4>Adherence to routine MMR and p53 assessment was nearly universal at 98.5% (201/204) but significantly declined to 20.6% (42/204) when <i>POLE</i> status was required for complete assessment. Among next-generation sequencing-tested cohorts (n=44), <i>POLE</i> analysis reclassified 6.8% (3/44). Germline testing was completed in only 36.9% (38/103) of dMMR cases.<h4>Conclusion</h4>Molecular classification remains limited by factors that likely reflect financial and institutional barriers restricting <i>POLE</i> testing, although its clinical utility was demonstrated by de-escalation of radiotherapy in a <i>POLE</i>-mutated patient. Similarly, the absence of <i>MLH1</i> methylation triage renders Lynch syndrome screening non-selective, lowering germline testing completion rates. Addressing these real-world implementation gaps is critical to optimizing risk stratification and ensuring efficient diagnostic workflows.",
+    "url": "https://doi.org/10.3802/jgo.2027.38.e42",
+    "doi": "10.3802/jgo.2027.38.e42",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-06",
+    "journal": "Journal of gynecologic oncology",
+    "authors": "Kim JH, Tak GH, Kim S, Kim YN, Park J, Lee YJ, Lee D, Lee JH, Lee JY.",
+    "affiliations": "Department of Medicine, Yonsei University College of Medicine, Seoul, Korea. | Department of Medicine, Yonsei University College of Medicine, Seoul, Korea. | Department of Obstetrics and Gynecology, Yonsei University College of Medicine, Seoul, Korea. | Department of Obstetrics and Gynecology, Yonsei University College of Medicine, Seoul, Korea. | Department of Obstetrics and Gynecology, Soonchunhyang University Bucheon Hospital, Soonchunhyang University College of Medicine, Bucheon, Korea. | Department of Obstetrics and Gynecology, Yonsei University College of Medicine, Seoul, Korea. | Department of Obstetrics and Gynecology, Yongin Severance Hospital, Yonsei University College of Medicine, Yongin, Korea. | Department of Obstetrics and Gynecology, Yonsei University College of Medicine, Seoul, Korea.",
+    "extra": {
+      "pmid": "43059274",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "doi:10.3802/jgo.2027.38.e42",
+    "first_seen": "2026-11-21",
+    "date": "2026-11-06",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -12921,14 +13651,14 @@
     "summary": "A baby in Wisconsin has died from measles, the 3rd such US death this week CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeGdiaUdUUm8xNlhIWDFTWkF2UXBaeFdKbDVIVzctWUYwbkptbjNHRzNnTVZwRjlTZEZSNjY5TF9ETXdWeW9hTlhFX3p5WlM3UDF1TXltZDNNaXB5TncxZk8xeWw5M1paeWR4RHRrem9KRzhRTktrLWV2eWJfc3diZXg2SWpMVHB5MVR1ZUZ4QzI5UE0?oc=5",
     "doi": "",
-    "source": "News",
+    "source": "CIDRAP",
     "source_type": "news",
     "published_date": "2026-11-05",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "feed": "measles outbreak search"
+      "search_term": "MMR vaccine pregnancy safety"
     },
     "id": "url:4108dee31f5ba034",
     "first_seen": "2026-11-14",
@@ -13472,21 +14202,21 @@
     "pharma": false
   },
   {
-    "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
-    "summary": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVVZleHVjVVBOcC1SUnB0UzZxeU9VOTQ1TWRMaEtHNlp2WmZXX1JEaXZMX3ZwbGpHeGExOVlEM1ctdGE0MW40X3F2eklVMFFDd2xWOUlFN2VvcTJpVTRlSVFvMzkwT1RWSU1iUjNlYVZ0bHE0a1U1OExMbUNzdjFoQkZqM05objR5RDNDM2VLOENONkpi?oc=5",
+    "title": "Child dies of measles in New York state for first time in 30 years",
+    "summary": "Child dies of measles in New York state for first time in 30 years CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUVwMW1ibmdRZW5hLXpBSklxV3d2NEdYY1owSG03TkZPUVVVSFNVUnJJU3hpSjItNS13LUQ1Umd4d0hvQ3cwSnVBWTdPN2IzMzh6cEltM0RQNnl3ckIyTlB4RzJTa0JzbmhuM1YxX01aYUNPQVk4Z3h1Si1oRzdITHNabGpzbWs1cl9xdDhzbHd6UQ?oc=5",
     "doi": "",
-    "source": "The New York Times",
+    "source": "CIDRAP",
     "source_type": "news",
     "published_date": "2026-11-03",
     "journal": "",
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles outbreak 2026"
+      "search_term": "MMR vaccine pregnancy safety"
     },
-    "id": "url:7571ea5f761bf00d",
-    "first_seen": "2026-11-05",
+    "id": "url:7054340aa939c621",
+    "first_seen": "2026-11-21",
     "date": "2026-11-03",
     "policy_area": [
       "general_measles"
@@ -13500,7 +14230,12 @@
     "channel": "news",
     "source_type_label": "News article",
     "reviewed": false,
-    "pharma": false
+    "pharma": false,
+    "duplicate_count": 2,
+    "also_reported_by": [
+      "Reuters",
+      "The New York Times"
+    ]
   },
   {
     "title": "New York child dies of measles amid worst outbreak in 35 years",
@@ -14051,21 +14786,21 @@
     "pharma": false
   },
   {
-    "title": "New York state reports first measles-linked child death in over 30 years amid outbreak",
-    "summary": "New York state reports first measles-linked child death in over 30 years amid outbreak Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdFpmQ09YS2NVemF2RUJCMjFnTEdzVnhnR2w1NUZ2RFNOS0VlMUxhQ0VxYW03Y3pxUE5Fam5aS0dFd3FLWkNRZHFXbTY4Rmg0SC1BUGd6NzhyU0poOU15TEdTNm5QR0FsQ3B2N29wNElMX0V0ZUxMdFdjeFQza05tWnZSaHJBZlFoaUJlNTdTVjlheHFwV2ZVS2NOSWVCYzlmNmw3dHptUmFiZFVBZmpHYjFoUXVnWXFIcVdHTHQ0MGpwaEdxRUl3ZVRwcXB2cUJEeXdUbmNyZlltdXlfNnF4ZF9zSQ?oc=5",
-    "doi": "",
-    "source": "Reuters",
-    "source_type": "news",
+    "title": "National Survey of Experiential Learning Program Strategies for Ensuring Compliance With Onboarding Requirements",
+    "summary": "The purpose of this study was to characterize the processes, systems, and personnel used by colleges and schools of pharmacy to collect, monitor, and ensure compliance with experiential education onboarding requirements. A 27-item electronic questionnaire was sent to experiential education faculty and staff at all Accreditation Council for Pharmacy Education-accredited pharmacy programs in spring 2025. Questions included demographics, general onboarding questions, and resources, onboarding requirements, and strategies for increasing requirement compliance. Descriptive statistics were used to analyze responses to multiple-choice questions, and common approaches to compliance were identified through the open-ended question. The survey had a response rate of 59.6% (84 of 141 programs). More than 95% of programs required hepatitis B; measles, mumps, and rubella; varicella; and tetanus, diphtheria, and acellular pertussis vaccinations, while 90.5% required influenza vaccination. Fewer than 30% of programs required the COVID-19 vaccination or booster. Annual tuberculosis testing was required by 90.5% of programs. Background checks were required yearly in 63.1% of programs, and drug screening was required in 54.76% of programs. Regulatory modules and intern licenses were required by most programs. Programs used multiple compliance monitoring platforms, and consequences of noncompliance included referral to professionalism committees, course registration holds, grade deductions, or prohibition from attending rotations. Noncompliance management approaches reported included automated reminders, experiential education advisors, and group onboarding sessions. Experiential program onboarding requirements showed commonality regarding childhood immunizations and background checks, with variability in other requirements and compliance monitoring platforms. Regular review of requirements and use of mechanisms for ensuring compliance will assist experiential programs with student placements.",
+    "url": "https://doi.org/10.1016/j.ajpe.2026.102121",
+    "doi": "10.1016/j.ajpe.2026.102121",
+    "source": "PubMed",
+    "source_type": "journal_article",
     "published_date": "2026-11-02",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
+    "journal": "American journal of pharmaceutical education",
+    "authors": "Skledar SJ, Richter LM, Cerulli J, Howard MS, Kipper L, Mihm AE et al.",
+    "affiliations": "University of Pittsburgh School of Pharmacy, Department of Pharmacy and Therapeutics, Pittsburgh, PA, USA. Electronic address: Sjs15@pitt.edu. | North Dakota State University School of Pharmacy, Department of Pharmacy Practice, Fargo, ND, USA. | Albany College of Pharmacy and Health Sciences, Department of Pharmacy Practice, Albany, NY, USA. | University of Toledo College of Pharmacy & Pharmaceutical Sciences, Department of Pharmacy Practice, Toledo, OH, USA. | Marshall B Ketchum University, Department of Pharmacy Practice, Fullerton, CA, USA. | Butler University College of Health Professions, Department of Pharmacy Practice, Indianapolis, IN, USA. | Wingate University School of Pharmacy, Wingate, NC, USA. Electronic address: e.anderson@wingate.edu. | Drake University, Department of Pharmacy Practice, Des Moines, IA, USA.",
     "extra": {
-      "search_term": "measles outbreak 2026"
+      "pmid": "42971406"
     },
-    "id": "url:2a1d4870831437bf",
-    "first_seen": "2026-11-05",
+    "id": "doi:10.1016/j.ajpe.2026.102121",
+    "first_seen": "2026-11-21",
     "date": "2026-11-02",
     "policy_area": [
       "general_measles"
@@ -14074,16 +14809,12 @@
       "General measles"
     ],
     "pregnancy_related": false,
-    "species": "human",
+    "species": "na",
     "canadian": false,
-    "channel": "news",
-    "source_type_label": "News article",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
-    "pharma": false,
-    "duplicate_count": 1,
-    "also_reported_by": [
-      "EMJ"
-    ]
+    "pharma": false
   },
   {
     "title": "‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak",
@@ -14732,6 +15463,108 @@
     },
     "id": "doi:10.1158/1078-0432.ccr-26-0998",
     "first_seen": "2026-11-20",
+    "date": "2026-11-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Characterizing Measles Healthcare Facility Exposures-December 2023 Through September 2025: New York City",
+    "summary": "<h4>Background</h4>When people develop measles (cases), healthcare facility exposures are common and result in many potentially exposed people requiring resource-intensive control measures. We summarized exposures and transmission among people exposed to measles (contacts) in healthcare settings in New York City (NYC).<h4>Methods</h4>NYC Health Department's surveillance data of NYC contacts exposed to measles cases in any NYC healthcare facility during December 2023-September 2025 were analyzed as a retrospective descriptive study. Characteristics summarized included measles transmission, immunity status, postexposure prophylaxis (PEP) administration, facility setting, and time of measles exposure.<h4>Results</h4>Of 2122 healthcare contacts to 28 cases, no secondary cases occurred. 1285 (60.6%) were vaccinated or had other evidence of immunity, 618 (29.1%) were adults with unknown immunity, 124 (5.8%) were not immune and received PEP, and 95 (4.5%) were not immune and did not receive PEP. Most contacts were exposed in emergency departments and/or hospital inpatient settings (1406; 66.3%). Among 1028 contacts with known time of exposure (48.4% of all contacts), 785 (76.4%) overlapped with the case in the healthcare facility, 146 (14.2%) arrived within 1 hour, and 97 (9.4%) arrived 1-2 hours after the case left or were isolated.<h4>Conclusions</h4>Most contacts exposed to measles in NYC healthcare facilities had presumptive immunity or were adults with unknown immunity. No transmission occurred among 2122 exposed contacts, including nonimmune contacts. Given no secondary transmission and resource-intensive control measures, relying solely on time-based measles exposure definitions may be overly broad. Incorporating strategies such as facility air exchange data might better assess transmission risk.",
+    "url": "https://doi.org/10.1093/cid/ciag546",
+    "doi": "10.1093/cid/ciag546",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-01",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "authors": "Askari MS, Arciuolo RJ, Graham KA, Isaac BM, Jean A, Fu J, Gray H, Rosen JB.",
+    "affiliations": "Bureau of Immunization, New York City Health Department, Long Island City, New York, USA. | Bureau of Immunization, New York City Health Department, Long Island City, New York, USA. | Bureau of Immunization, New York City Health Department, Long Island City, New York, USA. | Bureau of Immunization, New York City Health Department, Long Island City, New York, USA. | Bureau of Immunization, New York City Health Department, Long Island City, New York, USA. | Bureau of Immunization, New York City Health Department, Long Island City, New York, USA. | Bureau of Immunization, New York City Health Department, Long Island City, New York, USA. | Bureau of Immunization, New York City Health Department, Long Island City, New York, USA.",
+    "extra": {
+      "pmid": "42695674",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "doi:10.1093/cid/ciag546",
+    "first_seen": "2026-11-05",
+    "date": "2026-11-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Sensitivity of Measles Real-time Reverse-transcription Polymerase Chain Reaction Testing During an Outbreak in Persons Without Rash",
+    "summary": "During the 2024 Chicago measles outbreak, 120 real-time reverse-transcription polymerase chain reaction tests were performed on 117 symptomatic persons with measles exposure, but without rash; test sensitivity was 78% (7 true positive). After an initial negative test, providers should maintain suspicion of measles and repeat testing as symptoms progress.",
+    "url": "https://doi.org/10.1093/cid/ciag405",
+    "doi": "10.1093/cid/ciag405",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-01",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "authors": "Gressick K, Gretsch S, Filardo TD, DeJonge PM, Borah BF.",
+    "affiliations": "Epidemic Intelligence Service, CDC, Atlanta, Georgia, USA. | Disease Control and Emergency Prepardness Bureau, Chicago Department of Public Health, Chicago, Illinois, USA. | Disease Control and Emergency Prepardness Bureau, Chicago Department of Public Health, Chicago, Illinois, USA. | Division of Viral Diseases, National Center for Immunization and Respiratory Diseases, CDC, Atlanta, Georgia, USA. | Disease Control and Emergency Prepardness Bureau, Chicago Department of Public Health, Chicago, Illinois, USA. | Career Epidemiology Field Officer Program, CDC, Atlanta, Georgia, USA. | Disease Control and Emergency Prepardness Bureau, Chicago Department of Public Health, Chicago, Illinois, USA.",
+    "extra": {
+      "pmid": "42423180",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "doi:10.1093/cid/ciag405",
+    "first_seen": "2026-11-05",
+    "date": "2026-11-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Measles: Rapid Evidence Review",
+    "summary": "Measles is one of the most contagious, vaccine-preventable viral infections, capable of infecting up to 90% of exposed nonimmune people. Respiratory droplets and aerosols from people infected with measles remain infectious for up to 2 hours. Infection in unvaccinated people can lead to hospitalization and death. Approximately 1 to 3 of every 1,000 children with measles will die from complications. Measles-mumps-rubella vaccination is highly safe and effective at reducing infection risk and preventing community spread. Population-based studies have found no association between vaccination and autism spectrum disorder or other neurodevelopmental disorders. Although measles has been considered eliminated in the United States since 2000, outbreaks have recently become larger and more common because vaccination rates in many states and counties have fallen below herd immunity thresholds. Symptoms include cough, coryza, conjunctivitis, and fever, followed by erythematous maculopapular exanthem. Family physicians play a key role in increasing vaccination rates and reducing risk of community spread through appropriate suspicion, early diagnostic testing, and isolation of people who are infected. Vitamin A supplementation may reduce mortality rates in hospitalized children with severe or complicated measles but should be used only under medical supervision to avoid toxicity; it should be avoided during pregnancy. Management of measles outbreaks requires isolating people who have been exposed or infected, discerning which people who were exposed have presumed immunity, and providing postexposure prophylaxis to nonimmune people with vaccination or immunoglobulin infusion.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062859/",
+    "doi": "",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-11-01",
+    "journal": "American family physician",
+    "authors": "Gregory DS, Shah SS, England BL.",
+    "affiliations": "Virginia Tech Carilion Family Medicine Residency Program; Department of Family and Community Medicine at Virginia Tech Carilion School of Medicine, Roanoke. | Virginia Tech Carilion Family Medicine Residency Program; Department of Family and Community Medicine at Virginia Tech Carilion School of Medicine, Roanoke. | Virginia Tech Carilion Family Medicine Residency Program; Department of Family and Community Medicine at Virginia Tech Carilion School of Medicine, Roanoke.",
+    "extra": {
+      "pmid": "43062859",
+      "cited_by": 0,
+      "open_access": false,
+      "preprint_server": ""
+    },
+    "id": "url:652afabb8a0142c3",
+    "first_seen": "2026-11-21",
     "date": "2026-11-01",
     "policy_area": [
       "general_measles"
@@ -16901,7 +17734,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles outbreak pregnancy"
+      "search_term": "MMR vaccine pregnancy safety"
     },
     "id": "url:ff7f3903602b0002",
     "first_seen": "2026-11-05",
@@ -17282,7 +18115,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "congenital measles"
+      "search_term": "measles vaccine pregnancy"
     },
     "id": "url:3207fc937bd525a3",
     "first_seen": "2026-11-05",
@@ -17743,7 +18576,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles vaccine pregnancy"
+      "search_term": "MMR vaccine pregnancy safety"
     },
     "id": "url:75879d56a2260d44",
     "first_seen": "2026-11-05",
@@ -18042,6 +18875,37 @@
     "pharma": false
   },
   {
+    "title": "Canada’s 2-year measles outbreak officially over: PHAC",
+    "summary": "Canada’s 2-year measles outbreak officially over: PHAC Global News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wS1NnTmk2a1o3M0JkdnlwdUlneWdqcDJaQkFEX1ctNGpqSkFSS0pMVHc1c1p6anZ3cVlDNWFFUFZrTG9aSzVNSW5UQkM4UGY4MnNBNFlrQko1VnplVmxieTFGSGpiRnQxRTdGQ1pReEdwSERHOFF6ZF83ZU50ajQ?oc=5",
+    "doi": "",
+    "source": "Global News",
+    "source_type": "news",
+    "published_date": "2026-10-20",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak Canada"
+    },
+    "id": "url:06f960d4620fa0d7",
+    "first_seen": "2026-11-05",
+    "date": "2026-10-20",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": true,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Updates on the Molecular Classification of Endometrial Carcinoma",
     "summary": "The risk of recurrence and metastasis in patients with endometrial carcinoma varies widely, making evaluation of risk in individual patients critically important for planning effective adjuvant treatment. Tumor histotype and grade have been used, along with stage and lymphovascular space invasion (LVSI), but suboptimal reproducibility of histotype assignment (especially for high-grade tumors) and tumor grade have made risk assessment challenging. Similarly, single biomarkers such as L1CAM and beta-catenin have shown potential but none have emerged as well-validated and reproducible markers of risk in endometrial carcinoma. This changed with the finding of The Cancer Genome Atlas that there are 4 molecular subtypes of endometrial carcinoma, based on genomic architecture. Subsequently, a clinically applicable approach to endometrial carcinoma molecular subtype has emerged, based on sequencing of POLE to detect a limited number of pathogenic mutations, and immunostaining for mismatch repair (MMR) proteins and p53. This approach places each endometrial carcinoma into one of 4 molecular subtypes (POLEmut, MMRd, p53abn, and no specific molecular profile [NSMP]) that can be reproducibly diagnosed, show excellent concordance between the biopsy and hysterectomy specimen, are of prognostic significance, predict response to specific adjuvant therapies, and can be used to screen for underlying hereditary cancer susceptibility syndromes. Molecular subtype is now integrated into widely used endometrial carcinoma risk assessment guidelines and is a key component of the 2023 update to the International Federation of Gynecology and Obstetrics (FIGO) staging system for endometrial carcinoma. Recently, prognostic refinement of the 4 molecular groups introduces a possible fifth group showing absence of estrogen receptor (ER) expression and/or high histologic grade within the NSMP subtype. We will review the key features of endometrial carcinoma molecular subtypes, focusing on recent advances in molecular subtype diagnosis in practice.",
     "url": "https://doi.org/10.1097/pap.0000000000000556",
@@ -18103,37 +18967,6 @@
     "canadian": false,
     "channel": "journals",
     "source_type_label": "Journal article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "Canada’s 2-year measles outbreak officially over: PHAC",
-    "summary": "Canada’s 2-year measles outbreak officially over: PHAC Global News",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wS1NnTmk2a1o3M0JkdnlwdUlneWdqcDJaQkFEX1ctNGpqSkFSS0pMVHc1c1p6anZ3cVlDNWFFUFZrTG9aSzVNSW5UQkM4UGY4MnNBNFlrQko1VnplVmxieTFGSGpiRnQxRTdGQ1pReEdwSERHOFF6ZF83ZU50ajQ?oc=5",
-    "doi": "",
-    "source": "Global News",
-    "source_type": "news",
-    "published_date": "2026-10-19",
-    "journal": "",
-    "authors": "",
-    "affiliations": "",
-    "extra": {
-      "search_term": "measles outbreak Canada"
-    },
-    "id": "url:06f960d4620fa0d7",
-    "first_seen": "2026-11-05",
-    "date": "2026-10-19",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": true,
-    "channel": "news",
-    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -19790,7 +20623,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "measles outbreak 2026"
+      "search_term": "MMR vaccine pregnancy safety"
     },
     "id": "url:0f6222e3dfc95442",
     "first_seen": "2026-11-05",
@@ -20925,16 +21758,19 @@
   {
     "title": "Sentinel surveillance of acute febrile illness in a Brazilian Amazon region: laboratory findings and epidemiological implications",
     "summary": "The Amapa State, Brazil, in the Amazon region and bordering French Guiana, is a strategic sentinel location for infectious disease surveillance. Ecological pressures such as deforestation, artisanal gold mining, and high human mobility contribute to complex transmission dynamics of arboviruses, bacterial infections, and other pathogens. This study aims to characterize the etiologies of acute febrile illness (AFI) reported in Amapa State in 2018-2020, focusing on arbovirus circulation, bacterial contributions, and emerging pathogens. A retrospective analysis was carried out with 727 AFI cases. Laboratory diagnoses were established using molecular and serological assays, with systematic testing for different pathogens. Definitive diagnoses were obtained in 185 individuals (25.4%), yielding 209 positive results and including 23 cases of co-infection. Dengue virus was the predominant etiological agent (n=109, 52%), followed by leptospirosis (n=20, 9.5%), chikungunya virus (n=16, 7.6%), parvovirus B19 (n=16, 7.6%), measles (n=15, 7.1%), zika virus (n=10, 4.8%), mayaro virus (n=1,0.5%), and other bacterial infections (n=5, 2.4%). Isolated cases of hepatitis A and B, malaria, SARS-CoV-2, enterovirus, and acute Chagas disease were also identified. No hepatitis E virus or oropouche cases were detected. Dengue virus was the leading cause of AFI. Leptospirosis, chikungunya virus, and parvovirus B19 were other prevalent and often underrecognized contributors. The detection of additional viruses highlights Amapa State as a potential zone of \"silent expansion\" for emerging arboviruses. Co-detection of multiple pathogens underscores diagnostic complexity in regions with overlapping transmission. Strengthening surveillance, expanding laboratory capacity, and prioritizing differential diagnostics are essential to capture epidemiological dynamics and guide public health interventions.",
-    "url": "https://doi.org/10.1590/S1678-9946202668067",
-    "doi": "10.1590/S1678-9946202668067",
-    "source": "PubMed",
+    "url": "https://doi.org/10.1590/s1678-9946202668067",
+    "doi": "10.1590/s1678-9946202668067",
+    "source": "Europe PMC",
     "source_type": "journal_article",
     "published_date": "2026-10-02",
     "journal": "Revista do Instituto de Medicina Tropical de Sao Paulo",
-    "authors": "Barbosa EMG, Costa ACD, Ferreira NE, Paião HGO, Freire WS, Paula AV et al.",
-    "affiliations": "Universidade de São Paulo, Faculdade de Medicina, Departamento de Infectologia e Medicina Tropical, São Paulo, São Paulo, Brazil. | Universidade de São Paulo, Faculdade de Medicina, Instituto de Medicina Tropical de São Paulo, Laboratório de Investigação Médica (LIM-52), São Paulo, São Paulo, Brazil. | Superintendência de Vigilância em Saúde do Amapá, Laboratório de Saúde Pública do Amapá, Macapá, Amapá, Brazil. | Ministério da Saúde, Secretaria de Vigilância em Saúde e Ambiente, Coordenação-Geral de Laboratórios de Saúde Pública, Brasília, DF, Brazil. | Weill Cornell Medicine, Department of Obstetrics and Gynecology, New York, New York, USA.",
+    "authors": "Barbosa EMG, Costa ACD, Ferreira NE, Paião HGO, Freire WS, Paula AV, Honorato L, Morais VDS, Rego MODS, Ribeiro ESD, Mendes DDS, Marques JP, Ribeiro GO, Witkin SS, Tozetto-Mendoza TR, Mendes-Correa MC.",
+    "affiliations": "Universidade de São Paulo, Faculdade de Medicina, Departamento de Infectologia e Medicina Tropical, São Paulo, São Paulo, Brazil. | Universidade de São Paulo, Faculdade de Medicina, Instituto de Medicina Tropical de São Paulo, Laboratório de Investigação Médica (LIM-52), São Paulo, São Paulo, Brazil. | Universidade de São Paulo, Faculdade de Medicina, Departamento de Infectologia e Medicina Tropical, São Paulo, São Paulo, Brazil. | Universidade de São Paulo, Faculdade de Medicina, Instituto de Medicina Tropical de São Paulo, Laboratório de Investigação Médica (LIM-52), São Paulo, São Paulo, Brazil. | Universidade de São Paulo, Faculdade de Medicina, Departamento de Infectologia e Medicina Tropical, São Paulo, São Paulo, Brazil. | Universidade de São Paulo, Faculdade de Medicina, Instituto de Medicina Tropical de São Paulo, Laboratório de Investigação Médica (LIM-52), São Paulo, São Paulo, Brazil. | Universidade de São Paulo, Faculdade de Medicina, Departamento de Infectologia e Medicina Tropical, São Paulo, São Paulo, Brazil. | Universidade de São Paulo, Faculdade de Medicina, Instituto de Medicina Tropical de São Paulo, Laboratório de Investigação Médica (LIM-52), São Paulo, São Paulo, Brazil.",
     "extra": {
-      "pmid": "42848618"
+      "pmid": "42848618",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
     },
     "id": "doi:10.1590/s1678-9946202668067",
     "first_seen": "2026-11-05",
@@ -21921,6 +22757,37 @@
     ],
     "pregnancy_related": false,
     "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy",
+    "summary": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVhKdU16T0RXbGl3QW5JZS1XQmlNY2xSMHZqLUU0OTRZeng3VktxSVRBX3hTVGlER1FPeWs0cUZBOFpnNmNsUUc3WGpId1BHX3BRank4enY1WmJJc2F0MUNkOXNySVljMzN1VDROSVN2NXJYR2IwOWFrZUJocmdWUnJkMmRncElCZ2cwMEp2Vktsa1dnLWxnUHdjdmpIdzRJYkw1YTFXSVVrc09xWTY3X1JvNC0tc1hPdXg2U1B2NHE4TVA2?oc=5",
+    "doi": "",
+    "source": "CIDRAP",
+    "source_type": "news",
+    "published_date": "2026-10-01",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR vaccine pregnancy safety"
+    },
+    "id": "url:c1165b91b983dac0",
+    "first_seen": "2026-11-21",
+    "date": "2026-10-01",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
     "canadian": false,
     "channel": "news",
     "source_type_label": "News article",
@@ -23192,6 +24059,42 @@
     "pharma": false
   },
   {
+    "title": "Anti-Rubella antibodies seroprevalence among pregnant women in South-Western Romania",
+    "summary": "<h4>Introduction</h4>Rubella infection during pregnancy poses significant risks, including congenital rubella syndrome (CRS), miscarriage, and fetal death. Vaccination programs have reduced rubella incidence globally, but regional differences in coverage and immunity persist. The objective of the study was to assess the seroprevalence of anti-rubella IgM and IgG antibodies among pregnant women in South-Western Romania, with a focus on temporal trends, demographic factors, and the impact of vaccination eligibility.<h4>Methods</h4>This observational, cross-sectional study included pregnant women screened for TORCH infections at the County Clinical Emergency Hospital of Craiova, Romania, during two periods: 2013-2016 and 2019-2022. Serum samples were tested for anti-rubella IgM and IgG antibodies. Participants were stratified by age, area of residence (rural/urban), and eligibility for rubella vaccination based on birth year.<h4>Results</h4>A total of 3,268 samples were analyzed. The seroprevalence of acute rubella infection (IgM positive) was low and slightly decreased from 0.54% (2013-2016) to 0.50% (2019-2022), with the most notable decrease in rural areas and among women aged 21-25 years. The overall seroprevalence of protective IgG antibodies was stable (88.28% vs. 88.91%), but remained below the WHO target of 95%. IgG seroprevalence increased among the youngest (<20 years) and 31-35 years age groups, particularly in rural areas, suggesting improved vaccination coverage and natural immunity from past outbreaks. Mapping in Dolj County revealed high seroprevalence near major cities.<h4>Discussion</h4>Despite improvements, the relatively low IgG seroprevalence in South-Western Romania highlights the need to reinforce vaccination campaigns, especially in rural areas and among family physicians. Enhanced education and access to vaccination are essential to achieve the WHO eradication target and prevent CRS.",
+    "url": "https://doi.org/10.3389/fmed.2026.1906798",
+    "doi": "10.3389/fmed.2026.1906798",
+    "source": "Europe PMC",
+    "source_type": "journal_article",
+    "published_date": "2026-09-24",
+    "journal": "Frontiers in medicine",
+    "authors": "Radoi-Troaca LC, Cristea OM, Zlatian OM, Balasoiu M, Ghenea AE, Boldeanu L, Iliescu DG.",
+    "affiliations": "Department of Infections Diseases, University of Medicine and Pharmacy of Craiova, Craiova, Romania. | Medical Laboratory, County Clinical Emergency Hospital of Craiova, Craiova, Romania. | Department of Microbiology, University of Medicine and Pharmacy of Craiova, Craiova, Romania. | Medical Laboratory, County Clinical Emergency Hospital of Craiova, Craiova, Romania. | Department of Microbiology, University of Medicine and Pharmacy of Craiova, Craiova, Romania. | Medical Laboratory, County Clinical Emergency Hospital of Craiova, Craiova, Romania. | Department of Microbiology, University of Medicine and Pharmacy of Craiova, Craiova, Romania. | Medical Laboratory, County Clinical Emergency Hospital of Craiova, Craiova, Romania.",
+    "extra": {
+      "pmid": "42851441",
+      "cited_by": 0,
+      "open_access": true,
+      "preprint_server": ""
+    },
+    "id": "doi:10.3389/fmed.2026.1906798",
+    "first_seen": "2026-11-21",
+    "date": "2026-09-24",
+    "policy_area": [
+      "pregnancy_mmr",
+      "pregnancy_infection"
+    ],
+    "policy_area_labels": [
+      "MMR in pregnancy",
+      "Measles/rubella infection in pregnancy"
+    ],
+    "pregnancy_related": true,
+    "species": "human",
+    "canadian": false,
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "How to Prevent Measles",
     "summary": "How to Prevent Measles Verywell Health",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzR0wzbktMam90QkplRGdoeDdqT0lhTGt4WUNqVFhsa0tMcXM4UFQ2aTM3WUtBcUdMWWJzVk9oTmEweXFlM2ZCSXIxNlB5TGVGVWdRdUFqUUhKWkhhY1l0Vkl6WkVHVTRGc2ZYcVZR?oc=5",
@@ -23433,6 +24336,37 @@
     ],
     "pregnancy_related": false,
     "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "title": "WHO South-East Asia immunization experts meet focuses on measles outbreaks and closing immunity gaps",
+    "summary": "WHO South-East Asia immunization experts meet focuses on measles outbreaks and closing immunity gaps World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd3Zud2htMGx4UGpyRDZQT1dPbTNNZWVqTTdWZHVyMFpmZHV1OWE2OTNnZHVwY2p2U2JjMGNiUjJySk90ODI2czlYc01RMmE4OXBCbUItbmlndDctYV9JdnBYQTBQVmxhTzgtUHd0eTJEQVVfcUxxOFdHX05GYzJLdF8yT01WeWwtM1p3MUJKV0kzSnIzYWNEVzdwcFB3TlU2dFpPRHlVN1BmQjNzNVppdTlCbE44dlJZTWhodndvUzJIWVMwVU9nS2VkOHBLYV9Zd1V2WS1fUXVBNFlwZG1fTVc5akpwX29vSFJxMjVB?oc=5",
+    "doi": "",
+    "source": "World Health Organization (WHO)",
+    "source_type": "news",
+    "published_date": "2026-09-24",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles outbreak 2026"
+    },
+    "id": "url:db9a030a487f1063",
+    "first_seen": "2026-11-21",
+    "date": "2026-09-24",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
     "canadian": false,
     "channel": "news",
     "source_type_label": "News article",
@@ -26206,6 +27140,37 @@
     "pharma": false
   },
   {
+    "title": "A measles outbreak and back-to-school season leave experts fearful of misinformation",
+    "summary": "A measles outbreak and back-to-school season leave experts fearful of misinformation The 19th News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hSHlMOVcxcmtyemYwTmZUMzdJNDlfLTZERllfU3k4TVFWZ2hWUnktNzdReEUyRHk2ckt3ZFp2WHZOeEFlRGljZXdYdnViNHpZbHltSWNfc1pxVERQOV9LRXdNeWJYRE84ektJQzRkcDhBMWtKd0R5OHZ4dF9Lam8?oc=5",
+    "doi": "",
+    "source": "The 19th News",
+    "source_type": "news",
+    "published_date": "2026-09-08",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR vaccine pregnancy safety"
+    },
+    "id": "url:2c4a6c20ba84f7f2",
+    "first_seen": "2026-11-21",
+    "date": "2026-09-08",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "human",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Measles immunity in a large urban population in Northeast Brazil: a population-based assessment using PRNT and ELISA",
     "summary": "<h4>Objectives</h4>Waning measles immunity in post-elimination settings may increase susceptibility and facilitate viral reintroduction. This study assessed measles immunity in an urban population in Northeast Brazil using neutralizing antibody testing and IgG serology.<h4>Methods</h4>A population-based seroprevalence study was conducted in 2024 among residents aged ≥2 years in 30 sentinel areas of Salvador, Brazil. Measles-specific IgG antibodies were measured by ELISA in all participants, and neutralizing antibodies were assessed by plaque reduction neutralization test (PRNT) in a stratified subsample (n=671). Seroprevalence was estimated by age group. Agreement between ELISA and PRNT was evaluated using Cohen's kappa, and factors associated with PRNT positivity were examined using logistic regression adjusted for age and sex.<h4>Results</h4>Among participants, 60.8% were female and 38.3% were aged ≥50 years. Overall seroprevalence was 91.4% by PRNT and 85.4% by ELISA, with 86.3% agreement between assays (kappa = 0.34, p < 0.001). The highest PRNT seropositivity was observed among individuals aged 10-19 years and ≥50 years, whereas the highest PRNT seronegativity occurred among young adults aged 20-29 years (23.4%). In adjusted analyses, children and adolescents aged 5-19 years had lower odds of PRNT positivity compared with those aged 2-4 years. No significant differences were observed by sex.<h4>Conclusions</h4>Despite high overall seroprevalence, relevant immunity gaps were identified, particularly among young adults, indicating increased susceptibility to measles in this urban population. The combined use of PRNT and ELISA highlights the need for targeted vaccination strategies in post-elimination urban settings.",
     "url": "https://doi.org/10.1016/j.ijid.2026.109110",
@@ -26400,40 +27365,6 @@
     ],
     "policy_area_labels": [
       "Second-dose timing"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "Characterizing measles healthcare facility exposures-December 2023-September 2025-New York City",
-    "summary": "<h4>Background</h4>When people develop measles (cases), healthcare facility exposures are common and result in many potentially exposed people requiring resource-intensive control measures. We summarized exposures and transmission among people exposed to measles (contacts) in healthcare settings in New York City (NYC).<h4>Methods</h4>NYC Health Department's surveillance data of NYC contacts exposed to measles cases in any NYC healthcare facility during December 2023-September 2025 was analyzed as a retrospective descriptive study. Characteristics summarized included measles transmission, immunity status, post-exposure prophylaxis (PEP) administration, facility setting, and time of measles exposure.<h4>Results</h4>Of 2,122 healthcare contacts to 28 cases, no secondary cases occurred. 1,285 (60.6%) were vaccinated or had other evidence of immunity, 618 (29.1%) were adults with unknown immunity, 124 (5.8%) were not immune and received PEP, and 95 (4.5%) were not immune and did not receive PEP. Most contacts were exposed in emergency departments and/or hospital inpatient settings (1,406; 66.3%). Among 1,028 contacts with known time of exposure (48.4% of all contacts), 785 (76.4%) overlapped with the case in the healthcare facility, 146 (14.2%) arrived within 1 hour and 97 (9.4%) arrived 1-2 hours after the case left or was isolated.<h4>Conclusions</h4>Most contacts exposed to measles in NYC healthcare facilities had presumptive immunity or were adults with unknown immunity. No transmission occurred among 2,122 exposed contacts, including non-immune contacts. Given no secondary transmission and resource-intensive control measures, relying solely on time-based measles exposure definitions may be overly broad. Incorporating strategies like facility air exchange data might better assess transmission risk.",
-    "url": "https://doi.org/10.1093/cid/ciag546",
-    "doi": "10.1093/cid/ciag546",
-    "source": "Europe PMC",
-    "source_type": "journal_article",
-    "published_date": "2026-09-04",
-    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
-    "authors": "Askari MS, Arciuolo RJ, Graham KA, Isaac BM, Jean A, Fu J, Gray H, Rosen JB.",
-    "affiliations": "New York City Health Department, New York, New York, United States. | New York City Health Department, New York, New York, United States. | New York City Health Department, New York, New York, United States. | New York City Health Department, New York, New York, United States. | New York City Health Department, New York, New York, United States. | New York City Health Department, New York, New York, United States. | New York City Health Department, New York, New York, United States. | New York City Health Department, New York, New York, United States.",
-    "extra": {
-      "pmid": "42695674",
-      "cited_by": 0,
-      "open_access": false,
-      "preprint_server": ""
-    },
-    "id": "doi:10.1093/cid/ciag546",
-    "first_seen": "2026-11-05",
-    "date": "2026-09-04",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
     ],
     "pregnancy_related": false,
     "species": "human",
@@ -26750,7 +27681,7 @@
     "affiliations": "Department of Gastrointestinal Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA guglielmo.vetere@gmail.com. | Department of Gastrointestinal Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA. | Department of Gastrointestinal Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA. | Department of Internal Medicine, State University of New York, New York, New York, USA. | Department of Gastrointestinal Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA. | Department of Gastrointestinal Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA. | Oncology Unit 1, Istituto Oncologico Veneto IRCCS, Padua, Italy. | Department of Gastrointestinal Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
     "extra": {
       "pmid": "42686374",
-      "cited_by": 0,
+      "cited_by": 1,
       "open_access": true,
       "preprint_server": ""
     },
@@ -34637,7 +35568,7 @@
     "affiliations": "Department of Urology, University of Michigan, Ann Arbor, MI. Electronic address: smonda@med.umich.edu. | Division of Genetic Medicine, University of Michigan, Ann Arbor, MI; Division of Metabolism, Endocrinology, & Diabetes, University of Michigan, Ann Arbor, MI. | Department of Urology, University of Washington, Seattle, WA. | Department of Urology, University of Michigan, Ann Arbor, MI. | Department of Pathology, University of Michigan, Ann Arbor, MI. | Division of Hematology and Oncology, University of Michigan, Ann Arbor, MI. | Department of Urology, University of Michigan, Ann Arbor, MI. | Department of Urology, University of California Davis, Sacramento, CA.",
     "extra": {
       "pmid": "42521559",
-      "cited_by": 0,
+      "cited_by": 1,
       "open_access": false,
       "preprint_server": ""
     },
@@ -35024,6 +35955,37 @@
     "pharma": false
   },
   {
+    "title": "Rubella Immunity Test Before Pregnancy: When to Wait - Kantesti",
+    "summary": "Rubella Immunity Test Before Pregnancy: When to Wait Kantesti - AI Blood Test Analyzer",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDdWNFB0VXhTaUhmQzcxTjQySE9BTGRwZWFyQ1VvWUFZSjFMc1dRc0JBTm1GZGNLRnlVdDBwQ0N6SFMtcmlEX09kbmxEWHpMUEdlQXJBbFJFeDViaG1zOGExTm1jVXQ1R3ZJX2pZNkEzODZXdGJPakZ6Ml8wLVpKLTFRQlg0dw?oc=5",
+    "doi": "",
+    "source": "AI Blood Test Analyzer",
+    "source_type": "news",
+    "published_date": "2026-07-28",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "MMR vaccine pregnancy safety"
+    },
+    "id": "url:cf7ba5e8dacef58e",
+    "first_seen": "2026-11-21",
+    "date": "2026-07-28",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "title": "Measles and Rubella Elimination Trends in the WHO Eastern Mediterranean Region, 2023-2024: Progress and Recent Epidemiological Shifts",
     "summary": "<b>Background</b>: Measles and rubella remain key indicators of immunization system performance and are central to the Immunization Agenda 2030 (IA2030). Disruptions caused by the COVID-19 pandemic have widened immunity gaps and accelerated resurgence of vaccine-preventable diseases across multiple regions. This study assesses progress toward measles and rubella elimination in the WHO Eastern Mediterranean Region (EMR) during 2023-2024. <b>Methods</b>: We conducted a retrospective descriptive analysis of measles and rubella surveillance data, WHO/UNICEF Estimates of National Immunization Coverage (WUENIC), and Joint Reporting Form (eJRF) data for all 22 EMR countries and territories. Key indicators included disease incidence, MCV1 and MCV2 coverage, surveillance performance metrics, and verified elimination status. <b>Results</b>: Regional measles incidence increased from 110.8 to 116.3 per million population, while rubella incidence more than doubled from 1.9 to 4.3 per million. Large outbreaks in Yemen, Iraq, and Afghanistan disproportionally drove regional trends. MCV1 coverage remained stable at approximately 80%, while MCV2 coverage increased marginally from 73% to 75%. Only nine of 22 countries achieved ≥95% coverage for both doses in 2024. Persistent zero-dose populations, high dropout rates, and ongoing immunity gaps sustained transmission across multiple settings. <b>Conclusions</b>: The EMR remains off track to achieve measles and rubella elimination by 2030. Accelerated, equity-focused efforts are urgently needed to strengthen routine immunization systems, reduce zero-dose population, enhance surveillance capacity, and improve outbreak response-particularly in fragile and conflicted-affected settings.",
     "url": "https://doi.org/10.3390/vaccines14080659",
@@ -35335,7 +36297,7 @@
     "authors": "",
     "affiliations": "",
     "extra": {
-      "search_term": "MMR vaccine pregnancy safety"
+      "search_term": "MMR second dose age schedule"
     },
     "id": "url:afed2685f506e0e0",
     "first_seen": "2026-11-05",
@@ -35584,6 +36546,41 @@
     "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
+  },
+  {
+    "title": "US measles cases reach 35-year high, for second record-breaking year in a row",
+    "summary": "US measles cases reach 35-year high, for second record-breaking year in a row ABC7 New York",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREMtZllpSUxFT1AzZXhCYUV2SkNEaWRzZ3BzOXQ3NlhfTW9pa3dXZVhESzgtU0kyMjl0U0ZFckVHS3pSS2hwODlSQklGTEZBY0JGbk5aWjdDdUZSQjFDT0JHc1hDRFJpT0NjalRLX2Vac3dMekdGeURiQlgzMGlZX1JYWlVDU2lFem1PekFES2tES3V3aXB1LWg3TUvSAaIBQVVfeXFMTnNaemVQMFRTVDdfOW1FZWFQY0w1Yk4tR3lkZ2M3bXBBbHgzaGwzYXlrbE5CZU1RbndTSkFLeVUyRVpfeHZUNWtjcGM5VlI0Y3VtQzFtRmpfQmU3N0VzZEVZNzZtMlp4emRVdEt3LXgtQnZKVjRBOURUcTg1WGVGVWU5RGlDcVRkd1gybzNGX0lxMDRQRzlnLUh3bG5nUUszX0xR?oc=5",
+    "doi": "",
+    "source": "ABC7 New York",
+    "source_type": "news",
+    "published_date": "2026-07-25",
+    "journal": "",
+    "authors": "",
+    "affiliations": "",
+    "extra": {
+      "search_term": "measles resurgence vaccination"
+    },
+    "id": "url:464e282c13e00e7c",
+    "first_seen": "2026-11-21",
+    "date": "2026-07-25",
+    "policy_area": [
+      "general_measles"
+    ],
+    "policy_area_labels": [
+      "General measles"
+    ],
+    "pregnancy_related": false,
+    "species": "na",
+    "canadian": false,
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false,
+    "duplicate_count": 1,
+    "also_reported_by": [
+      "Time Magazine"
+    ]
   },
   {
     "title": "These seven states are hot spots for 2026's record measles outbreak",
@@ -38662,40 +39659,6 @@
       "preprint_server": ""
     },
     "id": "doi:10.1007/s44197-026-00606-y",
-    "first_seen": "2026-11-05",
-    "date": "2026-07-09",
-    "policy_area": [
-      "general_measles"
-    ],
-    "policy_area_labels": [
-      "General measles"
-    ],
-    "pregnancy_related": false,
-    "species": "human",
-    "canadian": false,
-    "channel": "journals",
-    "source_type_label": "Journal article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "title": "Sensitivity of Measles rRT-PCR Testing During an Outbreak in Persons without Rash",
-    "summary": "During the 2024 Chicago measles outbreak, 120 real-time reverse-transcription polymerase chain reaction (rRT-PCR) tests were performed on 117 symptomatic persons with measles exposure, but without rash; test sensitivity was 78% (7 true positive). After an initial negative test, providers should maintain suspicion of measles and repeat testing as symptoms progress.",
-    "url": "https://doi.org/10.1093/cid/ciag405",
-    "doi": "10.1093/cid/ciag405",
-    "source": "Europe PMC",
-    "source_type": "journal_article",
-    "published_date": "2026-07-09",
-    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
-    "authors": "Gressick K, Gretsch S, Filardo TD, DeJonge PM, Borah BF.",
-    "affiliations": "Epidemic Intelligence Service, CDC, Atlanta, GA, USA. | Chicago Department of Public Health, Chicago, Illinois, USA. | Chicago Department of Public Health, Chicago, Illinois, USA. | Division of Viral Diseases, National Center for Immunization and Respiratory Diseases, CDC, Atlanta, GA, USA. | Chicago Department of Public Health, Chicago, Illinois, USA. | Career Epidemiology Field Officer Program, CDC, Atlanta, GA, USA. | Chicago Department of Public Health, Chicago, Illinois, USA.",
-    "extra": {
-      "pmid": "42423180",
-      "cited_by": 0,
-      "open_access": false,
-      "preprint_server": ""
-    },
-    "id": "doi:10.1093/cid/ciag405",
     "first_seen": "2026-11-05",
     "date": "2026-07-09",
     "policy_area": [
@@ -46880,7 +47843,7 @@
     "affiliations": "Department of Neurology-Neuroimmunology, Multiple Sclerosis Centre of Catalonia, Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain. | Faculty of Medicine, University of Vic-Central University of Catalonia, Vic, Catalonia, Spain. | Faculty of Medicine, University of Vic-Central University of Catalonia, Manresa, Catalonia, Spain. | Department of Health Sciences, University of Genoa, Genoa, Italy. | Department of Life Sciences, Health and Health Professions, Link Campus University, Rome, Italy. | Department of Neurology-Neuroimmunology, Multiple Sclerosis Centre of Catalonia, Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain. | Department of Preventive Medicine and Epidemiology, Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Catalonia, Spain. | Department of Microbiology, Hospital Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Catalonia, Spain.",
     "extra": {
       "pmid": "42160053",
-      "cited_by": 0,
+      "cited_by": 1,
       "open_access": true,
       "preprint_server": ""
     },
@@ -52524,7 +53487,7 @@
     "affiliations": "PhD Program in Clinical Medicine and Public Health, University of Granada, Granada, Spain. | Anaesthesiology and Reanimation Service, Hospital Universitario Clínico San Cecilio, Granada, Spain. | Neurology Service, Hospital Universitario de Jaén, Jaén, Spain. | PhD Program in Clinical Medicine and Public Health, University of Granada, Granada, Spain; Neurology Service, Hospital Universitario Clínico San Cecilio, Granada, Spain; Department of Medicine, School of Medicine, University of Granada and Instituto de Investigación Biosanitaria ibs.GRANADA, Granada, Spain. | PhD Program in Clinical Medicine and Public Health, University of Granada, Granada Spain; Department of Microbiology, School of Medicine, University of Granada and Instituto de Investigación Biosanitaria ibs.GRANADA, Granada, Spain.",
     "extra": {
       "pmid": "41841779",
-      "cited_by": 0,
+      "cited_by": 1,
       "open_access": false,
       "preprint_server": ""
     },
